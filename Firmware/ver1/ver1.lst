@@ -1,7 +1,7 @@
 
 
 HI-TECH Software PIC LITE Macro Assembler V9.83 build 10920 
-                                                                                               Sun Feb 21 17:37:29 2016
+                                                                                               Tue Feb 23 22:17:31 2016
 
 HI-TECH Software Omniscient Code Generator (Lite mode) build 10920
      1  0000                     opt subtitle "HI-TECH Software Omniscient Code Generator (Lite mode) build 10920"
@@ -8938,7 +8938,7 @@ HI-TECH Software Omniscient Code Generator (Lite mode) build 10920
 
 
 HI-TECH Software PICC Macro Assembler V9.83 build 10920 
-Symbol Table                                                                                   Sun Feb 21 17:37:29 2016
+Symbol Table                                                                                   Tue Feb 23 22:17:31 2016
 
                        _i 006A                         _j 005D                         _v 0063  
                        _w 0064                         _x 0066                         _y 0067  
