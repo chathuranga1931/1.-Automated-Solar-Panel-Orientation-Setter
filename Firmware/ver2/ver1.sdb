@@ -455,11 +455,11 @@
 `uc 1 EEPGD 1 0 :1:7 
 ]
 [u S1215 . 1 `S1208 1 . 1 0 ]
-"5 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\interrupts.h
-[v F1209 `(v  1 t 0 ]
+"5 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\interrupts.h
+[v F1212 `(v  1 t 0 ]
 "528 C:\Program Files (x86)\HI-TECH Software\PICC\9.83\lib\doprnt.c
-[s S1378 . 4 `*DCuc 1 _cp 2 0 `ui 1 _len 2 2 ]
-[u S1381 . 4 `ui 1 _val 2 0 `S1378 1 _str 4 0 ]
+[s S1401 . 4 `*DCuc 1 _cp 2 0 `ui 1 _len 2 2 ]
+[u S1404 . 4 `ui 1 _val 2 0 `S1401 1 _str 4 0 ]
 "461
 [v _printf `(i  1 e 2 0 ]
 "5 C:\Program Files (x86)\HI-TECH Software\PICC\9.83\sources\abdiv.c
@@ -538,33 +538,39 @@
 [v ___tmul `(um  1 e 3 0 ]
 "3 C:\Program Files (x86)\HI-TECH Software\PICC\9.83\sources\wmul.c
 [v ___wmul `(ui  1 e 2 0 ]
-"9 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\a2d.h
+"9 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\a2d.h
 [v _atod_init `(v  1 e 0 0 ]
 "14
 [v _read_a2d_value `(ui  1 e 2 0 ]
-"62 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"75 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _main `(v  1 e 0 0 ]
-"144
+"167
+[v _CheckKeyPad `(uc  1 e 1 0 ]
+"204
+[v _ColomnNo `(i  1 e 2 0 ]
+"296
+[v _RowNo `(i  1 e 2 0 ]
+"317
 [v _Rotation `(v  1 e 0 0 ]
-"155
+"328
 [v _RotateMotorLeft `(v  1 e 0 0 ]
-"162
+"335
 [v _RotateMotorRight `(v  1 e 0 0 ]
-"169
+"342
 [v _a2d_read `(v  1 e 0 0 ]
-"174
+"347
 [v _calculate `(v  1 e 0 0 ]
-"190
+"363
 [v _isr `I(v  1 e 0 0 ]
-"256
+"429
 [v _check_pc `(v  1 e 0 0 ]
-"308
+"481
 [v _bdnu_unid `(v  1 e 0 0 ]
-"333
+"506
 [v _ClrBuffer `(v  1 e 0 0 ]
-"7 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\interrupts.h
+"7 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\interrupts.h
 [v _enableInterrupt `(v  1 e 0 0 ]
-"60 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"60 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _lcd_init `(v  1 e 0 0 ]
 [v i1_lcd_init `(v  1 e 0 0 ]
 [v i1_lcd_init `(v  1 e 0 0 ]
@@ -588,17 +594,19 @@
 [v i1_lcd_add `(v  1 e 0 0 ]
 "261
 [v _pulseEnable `(v  1 e 0 0 ]
-"5 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\serial.h
+"7 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\serial.h
 [v _Serial_Init `(v  1 e 0 0 ]
-"22
+"24
 [v _Serial_Print `(b  1 e 0 0 ]
-"32
+"34
+[v _Serial_Println `(b  1 e 0 0 ]
+"46
 [v _Serial_PrintlnVal `(b  1 e 0 0 ]
-"55
+"69
 [v _Serial_NewLine `(v  1 e 0 0 ]
-"50 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\setup.h
+"50 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\setup.h
 [v _Setup_IOports `(v  1 e 0 0 ]
-"4 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\timer1.h
+"4 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\timer1.h
 [v _Timer1_Init `(v  1 e 0 0 ]
 "7 eeprom.c
 [v _eecpymem `(v  1 e 0 0 ]
@@ -1316,48 +1324,48 @@
 [v _hexpowers `DC[4]ui  1 s 8 hexpowers ]
 "365
 [v _octpowers `DC[6]ui  1 s 12 octpowers ]
-"18 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"28 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _v `uc  1 e 1 0 ]
 [v _y `uc  1 e 1 0 ]
 [v _z `uc  1 e 1 0 ]
 [v _w `uc  1 e 1 0 ]
-"19
+"29
 [v _x `uc  1 e 1 0 ]
 [v _bed_nu `uc  1 e 1 0 ]
-"20
+"30
 [v _i `uc  1 e 1 0 ]
-"23
+"33
 [v _HeartRate `ui  1 e 2 0 ]
-"24
+"34
 [v _heartRate `ui  1 e 2 0 ]
-"25
+"35
 [v _HeartRateCount `ui  1 e 2 0 ]
-"26
+"36
 [v _temperature `um  1 e 3 0 ]
-"27
+"37
 [v _analogReadVal `ui  1 e 2 0 ]
-"29
+"39
 [v _ldr1 `ui  1 e 2 0 ]
 [v _ldr2 `ui  1 e 2 0 ]
-"32
+"42
 [v _msecond `ui  1 e 2 0 ]
-"33
+"43
 [v _second `ui  1 e 2 0 ]
-"34
-[v _minute `ui  1 e 2 0 ]
-"35
-[v _hour `ui  1 e 2 0 ]
-"36
-[v _j `uc  1 e 1 0 ]
 "44
-[v _buffer `[20]uc  1 e 20 0 ]
+[v _minute `ui  1 e 2 0 ]
 "45
-[v _rc `[9]uc  1 e 9 0 ]
+[v _hour `ui  1 e 2 0 ]
 "46
+[v _j `uc  1 e 1 0 ]
+"54
+[v _buffer `[20]uc  1 e 20 0 ]
+"55
+[v _rc `[9]uc  1 e 9 0 ]
+"56
 [v _wtmp `uc  1 e 1 0 ]
-"48
+"58
 [v _state `uc  1 e 1 0 ]
-"42 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"42 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _lcd_data `uc  1 e 1 0 ]
 "43
 [v _lcd_data_high `uc  1 e 1 0 ]
@@ -1374,19 +1382,21 @@
 [v _bit5 `b  1 e 0 0 ]
 [v _bit6 `b  1 e 0 0 ]
 [v _bit7 `b  1 e 0 0 ]
-"46 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\setup.h
+"46 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\setup.h
 [v _nop `b  1 e 0 0 ]
-"62 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"75 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _main `(v  1 e 0 0 ]
 {
-"142
+"77
+[v main@pressedKey `uc  1 a 1 38 ]
+"165
 } 0
 "461 C:\Program Files (x86)\HI-TECH Software\PICC\9.83\sources\doprnt.c
 [v _printf `(i  1 e 2 0 ]
 {
 [v printf@f `*.cDCuc  1 a 1 wreg ]
 "528
-[v printf@_val `S1381  1 a 3 29 ]
+[v printf@_val `S1404  1 a 3 29 ]
 "503
 [v printf@flag `us  1 a 2 33 ]
 "496
@@ -1401,7 +1411,18 @@
 [v printf@f `*.cDCuc  1 a 1 wreg ]
 "1533
 } 0
-"201 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"167 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
+[v _CheckKeyPad `(uc  1 e 1 0 ]
+{
+"171
+[v CheckKeyPad@rowNo `i  1 a 2 8 ]
+"170
+[v CheckKeyPad@colomnNo `i  1 a 2 6 ]
+"169
+[v CheckKeyPad@charactor `uc  1 a 1 5 ]
+"202
+} 0
+"201 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _position `(v  1 e 0 0 ]
 {
 [v position@row `uc  1 a 1 wreg ]
@@ -1424,24 +1445,18 @@
 [v putch@print_value `uc  1 a 1 wreg ]
 "172
 } 0
-"308 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
-[v _bdnu_unid `(v  1 e 0 0 ]
+"204 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
+[v _ColomnNo `(i  1 e 2 0 ]
 {
-"331
+[v ColomnNo@rowNo `i  1 p 2 0 ]
+"294
 } 0
-"22 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\serial.h
-[v _Serial_Print `(b  1 e 0 0 ]
-{
-[v Serial_Print@a `*.cuc  1 a 1 wreg ]
-[v Serial_Print@a `*.cuc  1 a 1 wreg ]
-"30
-} 0
-"5
+"7 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\serial.h
 [v _Serial_Init `(v  1 e 0 0 ]
 {
-"20
+"22
 } 0
-"217 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"217 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _lcd_add `(v  1 e 0 0 ]
 {
 "260
@@ -1496,39 +1511,46 @@
 [v isdigit@c `uc  1 a 1 wreg ]
 "15
 } 0
-"4 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\timer1.h
+"296 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
+[v _RowNo `(i  1 e 2 0 ]
+{
+"297
+[v RowNo@row `i  1 a 2 2 ]
+"314
+} 0
+"4 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\timer1.h
 [v _Timer1_Init `(v  1 e 0 0 ]
 {
 "14
 } 0
-"7 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\interrupts.h
+"7 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\interrupts.h
 [v _enableInterrupt `(v  1 e 0 0 ]
 {
 "32
 } 0
-"9 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\a2d.h
+"9 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\a2d.h
 [v _atod_init `(v  1 e 0 0 ]
 {
 "12
 } 0
-"60 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"60 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _lcd_init `(v  1 e 0 0 ]
 {
 "64
 [v lcd_init@DelayLCD `ui  1 a 2 0 ]
 "146
 } 0
-"50 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\setup.h
+"50 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\setup.h
 [v _Setup_IOports `(v  1 e 0 0 ]
 {
 "66
 } 0
-"190 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"363 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _isr `I(v  1 e 0 0 ]
 {
-"254
+"427
 } 0
-"176 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"176 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v i1_clr_display `(v  1 e 0 0 ]
 {
 "183
@@ -1546,7 +1568,7 @@
 [v i1___lwmod@dividend `ui  1 p 2 2 ]
 "21
 } 0
-"60 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"60 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v i1_lcd_init `(v  1 e 0 0 ]
 {
 [v i1lcd_init@DelayLCD `ui  1 a 2 0 ]

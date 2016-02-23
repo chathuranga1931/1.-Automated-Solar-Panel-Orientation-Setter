@@ -881,95 +881,101 @@ Version 3.2 HI-TECH Software Intermediate Code
 [v _EECON1bits `VS99  1 e@396 ]
 "1167 C:\Program Files (x86)\HI-TECH Software\PICC\9.83\include\pic16f877a.h
 [v _EECON2 `Vuc  1 e@397 ]
-"46 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\setup.h
+"46 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\setup.h
 [v _nop `b  1 e ]
-"42 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"42 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _lcd_data `uc  1 e ]
-"43 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"43 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _lcd_data_high `uc  1 e ]
-"44 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"44 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _lcd_data_low `uc  1 e ]
-"45 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"45 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _lcd_bus `uc  1 e ]
-"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _bit0 `b  1 e ]
-"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _bit1 `b  1 e ]
-"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _bit2 `b  1 e ]
-"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _bit3 `b  1 e ]
-"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _bit4 `b  1 e ]
-"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _bit5 `b  1 e ]
-"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _bit6 `b  1 e ]
-"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"47 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _bit7 `b  1 e ]
 "154 C:\Program Files (x86)\HI-TECH Software\PICC\9.83\include\pic.h
 [v __delay `(v  0 ef1`ul ]
 [p i __delay ]
-"57 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"57 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _pulseEnable `(v  0 ef ]
-"50 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"50 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _lcd_add `(v  0 ef ]
-"18 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"5 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\serial.h
+[v _Serial_NewLine `(v  0 ef ]
+"28 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _v `uc  1 e ]
-"18 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"28 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _y `uc  1 e ]
-"18 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"28 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _z `uc  1 e ]
-"18 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"28 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _w `uc  1 e ]
-"19 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"29 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _x `uc  1 e ]
-"19 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"29 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _bed_nu `uc  1 e ]
-"20 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"30 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _i `uc  1 e ]
-"23 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"33 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _HeartRate `ui  1 e ]
-"24 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"34 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _heartRate `ui  1 e ]
-"25 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"35 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _HeartRateCount `ui  1 e ]
-"26 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"36 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _temperature `um  1 e ]
-"27 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"37 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _analogReadVal `ui  1 e ]
-"29 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"39 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _ldr1 `ui  1 e ]
-"29 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"39 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _ldr2 `ui  1 e ]
-"32 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"42 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _msecond `ui  1 e ]
-"33 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"43 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _second `ui  1 e ]
-"34 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"44 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _minute `ui  1 e ]
-"35 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"45 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _hour `ui  1 e ]
-"36 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"46 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _j `uc  1 e ]
-"44 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"54 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _buffer `uc  -> 20 `i e ]
-"45 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"55 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _rc `uc  -> 9 `i e ]
-"46 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"56 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _wtmp `uc  1 e ]
-"48 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"58 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _state `uc  1 e ]
 [p mainexit ]
 "207 C:\Program Files (x86)\HI-TECH Software\PICC\9.83\include\stdio.h
 [v _printf `(i  0 ev`*Cuc ]
-"43 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
-[v _bdnu_unid `(v  0 ef ]
-"60 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"72 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
+[v _CheckKeyPad `(uc  0 ef ]
+"73 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
+[v _RowNo `(i  0 ef ]
+"74 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
+[v _ColomnNo `(i  0 ef1`i ]
+"70 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _RotateMotorLeft `(v  0 ef1`i ]
-"59 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"69 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _RotateMotorRight `(v  0 ef1`i ]
-"57 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+"67 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [v _ClrBuffer `(v  0 ef ]
 [p f _printf 15435181 ]
 [; ;pic16f877a.h: 82: volatile unsigned char INDF @ 0x000;
@@ -1805,7 +1811,7 @@ Version 3.2 HI-TECH Software Intermediate Code
 [; ;pic.h: 154: extern void _delay(unsigned long);
 [; ;setup.h: 46: bit nop;
 [; ;setup.h: 48: void Setup_IOports();
-"50 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\setup.h
+"50 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\setup.h
 [v _Setup_IOports `(v  1 ef ]
 {
 [; ;setup.h: 50: void Setup_IOports(){
@@ -1829,9 +1835,9 @@ Version 3.2 HI-TECH Software Intermediate Code
 [; ;setup.h: 59: PORTC = 0b00000000;
 "59
 [e = _PORTC -> -> 0 `i `uc ]
-[; ;setup.h: 61: TRISD = 0b00001100;
+[; ;setup.h: 61: TRISD = 0b11001100;
 "61
-[e = _TRISD -> -> 12 `i `uc ]
+[e = _TRISD -> -> 204 `i `uc ]
 [; ;setup.h: 62: PORTD = 0b00000000;
 "62
 [e = _PORTD -> -> 0 `i `uc ]
@@ -1892,7 +1898,7 @@ Version 3.2 HI-TECH Software Intermediate Code
 [; ;lcdV2.h: 55: void enable4bitMode();
 [; ;lcdV2.h: 56: void enable8bitMode();
 [; ;lcdV2.h: 57: void pulseEnable();
-"60 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\lcdV2.h
+"60 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\lcdV2.h
 [v _lcd_init `(v  1 ef ]
 {
 [; ;lcdV2.h: 59: void lcd_init()
@@ -2507,7 +2513,7 @@ Version 3.2 HI-TECH Software Intermediate Code
 }
 [; ;a2d.h: 5: unsigned int read_a2d_value( char channel );
 [; ;a2d.h: 6: void atod_init();
-"9 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\a2d.h
+"9 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\a2d.h
 [v _atod_init `(v  1 ef ]
 {
 [; ;a2d.h: 8: void atod_init()
@@ -2585,115 +2591,109 @@ Version 3.2 HI-TECH Software Intermediate Code
 }
 [; ;serial.h: 2: void Serial_Init();
 [; ;serial.h: 3: bit Serial_Print( char *a );
-"5 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\serial.h
+[; ;serial.h: 4: bit Serial_Println( char *a );
+[; ;serial.h: 5: void Serial_NewLine();
+"7 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\serial.h
 [v _Serial_Init `(v  1 ef ]
 {
-[; ;serial.h: 5: void Serial_Init(){
+[; ;serial.h: 7: void Serial_Init(){
 [e :U _Serial_Init ]
 [f ]
-[; ;serial.h: 8: SPEN = 1;
-"8
-[e = _SPEN -> -> 1 `i `b ]
-[; ;serial.h: 9: RX9 = 0;
-"9
-[e = _RX9 -> -> 0 `i `b ]
-[; ;serial.h: 10: CREN = 1;
+[; ;serial.h: 10: SPEN = 1;
 "10
-[e = _CREN -> -> 1 `i `b ]
-[; ;serial.h: 11: TX9 = 0;
+[e = _SPEN -> -> 1 `i `b ]
+[; ;serial.h: 11: RX9 = 0;
 "11
-[e = _TX9 -> -> 0 `i `b ]
-[; ;serial.h: 12: TXEN = 1;
+[e = _RX9 -> -> 0 `i `b ]
+[; ;serial.h: 12: CREN = 1;
 "12
-[e = _TXEN -> -> 1 `i `b ]
-[; ;serial.h: 13: SYNC = 0;
+[e = _CREN -> -> 1 `i `b ]
+[; ;serial.h: 13: TX9 = 0;
 "13
-[e = _SYNC -> -> 0 `i `b ]
-[; ;serial.h: 14: BRGH = 1;
+[e = _TX9 -> -> 0 `i `b ]
+[; ;serial.h: 14: TXEN = 1;
 "14
-[e = _BRGH -> -> 1 `i `b ]
-[; ;serial.h: 15: SPBRG = 129;
+[e = _TXEN -> -> 1 `i `b ]
+[; ;serial.h: 15: SYNC = 0;
 "15
-[e = _SPBRG -> -> 129 `i `uc ]
-[; ;serial.h: 16: RCIE = 1;
+[e = _SYNC -> -> 0 `i `b ]
+[; ;serial.h: 16: BRGH = 1;
 "16
-[e = _RCIE -> -> 1 `i `b ]
-[; ;serial.h: 17: TXIE = 0;
+[e = _BRGH -> -> 1 `i `b ]
+[; ;serial.h: 17: SPBRG = 129;
 "17
-[e = _TXIE -> -> 0 `i `b ]
-[; ;serial.h: 18: ADDEN = 0;
+[e = _SPBRG -> -> 129 `i `uc ]
+[; ;serial.h: 18: RCIE = 1;
 "18
-[e = _ADDEN -> -> 0 `i `b ]
-[; ;serial.h: 19: _delay((unsigned long)((500)*(4000000/4000.0)));
+[e = _RCIE -> -> 1 `i `b ]
+[; ;serial.h: 19: TXIE = 0;
 "19
-[e ( __delay (1 -> * -> -> 500 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
-[; ;serial.h: 20: }
+[e = _TXIE -> -> 0 `i `b ]
+[; ;serial.h: 20: ADDEN = 0;
 "20
+[e = _ADDEN -> -> 0 `i `b ]
+[; ;serial.h: 21: _delay((unsigned long)((500)*(4000000/4000.0)));
+"21
+[e ( __delay (1 -> * -> -> 500 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;serial.h: 22: }
+"22
 [e :UE 136 ]
 }
-"22
+"24
 [v _Serial_Print `(b  1 ef1`*uc ]
 {
-[; ;serial.h: 22: bit Serial_Print( char *a){
+[; ;serial.h: 24: bit Serial_Print( char *a){
 [e :U _Serial_Print ]
 [v _a `*uc  1 r1 ]
 [f ]
-[; ;serial.h: 23: while( *a!='\0'){
-"23
+[; ;serial.h: 25: while( *a!='\0'){
+"25
 [e $U 138  ]
 [e :U 139 ]
 {
-[; ;serial.h: 24: while(!TXIF);
-"24
+[; ;serial.h: 26: while(!TXIF);
+"26
 [e $U 141  ]
 [e :U 142 ]
 [e :U 141 ]
 [e $ ! _TXIF 142  ]
 [e :U 143 ]
-[; ;serial.h: 25: TXREG = *a;
-"25
-[e = _TXREG *U _a ]
-[; ;serial.h: 26: _delay(10);
-"26
-[e ( __delay (1 -> -> -> 10 `i `l `ul ]
-[; ;serial.h: 27: a = a+1;
+[; ;serial.h: 27: TXREG = *a;
 "27
-[e = _a + _a * -> -> 1 `i `x -> -> # *U _a `i `x ]
+[e = _TXREG *U _a ]
+[; ;serial.h: 28: _delay(10);
 "28
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serial.h: 29: a = a+1;
+"29
+[e = _a + _a * -> -> 1 `i `x -> -> # *U _a `i `x ]
+"30
 }
 [e :U 138 ]
-"23
+"25
 [e $ != -> *U _a `ui -> 0 `ui 139  ]
 [e :U 140 ]
-[; ;serial.h: 28: }
-[; ;serial.h: 29: return 1;
-"29
+[; ;serial.h: 30: }
+[; ;serial.h: 31: return 1;
+"31
 [e ) -> -> 1 `i `b ]
 [e $UE 137  ]
-[; ;serial.h: 30: }
-"30
+[; ;serial.h: 32: }
+"32
 [e :UE 137 ]
 }
-"32
-[v _Serial_PrintlnVal `(b  1 ef1`ui ]
+"34
+[v _Serial_Println `(b  1 ef1`*uc ]
 {
-[; ;serial.h: 32: bit Serial_PrintlnVal(unsigned int val){
-[e :U _Serial_PrintlnVal ]
-[v _val `ui  1 r1 ]
+[; ;serial.h: 34: bit Serial_Println( char *a){
+[e :U _Serial_Println ]
+[v _a `*uc  1 r1 ]
 [f ]
-[; ;serial.h: 33: while(!TXIF);
-"33
+[; ;serial.h: 35: while( *a!='\0'){
+"35
 [e $U 145  ]
 [e :U 146 ]
-[e :U 145 ]
-[e $ ! _TXIF 146  ]
-[e :U 147 ]
-[; ;serial.h: 34: TXREG = val/1000;
-"34
-[e = _TXREG -> / _val -> -> 1000 `i `ui `uc ]
-[; ;serial.h: 35: _delay(10);
-"35
-[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+{
 [; ;serial.h: 36: while(!TXIF);
 "36
 [e $U 148  ]
@@ -2701,113 +2701,167 @@ Version 3.2 HI-TECH Software Intermediate Code
 [e :U 148 ]
 [e $ ! _TXIF 149  ]
 [e :U 150 ]
-[; ;serial.h: 37: TXREG = val%1000/100;
+[; ;serial.h: 37: TXREG = *a;
 "37
-[e = _TXREG -> / % _val -> -> 1000 `i `ui -> -> 100 `i `ui `uc ]
+[e = _TXREG *U _a ]
 [; ;serial.h: 38: _delay(10);
 "38
 [e ( __delay (1 -> -> -> 10 `i `l `ul ]
-[; ;serial.h: 39: while(!TXIF);
+[; ;serial.h: 39: a = a+1;
 "39
-[e $U 151  ]
-[e :U 152 ]
-[e :U 151 ]
-[e $ ! _TXIF 152  ]
-[e :U 153 ]
-[; ;serial.h: 40: TXREG = val%1000%100/10;
+[e = _a + _a * -> -> 1 `i `x -> -> # *U _a `i `x ]
 "40
-[e = _TXREG -> / % % _val -> -> 1000 `i `ui -> -> 100 `i `ui -> -> 10 `i `ui `uc ]
-[; ;serial.h: 41: _delay(10);
+}
+[e :U 145 ]
+"35
+[e $ != -> *U _a `ui -> 0 `ui 146  ]
+[e :U 147 ]
+[; ;serial.h: 40: }
+[; ;serial.h: 41: Serial_NewLine();
 "41
-[e ( __delay (1 -> -> -> 10 `i `l `ul ]
-[; ;serial.h: 42: while(!TXIF);
+[e ( _Serial_NewLine ..  ]
+[; ;serial.h: 42: return 1;
 "42
-[e $U 154  ]
-[e :U 155 ]
-[e :U 154 ]
-[e $ ! _TXIF 155  ]
-[e :U 156 ]
-[; ;serial.h: 43: TXREG = val%1000%100%10;
-"43
-[e = _TXREG -> % % % _val -> -> 1000 `i `ui -> -> 100 `i `ui -> -> 10 `i `ui `uc ]
-[; ;serial.h: 44: _delay(10);
-"44
-[e ( __delay (1 -> -> -> 10 `i `l `ul ]
-[; ;serial.h: 45: while(!TXIF);
-"45
-[e $U 157  ]
-[e :U 158 ]
-[e :U 157 ]
-[e $ ! _TXIF 158  ]
-[e :U 159 ]
-[; ;serial.h: 46: TXREG = 13;
-"46
-[e = _TXREG -> -> 13 `i `uc ]
-[; ;serial.h: 47: _delay(10);
-"47
-[e ( __delay (1 -> -> -> 10 `i `l `ul ]
-[; ;serial.h: 48: while(!TXIF);
-"48
-[e $U 160  ]
-[e :U 161 ]
-[e :U 160 ]
-[e $ ! _TXIF 161  ]
-[e :U 162 ]
-[; ;serial.h: 49: TXREG = 10;
-"49
-[e = _TXREG -> -> 10 `i `uc ]
-[; ;serial.h: 50: _delay(10);
-"50
-[e ( __delay (1 -> -> -> 10 `i `l `ul ]
-[; ;serial.h: 51: return 1;
-"51
 [e ) -> -> 1 `i `b ]
 [e $UE 144  ]
-[; ;serial.h: 52: }
-"52
+[; ;serial.h: 43: }
+"43
 [e :UE 144 ]
 }
-"55
-[v _Serial_NewLine `(v  1 ef ]
+"46
+[v _Serial_PrintlnVal `(b  1 ef1`ui ]
 {
-[; ;serial.h: 55: void Serial_NewLine(){
-[e :U _Serial_NewLine ]
+[; ;serial.h: 46: bit Serial_PrintlnVal(unsigned int val){
+[e :U _Serial_PrintlnVal ]
+[v _val `ui  1 r1 ]
 [f ]
+[; ;serial.h: 47: while(!TXIF);
+"47
+[e $U 152  ]
+[e :U 153 ]
+[e :U 152 ]
+[e $ ! _TXIF 153  ]
+[e :U 154 ]
+[; ;serial.h: 48: TXREG = val/1000;
+"48
+[e = _TXREG -> / _val -> -> 1000 `i `ui `uc ]
+[; ;serial.h: 49: _delay(10);
+"49
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serial.h: 50: while(!TXIF);
+"50
+[e $U 155  ]
+[e :U 156 ]
+[e :U 155 ]
+[e $ ! _TXIF 156  ]
+[e :U 157 ]
+[; ;serial.h: 51: TXREG = val%1000/100;
+"51
+[e = _TXREG -> / % _val -> -> 1000 `i `ui -> -> 100 `i `ui `uc ]
+[; ;serial.h: 52: _delay(10);
+"52
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serial.h: 53: while(!TXIF);
+"53
+[e $U 158  ]
+[e :U 159 ]
+[e :U 158 ]
+[e $ ! _TXIF 159  ]
+[e :U 160 ]
+[; ;serial.h: 54: TXREG = val%1000%100/10;
+"54
+[e = _TXREG -> / % % _val -> -> 1000 `i `ui -> -> 100 `i `ui -> -> 10 `i `ui `uc ]
+[; ;serial.h: 55: _delay(10);
+"55
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
 [; ;serial.h: 56: while(!TXIF);
 "56
+[e $U 161  ]
+[e :U 162 ]
+[e :U 161 ]
+[e $ ! _TXIF 162  ]
+[e :U 163 ]
+[; ;serial.h: 57: TXREG = val%1000%100%10;
+"57
+[e = _TXREG -> % % % _val -> -> 1000 `i `ui -> -> 100 `i `ui -> -> 10 `i `ui `uc ]
+[; ;serial.h: 58: _delay(10);
+"58
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serial.h: 59: while(!TXIF);
+"59
 [e $U 164  ]
 [e :U 165 ]
 [e :U 164 ]
 [e $ ! _TXIF 165  ]
 [e :U 166 ]
-[; ;serial.h: 57: TXREG = 13;
-"57
+[; ;serial.h: 60: TXREG = 13;
+"60
 [e = _TXREG -> -> 13 `i `uc ]
-[; ;serial.h: 58: _delay((unsigned long)((1)*(4000000/4000.0)));
-"58
-[e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
-[; ;serial.h: 59: while(!TXIF);
-"59
+[; ;serial.h: 61: _delay(10);
+"61
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serial.h: 62: while(!TXIF);
+"62
 [e $U 167  ]
 [e :U 168 ]
 [e :U 167 ]
 [e $ ! _TXIF 168  ]
 [e :U 169 ]
-[; ;serial.h: 60: TXREG = 10;
-"60
+[; ;serial.h: 63: TXREG = 10;
+"63
 [e = _TXREG -> -> 10 `i `uc ]
-[; ;serial.h: 61: _delay((unsigned long)((1)*(4000000/4000.0)));
-"61
+[; ;serial.h: 64: _delay(10);
+"64
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serial.h: 65: return 1;
+"65
+[e ) -> -> 1 `i `b ]
+[e $UE 151  ]
+[; ;serial.h: 66: }
+"66
+[e :UE 151 ]
+}
+"69
+[v _Serial_NewLine `(v  1 ef ]
+{
+[; ;serial.h: 69: void Serial_NewLine(){
+[e :U _Serial_NewLine ]
+[f ]
+[; ;serial.h: 70: while(!TXIF);
+"70
+[e $U 171  ]
+[e :U 172 ]
+[e :U 171 ]
+[e $ ! _TXIF 172  ]
+[e :U 173 ]
+[; ;serial.h: 71: TXREG = 13;
+"71
+[e = _TXREG -> -> 13 `i `uc ]
+[; ;serial.h: 72: _delay((unsigned long)((1)*(4000000/4000.0)));
+"72
 [e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
-[; ;serial.h: 62: }
-"62
-[e :UE 163 ]
+[; ;serial.h: 73: while(!TXIF);
+"73
+[e $U 174  ]
+[e :U 175 ]
+[e :U 174 ]
+[e $ ! _TXIF 175  ]
+[e :U 176 ]
+[; ;serial.h: 74: TXREG = 10;
+"74
+[e = _TXREG -> -> 10 `i `uc ]
+[; ;serial.h: 75: _delay((unsigned long)((1)*(4000000/4000.0)));
+"75
+[e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;serial.h: 76: }
+"76
+[e :UE 170 ]
 }
 [; ;interrupts.h: 2: void interruptTimer1();
 [; ;interrupts.h: 3: void enableInterrupt();
 [; ;interrupts.h: 4: void interruptSPI();
 [; ;interrupts.h: 5: void interrupt isr();
-"7 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\interrupts.h
+"7 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\interrupts.h
 [v _enableInterrupt `(v  1 ef ]
 {
 [; ;interrupts.h: 7: void enableInterrupt(){
@@ -2863,10 +2917,10 @@ Version 3.2 HI-TECH Software Intermediate Code
 [e = _PEIE -> -> 1 `i `b ]
 [; ;interrupts.h: 32: }
 "32
-[e :UE 170 ]
+[e :UE 177 ]
 }
 [; ;timer1.h: 2: void Timer1_Init();
-"4 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\timer1.h
+"4 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\timer1.h
 [v _Timer1_Init `(v  1 ef ]
 {
 [; ;timer1.h: 4: void Timer1_Init(){
@@ -2898,799 +2952,1449 @@ Version 3.2 HI-TECH Software Intermediate Code
 [e = _TMR1IE -> -> 1 `i `b ]
 [; ;timer1.h: 14: }
 "14
-[e :UE 171 ]
+[e :UE 178 ]
 }
-[; ;Automated Solar Panel Orientation Setter.c: 18: unsigned char v,y,z,w;
-"19 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
+[; ;Automated Solar Panel Orientation Setter.c: 28: unsigned char v,y,z,w;
+"29 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
 [i _bed_nu
 -> -> 1 `i `uc
 ]
-[; ;Automated Solar Panel Orientation Setter.c: 19: unsigned char x,bed_nu = 1;
-"20
+[; ;Automated Solar Panel Orientation Setter.c: 29: unsigned char x,bed_nu = 1;
+"30
 [i _i
 -> -> 1 `i `uc
 ]
-[; ;Automated Solar Panel Orientation Setter.c: 20: unsigned char i = 1;
-[; ;Automated Solar Panel Orientation Setter.c: 23: unsigned int HeartRate;
-[; ;Automated Solar Panel Orientation Setter.c: 24: unsigned int heartRate;
-[; ;Automated Solar Panel Orientation Setter.c: 25: unsigned int HeartRateCount;
-[; ;Automated Solar Panel Orientation Setter.c: 26: unsigned short long temperature;
-[; ;Automated Solar Panel Orientation Setter.c: 27: unsigned int analogReadVal;
-[; ;Automated Solar Panel Orientation Setter.c: 28: void a2d_read();
-[; ;Automated Solar Panel Orientation Setter.c: 29: unsigned int ldr1,ldr2;
-[; ;Automated Solar Panel Orientation Setter.c: 32: unsigned int msecond;
-[; ;Automated Solar Panel Orientation Setter.c: 33: unsigned int second;
-[; ;Automated Solar Panel Orientation Setter.c: 34: unsigned int minute;
-[; ;Automated Solar Panel Orientation Setter.c: 35: unsigned int hour;
-[; ;Automated Solar Panel Orientation Setter.c: 36: unsigned char j;
-[; ;Automated Solar Panel Orientation Setter.c: 43: void bdnu_unid();
-[; ;Automated Solar Panel Orientation Setter.c: 44: char buffer[20];
-[; ;Automated Solar Panel Orientation Setter.c: 45: unsigned char rc[9];
-[; ;Automated Solar Panel Orientation Setter.c: 46: unsigned char wtmp;
-"48
+[; ;Automated Solar Panel Orientation Setter.c: 30: unsigned char i = 1;
+[; ;Automated Solar Panel Orientation Setter.c: 33: unsigned int HeartRate;
+[; ;Automated Solar Panel Orientation Setter.c: 34: unsigned int heartRate;
+[; ;Automated Solar Panel Orientation Setter.c: 35: unsigned int HeartRateCount;
+[; ;Automated Solar Panel Orientation Setter.c: 36: unsigned short long temperature;
+[; ;Automated Solar Panel Orientation Setter.c: 37: unsigned int analogReadVal;
+[; ;Automated Solar Panel Orientation Setter.c: 38: void a2d_read();
+[; ;Automated Solar Panel Orientation Setter.c: 39: unsigned int ldr1,ldr2;
+[; ;Automated Solar Panel Orientation Setter.c: 42: unsigned int msecond;
+[; ;Automated Solar Panel Orientation Setter.c: 43: unsigned int second;
+[; ;Automated Solar Panel Orientation Setter.c: 44: unsigned int minute;
+[; ;Automated Solar Panel Orientation Setter.c: 45: unsigned int hour;
+[; ;Automated Solar Panel Orientation Setter.c: 46: unsigned char j;
+[; ;Automated Solar Panel Orientation Setter.c: 53: void bdnu_unid();
+[; ;Automated Solar Panel Orientation Setter.c: 54: char buffer[20];
+[; ;Automated Solar Panel Orientation Setter.c: 55: unsigned char rc[9];
+[; ;Automated Solar Panel Orientation Setter.c: 56: unsigned char wtmp;
+"58
 [i _state
 -> -> 0 `i `uc
 ]
-[; ;Automated Solar Panel Orientation Setter.c: 48: unsigned char state=0;
-[; ;Automated Solar Panel Orientation Setter.c: 56: void check_pc();
-[; ;Automated Solar Panel Orientation Setter.c: 57: void ClrBuffer();
-[; ;Automated Solar Panel Orientation Setter.c: 59: void RotateMotorRight(int value);
-[; ;Automated Solar Panel Orientation Setter.c: 60: void RotateMotorLeft(int value);
-"62
+[; ;Automated Solar Panel Orientation Setter.c: 58: unsigned char state=0;
+[; ;Automated Solar Panel Orientation Setter.c: 66: void check_pc();
+[; ;Automated Solar Panel Orientation Setter.c: 67: void ClrBuffer();
+[; ;Automated Solar Panel Orientation Setter.c: 69: void RotateMotorRight(int value);
+[; ;Automated Solar Panel Orientation Setter.c: 70: void RotateMotorLeft(int value);
+[; ;Automated Solar Panel Orientation Setter.c: 72: char CheckKeyPad();
+[; ;Automated Solar Panel Orientation Setter.c: 73: int RowNo();
+[; ;Automated Solar Panel Orientation Setter.c: 74: int ColomnNo(int rowNo);
+"75
 [v _main `(v  1 ef ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 62: void main(){
+[; ;Automated Solar Panel Orientation Setter.c: 75: void main(){
 [e :U _main ]
 [f ]
-[; ;Automated Solar Panel Orientation Setter.c: 63: Setup_IOports();
-"63
-[e ( _Setup_IOports ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 66: atod_init();
-"66
-[e ( _atod_init ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 70: lcd_init();
-"70
-[e ( _lcd_init ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 71: clr_display();
-"71
-[e ( _clr_display ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 73: Serial_Init();
-"73
-[e ( _Serial_Init ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 74: Timer1_Init();
-"74
-[e ( _Timer1_Init ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 75: enableInterrupt();
-"75
-[e ( _enableInterrupt ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 79: lcd_init();
+"77
+[v _pressedKey `uc  1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 77: char pressedKey;
+[; ;Automated Solar Panel Orientation Setter.c: 79: Setup_IOports();
 "79
-[e ( _lcd_init ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 80: clr_display();
-"80
-[e ( _clr_display ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 82: printf("Body Temperature ");
+[e ( _Setup_IOports ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 82: atod_init();
 "82
-[e ( _printf :s 1C ]
-[; ;Automated Solar Panel Orientation Setter.c: 83: position(2,1);
-"83
-[e ( _position (2 , -> -> 2 `i `uc -> -> 1 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 84: printf(" and Heart Rate  ");
-"84
-[e ( _printf :s 2C ]
-[; ;Automated Solar Panel Orientation Setter.c: 85: _delay((unsigned long)((1000)*(4000000/4000.0)));
-"85
-[e ( __delay (1 -> * -> -> 1000 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
-[; ;Automated Solar Panel Orientation Setter.c: 86: position(1,1);
+[e ( _atod_init ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 86: lcd_init();
 "86
-[e ( _position (2 , -> -> 1 `i `uc -> -> 1 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 87: printf("    Monitoring   ");
+[e ( _lcd_init ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 87: clr_display();
 "87
-[e ( _printf :s 3C ]
-[; ;Automated Solar Panel Orientation Setter.c: 88: position(2,1);
-"88
-[e ( _position (2 , -> -> 2 `i `uc -> -> 1 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 89: printf("      System     ");
-"89
-[e ( _printf :s 4C ]
-[; ;Automated Solar Panel Orientation Setter.c: 90: _delay((unsigned long)((1000)*(4000000/4000.0)));
-"90
-[e ( __delay (1 -> * -> -> 1000 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
-[; ;Automated Solar Panel Orientation Setter.c: 91: position(1,1);
-"91
-[e ( _position (2 , -> -> 1 `i `uc -> -> 1 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 92: printf("       for      ");
-"92
-[e ( _printf :s 5C ]
-[; ;Automated Solar Panel Orientation Setter.c: 93: position(2,1);
-"93
-[e ( _position (2 , -> -> 2 `i `uc -> -> 1 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 94: printf("    Patients    ");
-"94
-[e ( _printf :s 6C ]
-[; ;Automated Solar Panel Orientation Setter.c: 95: _delay((unsigned long)((1000)*(4000000/4000.0)));
-"95
-[e ( __delay (1 -> * -> -> 1000 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
-[; ;Automated Solar Panel Orientation Setter.c: 96: position(1,1);
-"96
-[e ( _position (2 , -> -> 1 `i `uc -> -> 1 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 97: printf("H:  62PPM Low   ",HeartRate);
-"97
-[e ( _printf , (. :s 7C _HeartRate ]
-[; ;Automated Solar Panel Orientation Setter.c: 98: position(2,1);
-"98
-[e ( _position (2 , -> -> 2 `i `uc -> -> 1 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 99: printf("T:  84F   Low   ",analogReadVal);
-"99
-[e ( _printf , (. :s 8C _analogReadVal ]
-[; ;Automated Solar Panel Orientation Setter.c: 103: clr_display();
-"103
 [e ( _clr_display ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 104: state = 1;
+[; ;Automated Solar Panel Orientation Setter.c: 89: Serial_Init();
+"89
+[e ( _Serial_Init ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 90: Timer1_Init();
+"90
+[e ( _Timer1_Init ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 91: enableInterrupt();
+"91
+[e ( _enableInterrupt ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 95: lcd_init();
+"95
+[e ( _lcd_init ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 96: clr_display();
+"96
+[e ( _clr_display ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 98: printf("Body Temperature ");
+"98
+[e ( _printf :s 1C ]
+[; ;Automated Solar Panel Orientation Setter.c: 99: position(2,1);
+"99
+[e ( _position (2 , -> -> 2 `i `uc -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 100: printf(" and Heart Rate  ");
+"100
+[e ( _printf :s 2C ]
+[; ;Automated Solar Panel Orientation Setter.c: 101: _delay((unsigned long)((1000)*(4000000/4000.0)));
+"101
+[e ( __delay (1 -> * -> -> 1000 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 102: position(1,1);
+"102
+[e ( _position (2 , -> -> 1 `i `uc -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 103: printf("    Monitoring   ");
+"103
+[e ( _printf :s 3C ]
+[; ;Automated Solar Panel Orientation Setter.c: 104: position(2,1);
 "104
-[e = _state -> -> 1 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 105: while(1){
+[e ( _position (2 , -> -> 2 `i `uc -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 105: printf("      System     ");
 "105
-[e :U 174 ]
-{
-[; ;Automated Solar Panel Orientation Setter.c: 106: switch (state){
+[e ( _printf :s 4C ]
+[; ;Automated Solar Panel Orientation Setter.c: 106: _delay((unsigned long)((1000)*(4000000/4000.0)));
 "106
-[e $U 177  ]
-{
-[; ;Automated Solar Panel Orientation Setter.c: 111: case 1:
+[e ( __delay (1 -> * -> -> 1000 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 107: position(1,1);
+"107
+[e ( _position (2 , -> -> 1 `i `uc -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 108: printf("       for      ");
+"108
+[e ( _printf :s 5C ]
+[; ;Automated Solar Panel Orientation Setter.c: 109: position(2,1);
+"109
+[e ( _position (2 , -> -> 2 `i `uc -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 110: printf("    Patients    ");
+"110
+[e ( _printf :s 6C ]
+[; ;Automated Solar Panel Orientation Setter.c: 111: _delay((unsigned long)((1000)*(4000000/4000.0)));
 "111
-[e :U 178 ]
-[; ;Automated Solar Panel Orientation Setter.c: 116: state = 10;
-"116
-[e = _state -> -> 10 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 117: break;
-"117
-[e $U 176  ]
-[; ;Automated Solar Panel Orientation Setter.c: 118: case 10 :
-"118
-[e :U 179 ]
-[; ;Automated Solar Panel Orientation Setter.c: 119: RC1 = 1;
+[e ( __delay (1 -> * -> -> 1000 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 112: position(1,1);
+"112
+[e ( _position (2 , -> -> 1 `i `uc -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 113: printf("H:  62PPM Low   ",HeartRate);
+"113
+[e ( _printf , (. :s 7C _HeartRate ]
+[; ;Automated Solar Panel Orientation Setter.c: 114: position(2,1);
+"114
+[e ( _position (2 , -> -> 2 `i `uc -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 115: printf("T:  84F   Low   ",analogReadVal);
+"115
+[e ( _printf , (. :s 8C _analogReadVal ]
+[; ;Automated Solar Panel Orientation Setter.c: 119: clr_display();
 "119
-[e = _RC1 -> -> 1 `i `b ]
-[; ;Automated Solar Panel Orientation Setter.c: 120: Serial_Print( "Switched to Mode 1" );
+[e ( _clr_display ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 120: state = 1;
 "120
-[e ( _Serial_Print (1 -> :s 9C `*uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 121: bdnu_unid();
+[e = _state -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 121: while(1){
 "121
-[e ( _bdnu_unid ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 122: RC1 = 0;
-"122
-[e = _RC1 -> -> 0 `i `b ]
-[; ;Automated Solar Panel Orientation Setter.c: 123: break;
-"123
-[e $U 176  ]
-[; ;Automated Solar Panel Orientation Setter.c: 126: case 2 :
-"126
-[e :U 180 ]
-[; ;Automated Solar Panel Orientation Setter.c: 128: break;
-"128
-[e $U 176  ]
-[; ;Automated Solar Panel Orientation Setter.c: 129: case 20 :
-"129
 [e :U 181 ]
-[; ;Automated Solar Panel Orientation Setter.c: 131: break;
-"131
-[e $U 176  ]
-[; ;Automated Solar Panel Orientation Setter.c: 132: case 3 :
+{
+[; ;Automated Solar Panel Orientation Setter.c: 122: switch (state){
+"122
+[e $U 184  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 127: case 1:
+"127
+[e :U 185 ]
+[; ;Automated Solar Panel Orientation Setter.c: 132: state = 10;
 "132
-[e :U 182 ]
+[e = _state -> -> 10 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 133: break;
+"133
+[e $U 183  ]
+[; ;Automated Solar Panel Orientation Setter.c: 134: case 10 :
 "134
-[e :U 183 ]
-[; ;Automated Solar Panel Orientation Setter.c: 134: case 30 :
-[; ;Automated Solar Panel Orientation Setter.c: 136: break;
-"136
-[e $U 176  ]
+[e :U 186 ]
+[; ;Automated Solar Panel Orientation Setter.c: 135: RC1 = 1;
+"135
+[e = _RC1 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 138: pressedKey = CheckKeyPad();
+"138
+[e = _pressedKey ( _CheckKeyPad ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 139: if( pressedKey!='$'){
+"139
+[e $ ! != -> _pressedKey `ui -> 36 `ui 187  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 140: while(!TXIF);
 "140
-}
-[; ;Automated Solar Panel Orientation Setter.c: 140: }
-[e $U 176  ]
-"106
-[e :U 177 ]
-[e [\ _state , $ -> -> 1 `i `uc 178
- , $ -> -> 10 `i `uc 179
- , $ -> -> 2 `i `uc 180
- , $ -> -> 20 `i `uc 181
- , $ -> -> 3 `i `uc 182
- , $ -> -> 30 `i `uc 183
- 176 ]
-"140
-[e :U 176 ]
+[e $U 188  ]
+[e :U 189 ]
+[e :U 188 ]
+[e $ ! _TXIF 189  ]
+[e :U 190 ]
+[; ;Automated Solar Panel Orientation Setter.c: 141: TXREG = pressedKey;
 "141
-}
-[e :U 173 ]
-"105
-[e $U 174  ]
-[e :U 175 ]
-[; ;Automated Solar Panel Orientation Setter.c: 141: }
-[; ;Automated Solar Panel Orientation Setter.c: 142: }
+[e = _TXREG _pressedKey ]
+[; ;Automated Solar Panel Orientation Setter.c: 142: _delay((unsigned long)((1)*(4000000/4000.0)));
 "142
-[e :UE 172 ]
+[e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+"143
 }
+[e :U 187 ]
+[; ;Automated Solar Panel Orientation Setter.c: 143: }
+[; ;Automated Solar Panel Orientation Setter.c: 144: RC1 = 0;
 "144
+[e = _RC1 -> -> 0 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 146: break;
+"146
+[e $U 183  ]
+[; ;Automated Solar Panel Orientation Setter.c: 149: case 2 :
+"149
+[e :U 191 ]
+[; ;Automated Solar Panel Orientation Setter.c: 151: break;
+"151
+[e $U 183  ]
+[; ;Automated Solar Panel Orientation Setter.c: 152: case 20 :
+"152
+[e :U 192 ]
+[; ;Automated Solar Panel Orientation Setter.c: 154: break;
+"154
+[e $U 183  ]
+[; ;Automated Solar Panel Orientation Setter.c: 155: case 3 :
+"155
+[e :U 193 ]
+"157
+[e :U 194 ]
+[; ;Automated Solar Panel Orientation Setter.c: 157: case 30 :
+[; ;Automated Solar Panel Orientation Setter.c: 159: break;
+"159
+[e $U 183  ]
+"163
+}
+[; ;Automated Solar Panel Orientation Setter.c: 163: }
+[e $U 183  ]
+"122
+[e :U 184 ]
+[e [\ _state , $ -> -> 1 `i `uc 185
+ , $ -> -> 10 `i `uc 186
+ , $ -> -> 2 `i `uc 191
+ , $ -> -> 20 `i `uc 192
+ , $ -> -> 3 `i `uc 193
+ , $ -> -> 30 `i `uc 194
+ 183 ]
+"163
+[e :U 183 ]
+"164
+}
+[e :U 180 ]
+"121
+[e $U 181  ]
+[e :U 182 ]
+[; ;Automated Solar Panel Orientation Setter.c: 164: }
+[; ;Automated Solar Panel Orientation Setter.c: 165: }
+"165
+[e :UE 179 ]
+}
+"167
+[v _CheckKeyPad `(uc  1 ef ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 167: char CheckKeyPad(){
+[e :U _CheckKeyPad ]
+[f ]
+[; ;Automated Solar Panel Orientation Setter.c: 168: RC4 = 0; RD5 = 0; RC5=0; RD4=0;
+"168
+[e = _RC4 -> -> 0 `i `b ]
+[e = _RD5 -> -> 0 `i `b ]
+[e = _RC5 -> -> 0 `i `b ]
+[e = _RD4 -> -> 0 `i `b ]
+"169
+[v _charactor `uc  1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 169: char charactor = '$';
+[e = _charactor -> -> 36 `ui `uc ]
+"170
+[v _colomnNo `i  1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 170: int colomnNo = 0;
+[e = _colomnNo -> 0 `i ]
+"171
+[v _rowNo `i  1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 171: int rowNo = RowNo();
+[e = _rowNo ( _RowNo ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 172: if (rowNo != 0){
+"172
+[e $ ! != _rowNo -> 0 `i 196  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 173: colomnNo = ColomnNo(rowNo);
+"173
+[e = _colomnNo ( _ColomnNo (1 _rowNo ]
+[; ;Automated Solar Panel Orientation Setter.c: 174: RC4 = 0; RD5 = 0; RC5=0; RD4=0;
+"174
+[e = _RC4 -> -> 0 `i `b ]
+[e = _RD5 -> -> 0 `i `b ]
+[e = _RC5 -> -> 0 `i `b ]
+[e = _RD4 -> -> 0 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 175: if(colomnNo==1 && rowNo == 1) charactor = '1';
+"175
+[e $ ! && == _colomnNo -> 1 `i == _rowNo -> 1 `i 197  ]
+[e = _charactor -> -> 49 `ui `uc ]
+[e $U 198  ]
+"176
+[e :U 197 ]
+[; ;Automated Solar Panel Orientation Setter.c: 176: else if(colomnNo==1 && rowNo == 2) charactor = '2';
+[e $ ! && == _colomnNo -> 1 `i == _rowNo -> 2 `i 199  ]
+[e = _charactor -> -> 50 `ui `uc ]
+[e $U 200  ]
+"177
+[e :U 199 ]
+[; ;Automated Solar Panel Orientation Setter.c: 177: else if(colomnNo==1 && rowNo == 3) charactor = '3';
+[e $ ! && == _colomnNo -> 1 `i == _rowNo -> 3 `i 201  ]
+[e = _charactor -> -> 51 `ui `uc ]
+[e $U 202  ]
+"178
+[e :U 201 ]
+[; ;Automated Solar Panel Orientation Setter.c: 178: else if(colomnNo==1 && rowNo == 4) charactor = 'A';
+[e $ ! && == _colomnNo -> 1 `i == _rowNo -> 4 `i 203  ]
+[e = _charactor -> -> 65 `ui `uc ]
+[e $U 204  ]
+"180
+[e :U 203 ]
+[; ;Automated Solar Panel Orientation Setter.c: 180: else if(colomnNo==2 && rowNo == 1) charactor = '4';
+[e $ ! && == _colomnNo -> 2 `i == _rowNo -> 1 `i 205  ]
+[e = _charactor -> -> 52 `ui `uc ]
+[e $U 206  ]
+"181
+[e :U 205 ]
+[; ;Automated Solar Panel Orientation Setter.c: 181: else if(colomnNo==2 && rowNo == 2) charactor = '5';
+[e $ ! && == _colomnNo -> 2 `i == _rowNo -> 2 `i 207  ]
+[e = _charactor -> -> 53 `ui `uc ]
+[e $U 208  ]
+"182
+[e :U 207 ]
+[; ;Automated Solar Panel Orientation Setter.c: 182: else if(colomnNo==2 && rowNo == 3) charactor = '6';
+[e $ ! && == _colomnNo -> 2 `i == _rowNo -> 3 `i 209  ]
+[e = _charactor -> -> 54 `ui `uc ]
+[e $U 210  ]
+"183
+[e :U 209 ]
+[; ;Automated Solar Panel Orientation Setter.c: 183: else if(colomnNo==2 && rowNo == 4) charactor = 'B';
+[e $ ! && == _colomnNo -> 2 `i == _rowNo -> 4 `i 211  ]
+[e = _charactor -> -> 66 `ui `uc ]
+[e $U 212  ]
+"185
+[e :U 211 ]
+[; ;Automated Solar Panel Orientation Setter.c: 185: else if(colomnNo==3 && rowNo == 1) charactor = '7';
+[e $ ! && == _colomnNo -> 3 `i == _rowNo -> 1 `i 213  ]
+[e = _charactor -> -> 55 `ui `uc ]
+[e $U 214  ]
+"186
+[e :U 213 ]
+[; ;Automated Solar Panel Orientation Setter.c: 186: else if(colomnNo==3 && rowNo == 2) charactor = '8';
+[e $ ! && == _colomnNo -> 3 `i == _rowNo -> 2 `i 215  ]
+[e = _charactor -> -> 56 `ui `uc ]
+[e $U 216  ]
+"187
+[e :U 215 ]
+[; ;Automated Solar Panel Orientation Setter.c: 187: else if(colomnNo==3 && rowNo == 3) charactor = '9';
+[e $ ! && == _colomnNo -> 3 `i == _rowNo -> 3 `i 217  ]
+[e = _charactor -> -> 57 `ui `uc ]
+[e $U 218  ]
+"188
+[e :U 217 ]
+[; ;Automated Solar Panel Orientation Setter.c: 188: else if(colomnNo==3 && rowNo == 4) charactor = 'C';
+[e $ ! && == _colomnNo -> 3 `i == _rowNo -> 4 `i 219  ]
+[e = _charactor -> -> 67 `ui `uc ]
+[e $U 220  ]
+"190
+[e :U 219 ]
+[; ;Automated Solar Panel Orientation Setter.c: 190: else if(colomnNo==4 && rowNo == 1) charactor = '*';
+[e $ ! && == _colomnNo -> 4 `i == _rowNo -> 1 `i 221  ]
+[e = _charactor -> -> 42 `ui `uc ]
+[e $U 222  ]
+"191
+[e :U 221 ]
+[; ;Automated Solar Panel Orientation Setter.c: 191: else if(colomnNo==4 && rowNo == 2) charactor = '0';
+[e $ ! && == _colomnNo -> 4 `i == _rowNo -> 2 `i 223  ]
+[e = _charactor -> -> 48 `ui `uc ]
+[e $U 224  ]
+"192
+[e :U 223 ]
+[; ;Automated Solar Panel Orientation Setter.c: 192: else if(colomnNo==4 && rowNo == 3) charactor = '#';
+[e $ ! && == _colomnNo -> 4 `i == _rowNo -> 3 `i 225  ]
+[e = _charactor -> -> 35 `ui `uc ]
+[e $U 226  ]
+"193
+[e :U 225 ]
+[; ;Automated Solar Panel Orientation Setter.c: 193: else if(colomnNo==4 && rowNo == 4) charactor = 'D';
+[e $ ! && == _colomnNo -> 4 `i == _rowNo -> 4 `i 227  ]
+[e = _charactor -> -> 68 `ui `uc ]
+[e $U 228  ]
+"195
+[e :U 227 ]
+[; ;Automated Solar Panel Orientation Setter.c: 195: else charactor = '@';
+[e = _charactor -> -> 64 `ui `uc ]
+[e :U 228 ]
+[e :U 226 ]
+[e :U 224 ]
+[e :U 222 ]
+[e :U 220 ]
+[e :U 218 ]
+[e :U 216 ]
+[e :U 214 ]
+[e :U 212 ]
+[e :U 210 ]
+[e :U 208 ]
+[e :U 206 ]
+[e :U 204 ]
+[e :U 202 ]
+[e :U 200 ]
+[e :U 198 ]
+"196
+}
+[e :U 196 ]
+[; ;Automated Solar Panel Orientation Setter.c: 196: }
+[; ;Automated Solar Panel Orientation Setter.c: 197: if(rowNo==1) while(RD2==0);
+"197
+[e $ ! == _rowNo -> 1 `i 229  ]
+[e $U 230  ]
+[e :U 231 ]
+[e :U 230 ]
+[e $ == -> _RD2 `i -> 0 `i 231  ]
+[e :U 232 ]
+[e $U 233  ]
+"198
+[e :U 229 ]
+[; ;Automated Solar Panel Orientation Setter.c: 198: else if(rowNo==2) while(RD7==0);
+[e $ ! == _rowNo -> 2 `i 234  ]
+[e $U 235  ]
+[e :U 236 ]
+[e :U 235 ]
+[e $ == -> _RD7 `i -> 0 `i 236  ]
+[e :U 237 ]
+[e $U 238  ]
+"199
+[e :U 234 ]
+[; ;Automated Solar Panel Orientation Setter.c: 199: else if(rowNo==3) while(RD3==0);
+[e $ ! == _rowNo -> 3 `i 239  ]
+[e $U 240  ]
+[e :U 241 ]
+[e :U 240 ]
+[e $ == -> _RD3 `i -> 0 `i 241  ]
+[e :U 242 ]
+[e $U 243  ]
+"200
+[e :U 239 ]
+[; ;Automated Solar Panel Orientation Setter.c: 200: else if(rowNo==4) while(RD6==0);
+[e $ ! == _rowNo -> 4 `i 244  ]
+[e $U 245  ]
+[e :U 246 ]
+[e :U 245 ]
+[e $ == -> _RD6 `i -> 0 `i 246  ]
+[e :U 247 ]
+[e :U 244 ]
+"201
+[e :U 243 ]
+[e :U 238 ]
+[e :U 233 ]
+[; ;Automated Solar Panel Orientation Setter.c: 201: return charactor;
+[e ) _charactor ]
+[e $UE 195  ]
+[; ;Automated Solar Panel Orientation Setter.c: 202: }
+"202
+[e :UE 195 ]
+}
+"204
+[v _ColomnNo `(i  1 ef1`i ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 204: int ColomnNo(int rowNo){
+[e :U _ColomnNo ]
+[v _rowNo `i  1 r1 ]
+[f ]
+[; ;Automated Solar Panel Orientation Setter.c: 205: RC4 = 0; RD5 = 0; RC5=0; RD4=0;
+"205
+[e = _RC4 -> -> 0 `i `b ]
+[e = _RD5 -> -> 0 `i `b ]
+[e = _RC5 -> -> 0 `i `b ]
+[e = _RD4 -> -> 0 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 206: if(rowNo==1){
+"206
+[e $ ! == _rowNo -> 1 `i 249  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 207: RC4 = 1;
+"207
+[e = _RC4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 208: _delay(1);
+"208
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 209: if(RD2==1){
+"209
+[e $ ! == -> _RD2 `i -> 1 `i 250  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 210: return 1;
+"210
+[e ) -> 1 `i ]
+[e $UE 248  ]
+"211
+}
+[e :U 250 ]
+[; ;Automated Solar Panel Orientation Setter.c: 211: }
+[; ;Automated Solar Panel Orientation Setter.c: 212: RD5 = 1;
+"212
+[e = _RD5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 213: _delay(1);
+"213
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 214: if(RD2==1){
+"214
+[e $ ! == -> _RD2 `i -> 1 `i 251  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 215: return 2;
+"215
+[e ) -> 2 `i ]
+[e $UE 248  ]
+"216
+}
+[e :U 251 ]
+[; ;Automated Solar Panel Orientation Setter.c: 216: }
+[; ;Automated Solar Panel Orientation Setter.c: 217: RC5 = 1;
+"217
+[e = _RC5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 218: _delay(1);
+"218
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 219: if(RD2==1){
+"219
+[e $ ! == -> _RD2 `i -> 1 `i 252  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 220: return 3;
+"220
+[e ) -> 3 `i ]
+[e $UE 248  ]
+"221
+}
+[e :U 252 ]
+[; ;Automated Solar Panel Orientation Setter.c: 221: }
+[; ;Automated Solar Panel Orientation Setter.c: 222: RD4 = 1;
+"222
+[e = _RD4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 223: _delay(1);
+"223
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 224: if(RD2==1){
+"224
+[e $ ! == -> _RD2 `i -> 1 `i 253  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 225: return 4;
+"225
+[e ) -> 4 `i ]
+[e $UE 248  ]
+"226
+}
+[e :U 253 ]
+"227
+}
+[; ;Automated Solar Panel Orientation Setter.c: 226: }
+[; ;Automated Solar Panel Orientation Setter.c: 227: }
+[e $U 254  ]
+"228
+[e :U 249 ]
+[; ;Automated Solar Panel Orientation Setter.c: 228: else if(rowNo==2){
+[e $ ! == _rowNo -> 2 `i 255  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 229: RC4 = 1;
+"229
+[e = _RC4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 230: _delay(1);
+"230
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 231: if(RD7==1){
+"231
+[e $ ! == -> _RD7 `i -> 1 `i 256  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 232: return 1;
+"232
+[e ) -> 1 `i ]
+[e $UE 248  ]
+"233
+}
+[e :U 256 ]
+[; ;Automated Solar Panel Orientation Setter.c: 233: }
+[; ;Automated Solar Panel Orientation Setter.c: 234: RD5 = 1;
+"234
+[e = _RD5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 235: _delay(1);
+"235
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 236: if(RD7==1){
+"236
+[e $ ! == -> _RD7 `i -> 1 `i 257  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 237: return 2;
+"237
+[e ) -> 2 `i ]
+[e $UE 248  ]
+"238
+}
+[e :U 257 ]
+[; ;Automated Solar Panel Orientation Setter.c: 238: }
+[; ;Automated Solar Panel Orientation Setter.c: 239: RC5 = 1;
+"239
+[e = _RC5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 240: _delay(1);
+"240
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 241: if(RD7==1){
+"241
+[e $ ! == -> _RD7 `i -> 1 `i 258  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 242: return 3;
+"242
+[e ) -> 3 `i ]
+[e $UE 248  ]
+"243
+}
+[e :U 258 ]
+[; ;Automated Solar Panel Orientation Setter.c: 243: }
+[; ;Automated Solar Panel Orientation Setter.c: 244: RD4 = 1;
+"244
+[e = _RD4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 245: _delay(1);
+"245
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 246: if(RD7==1){
+"246
+[e $ ! == -> _RD7 `i -> 1 `i 259  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 247: return 4;
+"247
+[e ) -> 4 `i ]
+[e $UE 248  ]
+"248
+}
+[e :U 259 ]
+"249
+}
+[; ;Automated Solar Panel Orientation Setter.c: 248: }
+[; ;Automated Solar Panel Orientation Setter.c: 249: }
+[e $U 260  ]
+"250
+[e :U 255 ]
+[; ;Automated Solar Panel Orientation Setter.c: 250: else if(rowNo==3){
+[e $ ! == _rowNo -> 3 `i 261  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 251: RC4 = 1;
+"251
+[e = _RC4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 252: _delay(1);
+"252
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 253: if(RD3==1){
+"253
+[e $ ! == -> _RD3 `i -> 1 `i 262  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 254: return 1;
+"254
+[e ) -> 1 `i ]
+[e $UE 248  ]
+"255
+}
+[e :U 262 ]
+[; ;Automated Solar Panel Orientation Setter.c: 255: }
+[; ;Automated Solar Panel Orientation Setter.c: 256: RD5 = 1;
+"256
+[e = _RD5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 257: _delay(1);
+"257
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 258: if(RD3==1){
+"258
+[e $ ! == -> _RD3 `i -> 1 `i 263  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 259: return 2;
+"259
+[e ) -> 2 `i ]
+[e $UE 248  ]
+"260
+}
+[e :U 263 ]
+[; ;Automated Solar Panel Orientation Setter.c: 260: }
+[; ;Automated Solar Panel Orientation Setter.c: 261: RC5 = 1;
+"261
+[e = _RC5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 262: _delay(1);
+"262
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 263: if(RD3==1){
+"263
+[e $ ! == -> _RD3 `i -> 1 `i 264  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 264: return 3;
+"264
+[e ) -> 3 `i ]
+[e $UE 248  ]
+"265
+}
+[e :U 264 ]
+[; ;Automated Solar Panel Orientation Setter.c: 265: }
+[; ;Automated Solar Panel Orientation Setter.c: 266: RD4 = 1;
+"266
+[e = _RD4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 267: _delay(1);
+"267
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 268: if(RD3==1){
+"268
+[e $ ! == -> _RD3 `i -> 1 `i 265  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 269: return 4;
+"269
+[e ) -> 4 `i ]
+[e $UE 248  ]
+"270
+}
+[e :U 265 ]
+"271
+}
+[; ;Automated Solar Panel Orientation Setter.c: 270: }
+[; ;Automated Solar Panel Orientation Setter.c: 271: }
+[e $U 266  ]
+"272
+[e :U 261 ]
+[; ;Automated Solar Panel Orientation Setter.c: 272: else if(rowNo==4){
+[e $ ! == _rowNo -> 4 `i 267  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 273: RC4 = 1;
+"273
+[e = _RC4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 274: _delay(1);
+"274
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 275: if(RD6==1){
+"275
+[e $ ! == -> _RD6 `i -> 1 `i 268  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 276: return 1;
+"276
+[e ) -> 1 `i ]
+[e $UE 248  ]
+"277
+}
+[e :U 268 ]
+[; ;Automated Solar Panel Orientation Setter.c: 277: }
+[; ;Automated Solar Panel Orientation Setter.c: 278: RD5 = 1;
+"278
+[e = _RD5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 279: _delay(1);
+"279
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 280: if(RD6==1){
+"280
+[e $ ! == -> _RD6 `i -> 1 `i 269  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 281: return 2;
+"281
+[e ) -> 2 `i ]
+[e $UE 248  ]
+"282
+}
+[e :U 269 ]
+[; ;Automated Solar Panel Orientation Setter.c: 282: }
+[; ;Automated Solar Panel Orientation Setter.c: 283: RC5 = 1;
+"283
+[e = _RC5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 284: _delay(1);
+"284
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 285: if(RD6==1){
+"285
+[e $ ! == -> _RD6 `i -> 1 `i 270  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 286: return 3;
+"286
+[e ) -> 3 `i ]
+[e $UE 248  ]
+"287
+}
+[e :U 270 ]
+[; ;Automated Solar Panel Orientation Setter.c: 287: }
+[; ;Automated Solar Panel Orientation Setter.c: 288: RD4 = 1;
+"288
+[e = _RD4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 289: _delay(1);
+"289
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 290: if(RD6==1){
+"290
+[e $ ! == -> _RD6 `i -> 1 `i 271  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 291: return 4;
+"291
+[e ) -> 4 `i ]
+[e $UE 248  ]
+"292
+}
+[e :U 271 ]
+"293
+}
+[e :U 267 ]
+"294
+[e :U 266 ]
+[e :U 260 ]
+[e :U 254 ]
+[; ;Automated Solar Panel Orientation Setter.c: 292: }
+[; ;Automated Solar Panel Orientation Setter.c: 293: }
+[; ;Automated Solar Panel Orientation Setter.c: 294: }
+[e :UE 248 ]
+}
+"296
+[v _RowNo `(i  1 ef ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 296: int RowNo(){
+[e :U _RowNo ]
+[f ]
+"297
+[v _row `i  1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 297: int row;
+[; ;Automated Solar Panel Orientation Setter.c: 298: if( RD2!=1){
+"298
+[e $ ! != -> _RD2 `i -> 1 `i 273  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 299: row = 1;
+"299
+[e = _row -> 1 `i ]
+"300
+}
+[; ;Automated Solar Panel Orientation Setter.c: 300: }
+[e $U 274  ]
+"301
+[e :U 273 ]
+[; ;Automated Solar Panel Orientation Setter.c: 301: else if( RD7!=1 ){
+[e $ ! != -> _RD7 `i -> 1 `i 275  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 302: row = 2;
+"302
+[e = _row -> 2 `i ]
+"303
+}
+[; ;Automated Solar Panel Orientation Setter.c: 303: }
+[e $U 276  ]
+"304
+[e :U 275 ]
+[; ;Automated Solar Panel Orientation Setter.c: 304: else if( RD3!=1 ){
+[e $ ! != -> _RD3 `i -> 1 `i 277  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 305: row = 3;
+"305
+[e = _row -> 3 `i ]
+"306
+}
+[; ;Automated Solar Panel Orientation Setter.c: 306: }
+[e $U 278  ]
+"307
+[e :U 277 ]
+[; ;Automated Solar Panel Orientation Setter.c: 307: else if( RD6!=1 ){
+[e $ ! != -> _RD6 `i -> 1 `i 279  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 308: row = 4;
+"308
+[e = _row -> 4 `i ]
+"309
+}
+[; ;Automated Solar Panel Orientation Setter.c: 309: }
+[e $U 280  ]
+"310
+[e :U 279 ]
+[; ;Automated Solar Panel Orientation Setter.c: 310: else{
+{
+[; ;Automated Solar Panel Orientation Setter.c: 311: row = 0;
+"311
+[e = _row -> 0 `i ]
+"312
+}
+[e :U 280 ]
+[e :U 278 ]
+[e :U 276 ]
+[e :U 274 ]
+[; ;Automated Solar Panel Orientation Setter.c: 312: }
+[; ;Automated Solar Panel Orientation Setter.c: 313: return row;
+"313
+[e ) _row ]
+[e $UE 272  ]
+[; ;Automated Solar Panel Orientation Setter.c: 314: }
+"314
+[e :UE 272 ]
+}
+"317
 [v _Rotation `(v  1 ef2`i`uc ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 144: void Rotation(int rotationCount, char direction){
+[; ;Automated Solar Panel Orientation Setter.c: 317: void Rotation(int rotationCount, char direction){
 [e :U _Rotation ]
 [v _rotationCount `i  1 r1 ]
 [v _direction `uc  1 r2 ]
 [f ]
-[; ;Automated Solar Panel Orientation Setter.c: 145: if(direction = 1){
-"145
-[e $ ! != -> = _direction -> -> 1 `i `uc `i -> -> -> 0 `i `uc `i 185  ]
+[; ;Automated Solar Panel Orientation Setter.c: 318: if(direction = 1){
+"318
+[e $ ! != -> = _direction -> -> 1 `i `uc `i -> -> -> 0 `i `uc `i 282  ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 147: RotateMotorLeft(rotationCount);
-"147
+[; ;Automated Solar Panel Orientation Setter.c: 320: RotateMotorLeft(rotationCount);
+"320
 [e ( _RotateMotorLeft (1 _rotationCount ]
-"148
+"321
 }
-[; ;Automated Solar Panel Orientation Setter.c: 148: }
-[e $U 186  ]
-"150
-[e :U 185 ]
-[; ;Automated Solar Panel Orientation Setter.c: 150: else{
+[; ;Automated Solar Panel Orientation Setter.c: 321: }
+[e $U 283  ]
+"323
+[e :U 282 ]
+[; ;Automated Solar Panel Orientation Setter.c: 323: else{
 {
-[; ;Automated Solar Panel Orientation Setter.c: 151: RotateMotorRight(rotationCount);
-"151
+[; ;Automated Solar Panel Orientation Setter.c: 324: RotateMotorRight(rotationCount);
+"324
 [e ( _RotateMotorRight (1 _rotationCount ]
-"152
+"325
 }
-[e :U 186 ]
-[; ;Automated Solar Panel Orientation Setter.c: 152: }
-[; ;Automated Solar Panel Orientation Setter.c: 153: }
-"153
-[e :UE 184 ]
+[e :U 283 ]
+[; ;Automated Solar Panel Orientation Setter.c: 325: }
+[; ;Automated Solar Panel Orientation Setter.c: 326: }
+"326
+[e :UE 281 ]
 }
-"155
+"328
 [v _RotateMotorLeft `(v  1 ef1`i ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 155: void RotateMotorLeft(int value){
+[; ;Automated Solar Panel Orientation Setter.c: 328: void RotateMotorLeft(int value){
 [e :U _RotateMotorLeft ]
 [v _value `i  1 r1 ]
 [f ]
-"157
+"330
 [v _i `i  1 a ]
-[; ;Automated Solar Panel Orientation Setter.c: 157: int i=0;
+[; ;Automated Solar Panel Orientation Setter.c: 330: int i=0;
 [e = _i -> 0 `i ]
-[; ;Automated Solar Panel Orientation Setter.c: 158: for(i=0; i<value; i++){
-"158
+[; ;Automated Solar Panel Orientation Setter.c: 331: for(i=0; i<value; i++){
+"331
 {
 [e = _i -> 0 `i ]
-[e $U 191  ]
-[e :U 188 ]
+[e $U 288  ]
+[e :U 285 ]
 {
-"159
+"332
 }
-"158
+"331
 [e ++ _i -> 1 `i ]
-[e :U 191 ]
-[e $ < _i _value 188  ]
-[e :U 189 ]
-"159
+[e :U 288 ]
+[e $ < _i _value 285  ]
+[e :U 286 ]
+"332
 }
-[; ;Automated Solar Panel Orientation Setter.c: 159: }
-[; ;Automated Solar Panel Orientation Setter.c: 160: }
-"160
-[e :UE 187 ]
+[; ;Automated Solar Panel Orientation Setter.c: 332: }
+[; ;Automated Solar Panel Orientation Setter.c: 333: }
+"333
+[e :UE 284 ]
 }
-"162
+"335
 [v _RotateMotorRight `(v  1 ef1`i ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 162: void RotateMotorRight(int value){
+[; ;Automated Solar Panel Orientation Setter.c: 335: void RotateMotorRight(int value){
 [e :U _RotateMotorRight ]
 [v _value `i  1 r1 ]
 [f ]
-"164
+"337
 [v _i `i  1 a ]
-[; ;Automated Solar Panel Orientation Setter.c: 164: int i=0;
+[; ;Automated Solar Panel Orientation Setter.c: 337: int i=0;
 [e = _i -> 0 `i ]
-[; ;Automated Solar Panel Orientation Setter.c: 165: for(i=0; i<value; i++){
-"165
+[; ;Automated Solar Panel Orientation Setter.c: 338: for(i=0; i<value; i++){
+"338
 {
 [e = _i -> 0 `i ]
-[e $U 196  ]
-[e :U 193 ]
+[e $U 293  ]
+[e :U 290 ]
 {
-"166
+"339
 }
-"165
+"338
 [e ++ _i -> 1 `i ]
-[e :U 196 ]
-[e $ < _i _value 193  ]
-[e :U 194 ]
-"166
+[e :U 293 ]
+[e $ < _i _value 290  ]
+[e :U 291 ]
+"339
 }
-[; ;Automated Solar Panel Orientation Setter.c: 166: }
-[; ;Automated Solar Panel Orientation Setter.c: 167: }
-"167
-[e :UE 192 ]
+[; ;Automated Solar Panel Orientation Setter.c: 339: }
+[; ;Automated Solar Panel Orientation Setter.c: 340: }
+"340
+[e :UE 289 ]
 }
-"169
+"342
 [v _a2d_read `(v  1 ef ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 169: void a2d_read(){
+[; ;Automated Solar Panel Orientation Setter.c: 342: void a2d_read(){
 [e :U _a2d_read ]
 [f ]
-[; ;Automated Solar Panel Orientation Setter.c: 170: ldr1 = read_a2d_value(0);
-"170
+[; ;Automated Solar Panel Orientation Setter.c: 343: ldr1 = read_a2d_value(0);
+"343
 [e = _ldr1 ( _read_a2d_value (1 -> -> 0 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 171: ldr2 = read_a2d_value(1);
-"171
+[; ;Automated Solar Panel Orientation Setter.c: 344: ldr2 = read_a2d_value(1);
+"344
 [e = _ldr2 ( _read_a2d_value (1 -> -> 1 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 172: }
-"172
-[e :UE 197 ]
+[; ;Automated Solar Panel Orientation Setter.c: 345: }
+"345
+[e :UE 294 ]
 }
-"174
+"347
 [v _calculate `(v  1 ef ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 174: void calculate(){
+[; ;Automated Solar Panel Orientation Setter.c: 347: void calculate(){
 [e :U _calculate ]
 [f ]
-[; ;Automated Solar Panel Orientation Setter.c: 180: if(ldr1 > ldr2){
-"180
-[e $ ! > _ldr1 _ldr2 199  ]
+[; ;Automated Solar Panel Orientation Setter.c: 353: if(ldr1 > ldr2){
+"353
+[e $ ! > _ldr1 _ldr2 296  ]
 {
-"183
+"356
 }
-[; ;Automated Solar Panel Orientation Setter.c: 183: }
-[e $U 200  ]
-"184
-[e :U 199 ]
-[; ;Automated Solar Panel Orientation Setter.c: 184: else if (ldr1 <= ldr2){
-[e $ ! <= _ldr1 _ldr2 201  ]
+[; ;Automated Solar Panel Orientation Setter.c: 356: }
+[e $U 297  ]
+"357
+[e :U 296 ]
+[; ;Automated Solar Panel Orientation Setter.c: 357: else if (ldr1 <= ldr2){
+[e $ ! <= _ldr1 _ldr2 298  ]
 {
-"186
+"359
 }
-[e :U 201 ]
-"187
-[e :U 200 ]
-[; ;Automated Solar Panel Orientation Setter.c: 186: }
-[; ;Automated Solar Panel Orientation Setter.c: 187: }
-[e :UE 198 ]
+[e :U 298 ]
+"360
+[e :U 297 ]
+[; ;Automated Solar Panel Orientation Setter.c: 359: }
+[; ;Automated Solar Panel Orientation Setter.c: 360: }
+[e :UE 295 ]
 }
-"5 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\interrupts.h
-[v F1209 `(v  1 tf ]
-"190 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver1\Automated Solar Panel Orientation Setter.c
-[v _isr `IF1209  1 e ]
+"5 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\interrupts.h
+[v F1212 `(v  1 tf ]
+"363 D:\ELECTRONIC\2016\1. Automated Solar Panel Orientation Setter\Firmware\ver2\Automated Solar Panel Orientation Setter.c
+[v _isr `IF1212  1 e ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 190: void interrupt isr(){
+[; ;Automated Solar Panel Orientation Setter.c: 363: void interrupt isr(){
 [e :U _isr ]
 [f ]
-[; ;Automated Solar Panel Orientation Setter.c: 191: if(TMR1IF==1){
-"191
-[e $ ! == -> _TMR1IF `i -> 1 `i 203  ]
+[; ;Automated Solar Panel Orientation Setter.c: 364: if(TMR1IF==1){
+"364
+[e $ ! == -> _TMR1IF `i -> 1 `i 300  ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 192: msecond ++;
-"192
+[; ;Automated Solar Panel Orientation Setter.c: 365: msecond ++;
+"365
 [e ++ _msecond -> -> 1 `i `ui ]
-[; ;Automated Solar Panel Orientation Setter.c: 193: if(msecond == 10){
-"193
-[e $ ! == _msecond -> -> 10 `i `ui 204  ]
+[; ;Automated Solar Panel Orientation Setter.c: 366: if(msecond == 10){
+"366
+[e $ ! == _msecond -> -> 10 `i `ui 301  ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 194: second ++;
-"194
+[; ;Automated Solar Panel Orientation Setter.c: 367: second ++;
+"367
 [e ++ _second -> -> 1 `i `ui ]
-[; ;Automated Solar Panel Orientation Setter.c: 197: RD6 = !RD6;
-"197
+[; ;Automated Solar Panel Orientation Setter.c: 370: RD6 = !RD6;
+"370
 [e = _RD6 ! _RD6 ]
-[; ;Automated Solar Panel Orientation Setter.c: 198: msecond = 0;
-"198
+[; ;Automated Solar Panel Orientation Setter.c: 371: msecond = 0;
+"371
 [e = _msecond -> -> 0 `i `ui ]
-[; ;Automated Solar Panel Orientation Setter.c: 199: if( second == 60){
-"199
-[e $ ! == _second -> -> 60 `i `ui 205  ]
+[; ;Automated Solar Panel Orientation Setter.c: 372: if( second == 60){
+"372
+[e $ ! == _second -> -> 60 `i `ui 302  ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 200: HeartRate = HeartRateCount;
-"200
+[; ;Automated Solar Panel Orientation Setter.c: 373: HeartRate = HeartRateCount;
+"373
 [e = _HeartRate _HeartRateCount ]
-[; ;Automated Solar Panel Orientation Setter.c: 201: HeartRateCount = 0;
-"201
+[; ;Automated Solar Panel Orientation Setter.c: 374: HeartRateCount = 0;
+"374
 [e = _HeartRateCount -> -> 0 `i `ui ]
-[; ;Automated Solar Panel Orientation Setter.c: 202: minute ++;
-"202
+[; ;Automated Solar Panel Orientation Setter.c: 375: minute ++;
+"375
 [e ++ _minute -> -> 1 `i `ui ]
-[; ;Automated Solar Panel Orientation Setter.c: 203: lcd_init();
-"203
+[; ;Automated Solar Panel Orientation Setter.c: 376: lcd_init();
+"376
 [e ( _lcd_init ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 204: clr_display();
-"204
+[; ;Automated Solar Panel Orientation Setter.c: 377: clr_display();
+"377
 [e ( _clr_display ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 205: second = 0;
-"205
+[; ;Automated Solar Panel Orientation Setter.c: 378: second = 0;
+"378
 [e = _second -> -> 0 `i `ui ]
-[; ;Automated Solar Panel Orientation Setter.c: 207: x = minute%30 ;
-"207
+[; ;Automated Solar Panel Orientation Setter.c: 380: x = minute%30 ;
+"380
 [e = _x -> % _minute -> -> 30 `i `ui `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 208: if ( x == 0){
-"208
-[e $ ! == -> _x `i -> 0 `i 206  ]
+[; ;Automated Solar Panel Orientation Setter.c: 381: if ( x == 0){
+"381
+[e $ ! == -> _x `i -> 0 `i 303  ]
 {
-"211
+"384
 }
-[e :U 206 ]
-[; ;Automated Solar Panel Orientation Setter.c: 211: }
-[; ;Automated Solar Panel Orientation Setter.c: 214: if( minute == 60){
-"214
-[e $ ! == _minute -> -> 60 `i `ui 207  ]
+[e :U 303 ]
+[; ;Automated Solar Panel Orientation Setter.c: 384: }
+[; ;Automated Solar Panel Orientation Setter.c: 387: if( minute == 60){
+"387
+[e $ ! == _minute -> -> 60 `i `ui 304  ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 215: minute = 0;
-"215
+[; ;Automated Solar Panel Orientation Setter.c: 388: minute = 0;
+"388
 [e = _minute -> -> 0 `i `ui ]
-[; ;Automated Solar Panel Orientation Setter.c: 216: hour ++;
-"216
+[; ;Automated Solar Panel Orientation Setter.c: 389: hour ++;
+"389
 [e ++ _hour -> -> 1 `i `ui ]
-[; ;Automated Solar Panel Orientation Setter.c: 217: if( hour == 24) hour == 0;
-"217
-[e $ ! == _hour -> -> 24 `i `ui 208  ]
+[; ;Automated Solar Panel Orientation Setter.c: 390: if( hour == 24) hour == 0;
+"390
+[e $ ! == _hour -> -> 24 `i `ui 305  ]
 [e == _hour -> -> 0 `i `ui ]
-[e :U 208 ]
-"218
+[e :U 305 ]
+"391
 }
-[e :U 207 ]
-"219
+[e :U 304 ]
+"392
 }
-[e :U 205 ]
-"220
+[e :U 302 ]
+"393
 }
-[e :U 204 ]
-[; ;Automated Solar Panel Orientation Setter.c: 218: }
-[; ;Automated Solar Panel Orientation Setter.c: 219: }
-[; ;Automated Solar Panel Orientation Setter.c: 220: }
-[; ;Automated Solar Panel Orientation Setter.c: 221: TMR1IF = 0;
-"221
+[e :U 301 ]
+[; ;Automated Solar Panel Orientation Setter.c: 391: }
+[; ;Automated Solar Panel Orientation Setter.c: 392: }
+[; ;Automated Solar Panel Orientation Setter.c: 393: }
+[; ;Automated Solar Panel Orientation Setter.c: 394: TMR1IF = 0;
+"394
 [e = _TMR1IF -> -> 0 `i `b ]
-[; ;Automated Solar Panel Orientation Setter.c: 222: TMR1L = 0xB0;
-"222
+[; ;Automated Solar Panel Orientation Setter.c: 395: TMR1L = 0xB0;
+"395
 [e = _TMR1L -> -> 176 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 223: TMR1H = 0x3C;
-"223
+[; ;Automated Solar Panel Orientation Setter.c: 396: TMR1H = 0x3C;
+"396
 [e = _TMR1H -> -> 60 `i `uc ]
-"224
+"397
 }
-[e :U 203 ]
-[; ;Automated Solar Panel Orientation Setter.c: 224: }
-[; ;Automated Solar Panel Orientation Setter.c: 225: if( RCIF == 1){
-"225
-[e $ ! == -> _RCIF `i -> 1 `i 209  ]
+[e :U 300 ]
+[; ;Automated Solar Panel Orientation Setter.c: 397: }
+[; ;Automated Solar Panel Orientation Setter.c: 398: if( RCIF == 1){
+"398
+[e $ ! == -> _RCIF `i -> 1 `i 306  ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 226: if ((FERR == 0) && (OERR == 0))
-"226
-[e $ ! && == -> _FERR `i -> 0 `i == -> _OERR `i -> 0 `i 210  ]
-[; ;Automated Solar Panel Orientation Setter.c: 227: {
-"227
+[; ;Automated Solar Panel Orientation Setter.c: 399: if ((FERR == 0) && (OERR == 0))
+"399
+[e $ ! && == -> _FERR `i -> 0 `i == -> _OERR `i -> 0 `i 307  ]
+[; ;Automated Solar Panel Orientation Setter.c: 400: {
+"400
 {
-[; ;Automated Solar Panel Orientation Setter.c: 228: wtmp = RCREG;
-"228
+[; ;Automated Solar Panel Orientation Setter.c: 401: wtmp = RCREG;
+"401
 [e = _wtmp _RCREG ]
-[; ;Automated Solar Panel Orientation Setter.c: 229: if( RCREG=='*' || j > 20-1 ){
-"229
-[e $ ! || == -> _RCREG `ui -> 42 `ui > -> _j `i - -> 20 `i -> 1 `i 211  ]
+[; ;Automated Solar Panel Orientation Setter.c: 402: if( RCREG=='*' || j > 20-1 ){
+"402
+[e $ ! || == -> _RCREG `ui -> 42 `ui > -> _j `i - -> 20 `i -> 1 `i 308  ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 230: j=0;
-"230
+[; ;Automated Solar Panel Orientation Setter.c: 403: j=0;
+"403
 [e = _j -> -> 0 `i `uc ]
-"231
+"404
 }
-[e :U 211 ]
-[; ;Automated Solar Panel Orientation Setter.c: 231: }
-[; ;Automated Solar Panel Orientation Setter.c: 232: buffer[j] = RCREG;
-"232
+[e :U 308 ]
+[; ;Automated Solar Panel Orientation Setter.c: 404: }
+[; ;Automated Solar Panel Orientation Setter.c: 405: buffer[j] = RCREG;
+"405
 [e = *U + &U _buffer * -> _j `ux -> -> # *U &U _buffer `ui `ux _RCREG ]
-[; ;Automated Solar Panel Orientation Setter.c: 233: j ++;
-"233
+[; ;Automated Solar Panel Orientation Setter.c: 406: j ++;
+"406
 [e ++ _j -> -> 1 `i `uc ]
-"234
+"407
 }
-[; ;Automated Solar Panel Orientation Setter.c: 234: }
-[e $U 212  ]
-"235
-[e :U 210 ]
-[; ;Automated Solar Panel Orientation Setter.c: 235: else
-[; ;Automated Solar Panel Orientation Setter.c: 236: {
-"236
+[; ;Automated Solar Panel Orientation Setter.c: 407: }
+[e $U 309  ]
+"408
+[e :U 307 ]
+[; ;Automated Solar Panel Orientation Setter.c: 408: else
+[; ;Automated Solar Panel Orientation Setter.c: 409: {
+"409
 {
-[; ;Automated Solar Panel Orientation Setter.c: 237: CREN = 0;
-"237
+[; ;Automated Solar Panel Orientation Setter.c: 410: CREN = 0;
+"410
 [e = _CREN -> -> 0 `i `b ]
-[; ;Automated Solar Panel Orientation Setter.c: 238: FERR = 0;
-"238
+[; ;Automated Solar Panel Orientation Setter.c: 411: FERR = 0;
+"411
 [e = _FERR -> -> 0 `i `b ]
-[; ;Automated Solar Panel Orientation Setter.c: 239: wtmp = RCREG;
-"239
+[; ;Automated Solar Panel Orientation Setter.c: 412: wtmp = RCREG;
+"412
 [e = _wtmp _RCREG ]
-[; ;Automated Solar Panel Orientation Setter.c: 240: wtmp = RCREG;
-"240
+[; ;Automated Solar Panel Orientation Setter.c: 413: wtmp = RCREG;
+"413
 [e = _wtmp _RCREG ]
-[; ;Automated Solar Panel Orientation Setter.c: 241: CREN = 1;
-"241
+[; ;Automated Solar Panel Orientation Setter.c: 414: CREN = 1;
+"414
 [e = _CREN -> -> 1 `i `b ]
-"242
+"415
 }
-[e :U 212 ]
-[; ;Automated Solar Panel Orientation Setter.c: 242: }
-[; ;Automated Solar Panel Orientation Setter.c: 243: RCIF = 0;
-"243
+[e :U 309 ]
+[; ;Automated Solar Panel Orientation Setter.c: 415: }
+[; ;Automated Solar Panel Orientation Setter.c: 416: RCIF = 0;
+"416
 [e = _RCIF -> -> 0 `i `b ]
-"244
+"417
 }
-[e :U 209 ]
-[; ;Automated Solar Panel Orientation Setter.c: 244: }
-[; ;Automated Solar Panel Orientation Setter.c: 245: if(OERR == 1)
-"245
-[e $ ! == -> _OERR `i -> 1 `i 213  ]
-[; ;Automated Solar Panel Orientation Setter.c: 246: {
-"246
+[e :U 306 ]
+[; ;Automated Solar Panel Orientation Setter.c: 417: }
+[; ;Automated Solar Panel Orientation Setter.c: 418: if(OERR == 1)
+"418
+[e $ ! == -> _OERR `i -> 1 `i 310  ]
+[; ;Automated Solar Panel Orientation Setter.c: 419: {
+"419
 {
-[; ;Automated Solar Panel Orientation Setter.c: 247: CREN = 0;
-"247
+[; ;Automated Solar Panel Orientation Setter.c: 420: CREN = 0;
+"420
 [e = _CREN -> -> 0 `i `b ]
-[; ;Automated Solar Panel Orientation Setter.c: 249: wtmp = RCREG;
-"249
+[; ;Automated Solar Panel Orientation Setter.c: 422: wtmp = RCREG;
+"422
 [e = _wtmp _RCREG ]
-[; ;Automated Solar Panel Orientation Setter.c: 250: wtmp = RCREG;
-"250
+[; ;Automated Solar Panel Orientation Setter.c: 423: wtmp = RCREG;
+"423
 [e = _wtmp _RCREG ]
-[; ;Automated Solar Panel Orientation Setter.c: 251: CREN = 1;
-"251
+[; ;Automated Solar Panel Orientation Setter.c: 424: CREN = 1;
+"424
 [e = _CREN -> -> 1 `i `b ]
-"252
+"425
 }
-[e :U 213 ]
-[; ;Automated Solar Panel Orientation Setter.c: 252: }
-[; ;Automated Solar Panel Orientation Setter.c: 254: }
-"254
-[e :UE 202 ]
+[e :U 310 ]
+[; ;Automated Solar Panel Orientation Setter.c: 425: }
+[; ;Automated Solar Panel Orientation Setter.c: 427: }
+"427
+[e :UE 299 ]
 }
-"256
+"429
 [v _check_pc `(v  1 ef ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 256: void check_pc(){
+[; ;Automated Solar Panel Orientation Setter.c: 429: void check_pc(){
 [e :U _check_pc ]
 [f ]
-[; ;Automated Solar Panel Orientation Setter.c: 257: if(
-[; ;Automated Solar Panel Orientation Setter.c: 258: buffer[0] == '*' &&
-[; ;Automated Solar Panel Orientation Setter.c: 259: buffer[1] == '#' &&
-[; ;Automated Solar Panel Orientation Setter.c: 260: buffer[2] == 'D' &&
-[; ;Automated Solar Panel Orientation Setter.c: 261: buffer[3] == 'R' &&
-[; ;Automated Solar Panel Orientation Setter.c: 262: buffer[4] == 'E' &&
-[; ;Automated Solar Panel Orientation Setter.c: 263: buffer[5] == 'Q' &&
-[; ;Automated Solar Panel Orientation Setter.c: 264: buffer[6] == '?'
-[; ;Automated Solar Panel Orientation Setter.c: 265: ){
-"265
-[e $ ! && && && && && && == -> *U + &U _buffer * -> -> -> 0 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 42 `ui == -> *U + &U _buffer * -> -> -> 1 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 35 `ui == -> *U + &U _buffer * -> -> -> 2 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 68 `ui == -> *U + &U _buffer * -> -> -> 3 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 82 `ui == -> *U + &U _buffer * -> -> -> 4 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 69 `ui == -> *U + &U _buffer * -> -> -> 5 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 81 `ui == -> *U + &U _buffer * -> -> -> 6 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 63 `ui 215  ]
+[; ;Automated Solar Panel Orientation Setter.c: 430: if(
+[; ;Automated Solar Panel Orientation Setter.c: 431: buffer[0] == '*' &&
+[; ;Automated Solar Panel Orientation Setter.c: 432: buffer[1] == '#' &&
+[; ;Automated Solar Panel Orientation Setter.c: 433: buffer[2] == 'D' &&
+[; ;Automated Solar Panel Orientation Setter.c: 434: buffer[3] == 'R' &&
+[; ;Automated Solar Panel Orientation Setter.c: 435: buffer[4] == 'E' &&
+[; ;Automated Solar Panel Orientation Setter.c: 436: buffer[5] == 'Q' &&
+[; ;Automated Solar Panel Orientation Setter.c: 437: buffer[6] == '?'
+[; ;Automated Solar Panel Orientation Setter.c: 438: ){
+"438
+[e $ ! && && && && && && == -> *U + &U _buffer * -> -> -> 0 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 42 `ui == -> *U + &U _buffer * -> -> -> 1 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 35 `ui == -> *U + &U _buffer * -> -> -> 2 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 68 `ui == -> *U + &U _buffer * -> -> -> 3 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 82 `ui == -> *U + &U _buffer * -> -> -> 4 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 69 `ui == -> *U + &U _buffer * -> -> -> 5 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 81 `ui == -> *U + &U _buffer * -> -> -> 6 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 63 `ui 312  ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 266: state = 1;
-"266
+[; ;Automated Solar Panel Orientation Setter.c: 439: state = 1;
+"439
 [e = _state -> -> 1 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 267: ClrBuffer();
-"267
+[; ;Automated Solar Panel Orientation Setter.c: 440: ClrBuffer();
+"440
 [e ( _ClrBuffer ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 268: nop=1;
-"268
+[; ;Automated Solar Panel Orientation Setter.c: 441: nop=1;
+"441
 [e = _nop -> -> 1 `i `b ]
-"269
+"442
 }
-[; ;Automated Solar Panel Orientation Setter.c: 269: }
-[e $U 216  ]
-"270
-[e :U 215 ]
-[; ;Automated Solar Panel Orientation Setter.c: 270: else if(
-[; ;Automated Solar Panel Orientation Setter.c: 271: buffer[0] == '*' &&
-[; ;Automated Solar Panel Orientation Setter.c: 272: buffer[1] == '#' &&
-[; ;Automated Solar Panel Orientation Setter.c: 273: buffer[2] == 'D' &&
-[; ;Automated Solar Panel Orientation Setter.c: 274: buffer[3] == 'R' &&
-[; ;Automated Solar Panel Orientation Setter.c: 275: buffer[4] == 'E' &&
-[; ;Automated Solar Panel Orientation Setter.c: 276: buffer[5] == 'Q' &&
-[; ;Automated Solar Panel Orientation Setter.c: 277: buffer[6] == '=' &&
-[; ;Automated Solar Panel Orientation Setter.c: 278: buffer[7] == '1' &&
-[; ;Automated Solar Panel Orientation Setter.c: 279: buffer[8] == '2' &&
-[; ;Automated Solar Panel Orientation Setter.c: 280: buffer[9] == '4'
-[; ;Automated Solar Panel Orientation Setter.c: 281: ){
-"281
-[e $ ! && && && && && && && && && == -> *U + &U _buffer * -> -> -> 0 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 42 `ui == -> *U + &U _buffer * -> -> -> 1 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 35 `ui == -> *U + &U _buffer * -> -> -> 2 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 68 `ui == -> *U + &U _buffer * -> -> -> 3 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 82 `ui == -> *U + &U _buffer * -> -> -> 4 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 69 `ui == -> *U + &U _buffer * -> -> -> 5 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 81 `ui == -> *U + &U _buffer * -> -> -> 6 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 61 `ui == -> *U + &U _buffer * -> -> -> 7 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 49 `ui == -> *U + &U _buffer * -> -> -> 8 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 50 `ui == -> *U + &U _buffer * -> -> -> 9 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 52 `ui 217  ]
+[; ;Automated Solar Panel Orientation Setter.c: 442: }
+[e $U 313  ]
+"443
+[e :U 312 ]
+[; ;Automated Solar Panel Orientation Setter.c: 443: else if(
+[; ;Automated Solar Panel Orientation Setter.c: 444: buffer[0] == '*' &&
+[; ;Automated Solar Panel Orientation Setter.c: 445: buffer[1] == '#' &&
+[; ;Automated Solar Panel Orientation Setter.c: 446: buffer[2] == 'D' &&
+[; ;Automated Solar Panel Orientation Setter.c: 447: buffer[3] == 'R' &&
+[; ;Automated Solar Panel Orientation Setter.c: 448: buffer[4] == 'E' &&
+[; ;Automated Solar Panel Orientation Setter.c: 449: buffer[5] == 'Q' &&
+[; ;Automated Solar Panel Orientation Setter.c: 450: buffer[6] == '=' &&
+[; ;Automated Solar Panel Orientation Setter.c: 451: buffer[7] == '1' &&
+[; ;Automated Solar Panel Orientation Setter.c: 452: buffer[8] == '2' &&
+[; ;Automated Solar Panel Orientation Setter.c: 453: buffer[9] == '4'
+[; ;Automated Solar Panel Orientation Setter.c: 454: ){
+"454
+[e $ ! && && && && && && && && && == -> *U + &U _buffer * -> -> -> 0 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 42 `ui == -> *U + &U _buffer * -> -> -> 1 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 35 `ui == -> *U + &U _buffer * -> -> -> 2 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 68 `ui == -> *U + &U _buffer * -> -> -> 3 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 82 `ui == -> *U + &U _buffer * -> -> -> 4 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 69 `ui == -> *U + &U _buffer * -> -> -> 5 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 81 `ui == -> *U + &U _buffer * -> -> -> 6 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 61 `ui == -> *U + &U _buffer * -> -> -> 7 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 49 `ui == -> *U + &U _buffer * -> -> -> 8 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 50 `ui == -> *U + &U _buffer * -> -> -> 9 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 52 `ui 314  ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 282: state = 2;
-"282
+[; ;Automated Solar Panel Orientation Setter.c: 455: state = 2;
+"455
 [e = _state -> -> 2 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 283: ClrBuffer();
-"283
+[; ;Automated Solar Panel Orientation Setter.c: 456: ClrBuffer();
+"456
 [e ( _ClrBuffer ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 284: nop=1;
-"284
+[; ;Automated Solar Panel Orientation Setter.c: 457: nop=1;
+"457
 [e = _nop -> -> 1 `i `b ]
-"285
+"458
 }
-[; ;Automated Solar Panel Orientation Setter.c: 285: }
-[e $U 218  ]
-"286
-[e :U 217 ]
-[; ;Automated Solar Panel Orientation Setter.c: 286: else if(
-[; ;Automated Solar Panel Orientation Setter.c: 287: buffer[0] == '*' &&
-[; ;Automated Solar Panel Orientation Setter.c: 288: buffer[1] == '#' &&
-[; ;Automated Solar Panel Orientation Setter.c: 289: buffer[2] == 'B' &&
-[; ;Automated Solar Panel Orientation Setter.c: 290: buffer[3] == 'R' &&
-[; ;Automated Solar Panel Orientation Setter.c: 291: buffer[4] == 'E' &&
-[; ;Automated Solar Panel Orientation Setter.c: 292: buffer[5] == 'Q' &&
-[; ;Automated Solar Panel Orientation Setter.c: 293: buffer[6] == '=' &&
-[; ;Automated Solar Panel Orientation Setter.c: 294: buffer[7] == '1' &&
-[; ;Automated Solar Panel Orientation Setter.c: 295: buffer[8] == '2' &&
-[; ;Automated Solar Panel Orientation Setter.c: 296: buffer[9] == '4'
-[; ;Automated Solar Panel Orientation Setter.c: 297: ){
-"297
-[e $ ! && && && && && && && && && == -> *U + &U _buffer * -> -> -> 0 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 42 `ui == -> *U + &U _buffer * -> -> -> 1 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 35 `ui == -> *U + &U _buffer * -> -> -> 2 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 66 `ui == -> *U + &U _buffer * -> -> -> 3 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 82 `ui == -> *U + &U _buffer * -> -> -> 4 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 69 `ui == -> *U + &U _buffer * -> -> -> 5 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 81 `ui == -> *U + &U _buffer * -> -> -> 6 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 61 `ui == -> *U + &U _buffer * -> -> -> 7 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 49 `ui == -> *U + &U _buffer * -> -> -> 8 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 50 `ui == -> *U + &U _buffer * -> -> -> 9 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 52 `ui 219  ]
+[; ;Automated Solar Panel Orientation Setter.c: 458: }
+[e $U 315  ]
+"459
+[e :U 314 ]
+[; ;Automated Solar Panel Orientation Setter.c: 459: else if(
+[; ;Automated Solar Panel Orientation Setter.c: 460: buffer[0] == '*' &&
+[; ;Automated Solar Panel Orientation Setter.c: 461: buffer[1] == '#' &&
+[; ;Automated Solar Panel Orientation Setter.c: 462: buffer[2] == 'B' &&
+[; ;Automated Solar Panel Orientation Setter.c: 463: buffer[3] == 'R' &&
+[; ;Automated Solar Panel Orientation Setter.c: 464: buffer[4] == 'E' &&
+[; ;Automated Solar Panel Orientation Setter.c: 465: buffer[5] == 'Q' &&
+[; ;Automated Solar Panel Orientation Setter.c: 466: buffer[6] == '=' &&
+[; ;Automated Solar Panel Orientation Setter.c: 467: buffer[7] == '1' &&
+[; ;Automated Solar Panel Orientation Setter.c: 468: buffer[8] == '2' &&
+[; ;Automated Solar Panel Orientation Setter.c: 469: buffer[9] == '4'
+[; ;Automated Solar Panel Orientation Setter.c: 470: ){
+"470
+[e $ ! && && && && && && && && && == -> *U + &U _buffer * -> -> -> 0 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 42 `ui == -> *U + &U _buffer * -> -> -> 1 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 35 `ui == -> *U + &U _buffer * -> -> -> 2 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 66 `ui == -> *U + &U _buffer * -> -> -> 3 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 82 `ui == -> *U + &U _buffer * -> -> -> 4 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 69 `ui == -> *U + &U _buffer * -> -> -> 5 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 81 `ui == -> *U + &U _buffer * -> -> -> 6 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 61 `ui == -> *U + &U _buffer * -> -> -> 7 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 49 `ui == -> *U + &U _buffer * -> -> -> 8 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 50 `ui == -> *U + &U _buffer * -> -> -> 9 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 52 `ui 316  ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 298: state = 3;
-"298
+[; ;Automated Solar Panel Orientation Setter.c: 471: state = 3;
+"471
 [e = _state -> -> 3 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 299: ClrBuffer();
-"299
+[; ;Automated Solar Panel Orientation Setter.c: 472: ClrBuffer();
+"472
 [e ( _ClrBuffer ..  ]
-[; ;Automated Solar Panel Orientation Setter.c: 300: nop=1;
-"300
+[; ;Automated Solar Panel Orientation Setter.c: 473: nop=1;
+"473
 [e = _nop -> -> 1 `i `b ]
-"301
+"474
 }
-[; ;Automated Solar Panel Orientation Setter.c: 301: }
-[e $U 220  ]
-"302
-[e :U 219 ]
-[; ;Automated Solar Panel Orientation Setter.c: 302: else {
+[; ;Automated Solar Panel Orientation Setter.c: 474: }
+[e $U 317  ]
+"475
+[e :U 316 ]
+[; ;Automated Solar Panel Orientation Setter.c: 475: else {
 {
-[; ;Automated Solar Panel Orientation Setter.c: 303: state = 0;
-"303
+[; ;Automated Solar Panel Orientation Setter.c: 476: state = 0;
+"476
 [e = _state -> -> 0 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 304: nop=1;
-"304
+[; ;Automated Solar Panel Orientation Setter.c: 477: nop=1;
+"477
 [e = _nop -> -> 1 `i `b ]
-"305
+"478
 }
-[e :U 220 ]
-[e :U 218 ]
-[e :U 216 ]
-[; ;Automated Solar Panel Orientation Setter.c: 305: }
-[; ;Automated Solar Panel Orientation Setter.c: 306: }
-"306
-[e :UE 214 ]
+[e :U 317 ]
+[e :U 315 ]
+[e :U 313 ]
+[; ;Automated Solar Panel Orientation Setter.c: 478: }
+[; ;Automated Solar Panel Orientation Setter.c: 479: }
+"479
+[e :UE 311 ]
 }
-"308
+"481
 [v _bdnu_unid `(v  1 ef ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 308: void bdnu_unid(){
+[; ;Automated Solar Panel Orientation Setter.c: 481: void bdnu_unid(){
 [e :U _bdnu_unid ]
 [f ]
-[; ;Automated Solar Panel Orientation Setter.c: 309: z = 3;
-"309
+[; ;Automated Solar Panel Orientation Setter.c: 482: z = 3;
+"482
 [e = _z -> -> 3 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 310: w = 4;
-"310
+[; ;Automated Solar Panel Orientation Setter.c: 483: w = 4;
+"483
 [e = _w -> -> 4 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 311: v = 2;
-"311
+[; ;Automated Solar Panel Orientation Setter.c: 484: v = 2;
+"484
 [e = _v -> -> 2 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 312: y = 6;
-"312
+[; ;Automated Solar Panel Orientation Setter.c: 485: y = 6;
+"485
 [e = _y -> -> 6 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 313: while(!TXIF);
-"313
-[e $U 222  ]
-[e :U 223 ]
-[e :U 222 ]
-[e $ ! _TXIF 223  ]
-[e :U 224 ]
-[; ;Automated Solar Panel Orientation Setter.c: 314: TXREG = (z+48);
-"314
+[; ;Automated Solar Panel Orientation Setter.c: 486: while(!TXIF);
+"486
+[e $U 319  ]
+[e :U 320 ]
+[e :U 319 ]
+[e $ ! _TXIF 320  ]
+[e :U 321 ]
+[; ;Automated Solar Panel Orientation Setter.c: 487: TXREG = (z+48);
+"487
 [e = _TXREG -> + -> _z `i -> 48 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 315: _delay((unsigned long)((1)*(4000000/4000.0)));
-"315
+[; ;Automated Solar Panel Orientation Setter.c: 488: _delay((unsigned long)((1)*(4000000/4000.0)));
+"488
 [e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
-[; ;Automated Solar Panel Orientation Setter.c: 316: while(!TXIF);
-"316
-[e $U 225  ]
-[e :U 226 ]
-[e :U 225 ]
-[e $ ! _TXIF 226  ]
-[e :U 227 ]
-[; ;Automated Solar Panel Orientation Setter.c: 317: TXREG = (w+48);
-"317
+[; ;Automated Solar Panel Orientation Setter.c: 489: while(!TXIF);
+"489
+[e $U 322  ]
+[e :U 323 ]
+[e :U 322 ]
+[e $ ! _TXIF 323  ]
+[e :U 324 ]
+[; ;Automated Solar Panel Orientation Setter.c: 490: TXREG = (w+48);
+"490
 [e = _TXREG -> + -> _w `i -> 48 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 318: _delay((unsigned long)((1)*(4000000/4000.0)));
-"318
+[; ;Automated Solar Panel Orientation Setter.c: 491: _delay((unsigned long)((1)*(4000000/4000.0)));
+"491
 [e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
-[; ;Automated Solar Panel Orientation Setter.c: 319: while(!TXIF);
-"319
-[e $U 228  ]
-[e :U 229 ]
-[e :U 228 ]
-[e $ ! _TXIF 229  ]
-[e :U 230 ]
-[; ;Automated Solar Panel Orientation Setter.c: 320: TXREG = 13;
-"320
+[; ;Automated Solar Panel Orientation Setter.c: 492: while(!TXIF);
+"492
+[e $U 325  ]
+[e :U 326 ]
+[e :U 325 ]
+[e $ ! _TXIF 326  ]
+[e :U 327 ]
+[; ;Automated Solar Panel Orientation Setter.c: 493: TXREG = 13;
+"493
 [e = _TXREG -> -> 13 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 321: _delay((unsigned long)((1)*(4000000/4000.0)));
-"321
+[; ;Automated Solar Panel Orientation Setter.c: 494: _delay((unsigned long)((1)*(4000000/4000.0)));
+"494
 [e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
-[; ;Automated Solar Panel Orientation Setter.c: 322: while(!TXIF);
-"322
-[e $U 231  ]
-[e :U 232 ]
-[e :U 231 ]
-[e $ ! _TXIF 232  ]
-[e :U 233 ]
-[; ;Automated Solar Panel Orientation Setter.c: 323: TXREG = (v+48);
-"323
+[; ;Automated Solar Panel Orientation Setter.c: 495: while(!TXIF);
+"495
+[e $U 328  ]
+[e :U 329 ]
+[e :U 328 ]
+[e $ ! _TXIF 329  ]
+[e :U 330 ]
+[; ;Automated Solar Panel Orientation Setter.c: 496: TXREG = (v+48);
+"496
 [e = _TXREG -> + -> _v `i -> 48 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 324: _delay((unsigned long)((1)*(4000000/4000.0)));
-"324
+[; ;Automated Solar Panel Orientation Setter.c: 497: _delay((unsigned long)((1)*(4000000/4000.0)));
+"497
 [e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
-[; ;Automated Solar Panel Orientation Setter.c: 325: while(!TXIF);
-"325
-[e $U 234  ]
-[e :U 235 ]
-[e :U 234 ]
-[e $ ! _TXIF 235  ]
-[e :U 236 ]
-[; ;Automated Solar Panel Orientation Setter.c: 326: TXREG = (y+48);
-"326
+[; ;Automated Solar Panel Orientation Setter.c: 498: while(!TXIF);
+"498
+[e $U 331  ]
+[e :U 332 ]
+[e :U 331 ]
+[e $ ! _TXIF 332  ]
+[e :U 333 ]
+[; ;Automated Solar Panel Orientation Setter.c: 499: TXREG = (y+48);
+"499
 [e = _TXREG -> + -> _y `i -> 48 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 327: _delay((unsigned long)((1)*(4000000/4000.0)));
-"327
+[; ;Automated Solar Panel Orientation Setter.c: 500: _delay((unsigned long)((1)*(4000000/4000.0)));
+"500
 [e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
-[; ;Automated Solar Panel Orientation Setter.c: 328: while(!TXIF);
-"328
-[e $U 237  ]
-[e :U 238 ]
-[e :U 237 ]
-[e $ ! _TXIF 238  ]
-[e :U 239 ]
-[; ;Automated Solar Panel Orientation Setter.c: 329: TXREG = 13;
-"329
+[; ;Automated Solar Panel Orientation Setter.c: 501: while(!TXIF);
+"501
+[e $U 334  ]
+[e :U 335 ]
+[e :U 334 ]
+[e $ ! _TXIF 335  ]
+[e :U 336 ]
+[; ;Automated Solar Panel Orientation Setter.c: 502: TXREG = 13;
+"502
 [e = _TXREG -> -> 13 `i `uc ]
-[; ;Automated Solar Panel Orientation Setter.c: 330: _delay((unsigned long)((1)*(4000000/4000.0)));
-"330
+[; ;Automated Solar Panel Orientation Setter.c: 503: _delay((unsigned long)((1)*(4000000/4000.0)));
+"503
 [e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
-[; ;Automated Solar Panel Orientation Setter.c: 331: }
-"331
-[e :UE 221 ]
+[; ;Automated Solar Panel Orientation Setter.c: 504: }
+"504
+[e :UE 318 ]
 }
-"333
+"506
 [v _ClrBuffer `(v  1 ef ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 333: void ClrBuffer(){
+[; ;Automated Solar Panel Orientation Setter.c: 506: void ClrBuffer(){
 [e :U _ClrBuffer ]
 [f ]
-"334
+"507
 [v _i `i  1 a ]
-[; ;Automated Solar Panel Orientation Setter.c: 334: int i;
-[; ;Automated Solar Panel Orientation Setter.c: 335: for(i=0; i<20; i++){
-"335
+[; ;Automated Solar Panel Orientation Setter.c: 507: int i;
+[; ;Automated Solar Panel Orientation Setter.c: 508: for(i=0; i<20; i++){
+"508
 {
 [e = _i -> 0 `i ]
-[e $ < _i -> 20 `i 241  ]
-[e $U 242  ]
-[e :U 241 ]
+[e $ < _i -> 20 `i 338  ]
+[e $U 339  ]
+[e :U 338 ]
 {
-[; ;Automated Solar Panel Orientation Setter.c: 336: buffer[i] = 0;
-"336
+[; ;Automated Solar Panel Orientation Setter.c: 509: buffer[i] = 0;
+"509
 [e = *U + &U _buffer * -> -> _i `ui `ux -> -> # *U &U _buffer `ui `ux -> -> 0 `i `uc ]
-"337
+"510
 }
-"335
+"508
 [e ++ _i -> 1 `i ]
-[e $ < _i -> 20 `i 241  ]
-[e :U 242 ]
-"337
+[e $ < _i -> 20 `i 338  ]
+[e :U 339 ]
+"510
 }
-[; ;Automated Solar Panel Orientation Setter.c: 337: }
-[; ;Automated Solar Panel Orientation Setter.c: 338: }
-"338
-[e :UE 240 ]
+[; ;Automated Solar Panel Orientation Setter.c: 510: }
+[; ;Automated Solar Panel Orientation Setter.c: 511: }
+"511
+[e :UE 337 ]
 }
-[a 9C 83 119 105 116 99 104 101 100 32 116 111 32 77 111 100 101 32 49 0 ]
 [a 1C 66 111 100 121 32 84 101 109 112 101 114 97 116 117 114 101 32 0 ]
 [a 2C 32 97 110 100 32 72 101 97 114 116 32 82 97 116 101 32 32 0 ]
 [a 7C 72 58 32 32 54 50 80 80 77 32 76 111 119 32 32 32 0 ]
