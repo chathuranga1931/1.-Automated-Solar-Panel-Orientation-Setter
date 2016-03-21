@@ -1,0 +1,5058 @@
+Version 3.2 HI-TECH Software Intermediate Code
+"1288 C:\Program Files (x86)\Microchip\xc8\v1.34\include\pic16f877a.h
+[v _TRISA `Vuc ~T0 @X0 0 e@133 ]
+"160
+[v _PORTA `Vuc ~T0 @X0 0 e@5 ]
+"1337
+[v _TRISB `Vuc ~T0 @X0 0 e@134 ]
+"209
+[v _PORTB `Vuc ~T0 @X0 0 e@6 ]
+"1398
+[v _TRISC `Vuc ~T0 @X0 0 e@135 ]
+"270
+[v _PORTC `Vuc ~T0 @X0 0 e@7 ]
+"1459
+[v _TRISD `Vuc ~T0 @X0 0 e@136 ]
+"331
+[v _PORTD `Vuc ~T0 @X0 0 e@8 ]
+"1520
+[v _TRISE `Vuc ~T0 @X0 0 e@137 ]
+"392
+[v _PORTE `Vuc ~T0 @X0 0 e@9 ]
+"2539
+[v _RC3 `Vb ~T0 @X0 0 e@59 ]
+"2537
+[v _RC2 `Vb ~T0 @X0 0 e@58 ]
+"2565
+[v _RD1 `Vb ~T0 @X0 0 e@65 ]
+"2533
+[v _RC0 `Vb ~T0 @X0 0 e@56 ]
+"2563
+[v _RD0 `Vb ~T0 @X0 0 e@64 ]
+"2535
+[v _RC1 `Vb ~T0 @X0 0 e@57 ]
+[v F1089 `(v ~T0 @X0 1 tf1`ul ]
+"150 C:\Program Files (x86)\Microchip\xc8\v1.34\include\pic.h
+[v __delay `JF1089 ~T0 @X0 0 e ]
+[p i __delay ]
+"57 lcdv2.h
+[v _pulseEnable `(v ~T0 @X0 0 ef ]
+"50
+[v _lcd_add `(v ~T0 @X0 0 ef ]
+"51
+[v _position `(v ~T0 @X0 0 ef2`uc`uc ]
+"1124 C:\Program Files (x86)\Microchip\xc8\v1.34\include\pic16f877a.h
+[v _ADCON0 `Vuc ~T0 @X0 0 e@31 ]
+"2175
+[v _ADCON1 `Vuc ~T0 @X0 0 e@159 ]
+"2333
+[v _ADON `Vb ~T0 @X0 0 e@248 ]
+"2445
+[v _GO `Vb ~T0 @X0 0 e@250 ]
+"1118
+[v _ADRESH `Vuc ~T0 @X0 0 e@30 ]
+"2169
+[v _ADRESL `Vuc ~T0 @X0 0 e@158 ]
+"2605
+[v _SPEN `Vb ~T0 @X0 0 e@199 ]
+"2593
+[v _RX9 `Vb ~T0 @X0 0 e@198 ]
+"2407
+[v _CREN `Vb ~T0 @X0 0 e@196 ]
+"2745
+[v _TX9 `Vb ~T0 @X0 0 e@1222 ]
+"2751
+[v _TXEN `Vb ~T0 @X0 0 e@1221 ]
+"2625
+[v _SYNC `Vb ~T0 @X0 0 e@1220 ]
+"2341
+[v _BRGH `Vb ~T0 @X0 0 e@1218 ]
+"2030
+[v _SPBRG `Vuc ~T0 @X0 0 e@153 ]
+"2557
+[v _RCIE `Vb ~T0 @X0 0 e@1125 ]
+"2753
+[v _TXIE `Vb ~T0 @X0 0 e@1124 ]
+"2325
+[v _ADDEN `Vb ~T0 @X0 0 e@195 ]
+"2755
+[v _TXIF `Vb ~T0 @X0 0 e@100 ]
+"1031
+[v _TXREG `Vuc ~T0 @X0 0 e@25 ]
+"2529
+[v _RBIE `Vb ~T0 @X0 0 e@91 ]
+"2463
+[v _INTE `Vb ~T0 @X0 0 e@92 ]
+"2495
+[v _PSPIE `Vb ~T0 @X0 0 e@1127 ]
+"2329
+[v _ADIE `Vb ~T0 @X0 0 e@1126 ]
+"2611
+[v _SSPIE `Vb ~T0 @X0 0 e@1123 ]
+"2353
+[v _CCP1IE `Vb ~T0 @X0 0 e@1122 ]
+"2655
+[v _TMR1IE `Vb ~T0 @X0 0 e@1120 ]
+"2661
+[v _TMR2IE `Vb ~T0 @X0 0 e@1121 ]
+"2629
+[v _T0IE `Vb ~T0 @X0 0 e@93 ]
+"2433
+[v _EEIE `Vb ~T0 @X0 0 e@1132 ]
+"2335
+[v _BCLIE `Vb ~T0 @X0 0 e@1131 ]
+"2369
+[v _CCP2IE `Vb ~T0 @X0 0 e@1128 ]
+"2443
+[v _GIE `Vb ~T0 @X0 0 e@95 ]
+"2483
+[v _PEIE `Vb ~T0 @X0 0 e@94 ]
+"2637
+[v _T1CKPS1 `Vb ~T0 @X0 0 e@133 ]
+"2635
+[v _T1CKPS0 `Vb ~T0 @X0 0 e@132 ]
+"2653
+[v _TMR1CS `Vb ~T0 @X0 0 e@129 ]
+"2659
+[v _TMR1ON `Vb ~T0 @X0 0 e@128 ]
+"2641
+[v _T1OSCEN `Vb ~T0 @X0 0 e@131 ]
+"625
+[v _TMR1L `Vuc ~T0 @X0 0 e@14 ]
+"631
+[v _TMR1H `Vuc ~T0 @X0 0 e@15 ]
+[p mainexit ]
+"207 C:\Program Files (x86)\Microchip\xc8\v1.34\include\stdio.h
+[v _printf `(i ~T0 @X0 0 ev`*Cuc ]
+"41 C:\Program Files (x86)\Microchip\xc8\v1.34\include\eeprom_routines.h
+[v _eeprom_write `(v ~T0 @X0 0 ef2`uc`uc ]
+"42
+[v _eeprom_read `(uc ~T0 @X0 0 ef1`uc ]
+"65 Automated Solar Panel Orientation Setter.c
+[v _LCDTimeUpdate `(v ~T0 @X0 0 ef ]
+"22
+[v _a2d_read `(v ~T0 @X0 0 ef ]
+"63
+[v _CheckMode `(v ~T0 @X0 0 ef ]
+"25
+[v _Calculate `(v ~T0 @X0 0 ef ]
+"60
+[v _CheckKeyPad `(uc ~T0 @X0 0 ef ]
+"2541 C:\Program Files (x86)\Microchip\xc8\v1.34\include\pic16f877a.h
+[v _RC4 `Vb ~T0 @X0 0 e@60 ]
+"2573
+[v _RD5 `Vb ~T0 @X0 0 e@69 ]
+"2543
+[v _RC5 `Vb ~T0 @X0 0 e@61 ]
+"2571
+[v _RD4 `Vb ~T0 @X0 0 e@68 ]
+"61 Automated Solar Panel Orientation Setter.c
+[v _RowNo `(i ~T0 @X0 0 ef ]
+"62
+[v _ColomnNo `(i ~T0 @X0 0 ef1`i ]
+"2567 C:\Program Files (x86)\Microchip\xc8\v1.34\include\pic16f877a.h
+[v _RD2 `Vb ~T0 @X0 0 e@66 ]
+"2577
+[v _RD7 `Vb ~T0 @X0 0 e@71 ]
+"2569
+[v _RD3 `Vb ~T0 @X0 0 e@67 ]
+"2575
+[v _RD6 `Vb ~T0 @X0 0 e@70 ]
+"58 Automated Solar Panel Orientation Setter.c
+[v _RotateMotorLeft `(v ~T0 @X0 0 ef1`i ]
+"57
+[v _RotateMotorRight `(v ~T0 @X0 0 ef1`i ]
+"2517 C:\Program Files (x86)\Microchip\xc8\v1.34\include\pic16f877a.h
+[v _RB2 `Vb ~T0 @X0 0 e@50 ]
+"2519
+[v _RB3 `Vb ~T0 @X0 0 e@51 ]
+"2521
+[v _RB4 `Vb ~T0 @X0 0 e@52 ]
+"2523
+[v _RB5 `Vb ~T0 @X0 0 e@53 ]
+"2657
+[v _TMR1IF `Vb ~T0 @X0 0 e@96 ]
+"2559
+[v _RCIF `Vb ~T0 @X0 0 e@101 ]
+"2439
+[v _FERR `Vb ~T0 @X0 0 e@194 ]
+"2473
+[v _OERR `Vb ~T0 @X0 0 e@193 ]
+"1037
+[v _RCREG `Vuc ~T0 @X0 0 e@26 ]
+"55 Automated Solar Panel Orientation Setter.c
+[v _ClrBuffer `(v ~T0 @X0 0 ef ]
+[; ;htc.h: 26: extern const char __xc8_OPTIM_SPEED;
+[; ;xc8debug.h: 14: extern void __builtin_software_breakpoint(void);
+[; ;pic16f877a.h: 49: extern volatile unsigned char INDF @ 0x000;
+"51 C:\Program Files (x86)\Microchip\xc8\v1.34\include\pic16f877a.h
+[; ;pic16f877a.h: 51: asm("INDF equ 00h");
+[; <" INDF equ 00h ;# ">
+[; ;pic16f877a.h: 55: extern volatile unsigned char TMR0 @ 0x001;
+"57
+[; ;pic16f877a.h: 57: asm("TMR0 equ 01h");
+[; <" TMR0 equ 01h ;# ">
+[; ;pic16f877a.h: 61: extern volatile unsigned char PCL @ 0x002;
+"63
+[; ;pic16f877a.h: 63: asm("PCL equ 02h");
+[; <" PCL equ 02h ;# ">
+[; ;pic16f877a.h: 67: extern volatile unsigned char STATUS @ 0x003;
+"69
+[; ;pic16f877a.h: 69: asm("STATUS equ 03h");
+[; <" STATUS equ 03h ;# ">
+[; ;pic16f877a.h: 72: typedef union {
+[; ;pic16f877a.h: 73: struct {
+[; ;pic16f877a.h: 74: unsigned C :1;
+[; ;pic16f877a.h: 75: unsigned DC :1;
+[; ;pic16f877a.h: 76: unsigned Z :1;
+[; ;pic16f877a.h: 77: unsigned nPD :1;
+[; ;pic16f877a.h: 78: unsigned nTO :1;
+[; ;pic16f877a.h: 79: unsigned RP :2;
+[; ;pic16f877a.h: 80: unsigned IRP :1;
+[; ;pic16f877a.h: 81: };
+[; ;pic16f877a.h: 82: struct {
+[; ;pic16f877a.h: 83: unsigned :5;
+[; ;pic16f877a.h: 84: unsigned RP0 :1;
+[; ;pic16f877a.h: 85: unsigned RP1 :1;
+[; ;pic16f877a.h: 86: };
+[; ;pic16f877a.h: 87: struct {
+[; ;pic16f877a.h: 88: unsigned CARRY :1;
+[; ;pic16f877a.h: 89: };
+[; ;pic16f877a.h: 90: struct {
+[; ;pic16f877a.h: 91: unsigned :2;
+[; ;pic16f877a.h: 92: unsigned ZERO :1;
+[; ;pic16f877a.h: 93: };
+[; ;pic16f877a.h: 94: } STATUSbits_t;
+[; ;pic16f877a.h: 95: extern volatile STATUSbits_t STATUSbits @ 0x003;
+[; ;pic16f877a.h: 154: extern volatile unsigned char FSR @ 0x004;
+"156
+[; ;pic16f877a.h: 156: asm("FSR equ 04h");
+[; <" FSR equ 04h ;# ">
+[; ;pic16f877a.h: 160: extern volatile unsigned char PORTA @ 0x005;
+"162
+[; ;pic16f877a.h: 162: asm("PORTA equ 05h");
+[; <" PORTA equ 05h ;# ">
+[; ;pic16f877a.h: 165: typedef union {
+[; ;pic16f877a.h: 166: struct {
+[; ;pic16f877a.h: 167: unsigned RA0 :1;
+[; ;pic16f877a.h: 168: unsigned RA1 :1;
+[; ;pic16f877a.h: 169: unsigned RA2 :1;
+[; ;pic16f877a.h: 170: unsigned RA3 :1;
+[; ;pic16f877a.h: 171: unsigned RA4 :1;
+[; ;pic16f877a.h: 172: unsigned RA5 :1;
+[; ;pic16f877a.h: 173: };
+[; ;pic16f877a.h: 174: } PORTAbits_t;
+[; ;pic16f877a.h: 175: extern volatile PORTAbits_t PORTAbits @ 0x005;
+[; ;pic16f877a.h: 209: extern volatile unsigned char PORTB @ 0x006;
+"211
+[; ;pic16f877a.h: 211: asm("PORTB equ 06h");
+[; <" PORTB equ 06h ;# ">
+[; ;pic16f877a.h: 214: typedef union {
+[; ;pic16f877a.h: 215: struct {
+[; ;pic16f877a.h: 216: unsigned RB0 :1;
+[; ;pic16f877a.h: 217: unsigned RB1 :1;
+[; ;pic16f877a.h: 218: unsigned RB2 :1;
+[; ;pic16f877a.h: 219: unsigned RB3 :1;
+[; ;pic16f877a.h: 220: unsigned RB4 :1;
+[; ;pic16f877a.h: 221: unsigned RB5 :1;
+[; ;pic16f877a.h: 222: unsigned RB6 :1;
+[; ;pic16f877a.h: 223: unsigned RB7 :1;
+[; ;pic16f877a.h: 224: };
+[; ;pic16f877a.h: 225: } PORTBbits_t;
+[; ;pic16f877a.h: 226: extern volatile PORTBbits_t PORTBbits @ 0x006;
+[; ;pic16f877a.h: 270: extern volatile unsigned char PORTC @ 0x007;
+"272
+[; ;pic16f877a.h: 272: asm("PORTC equ 07h");
+[; <" PORTC equ 07h ;# ">
+[; ;pic16f877a.h: 275: typedef union {
+[; ;pic16f877a.h: 276: struct {
+[; ;pic16f877a.h: 277: unsigned RC0 :1;
+[; ;pic16f877a.h: 278: unsigned RC1 :1;
+[; ;pic16f877a.h: 279: unsigned RC2 :1;
+[; ;pic16f877a.h: 280: unsigned RC3 :1;
+[; ;pic16f877a.h: 281: unsigned RC4 :1;
+[; ;pic16f877a.h: 282: unsigned RC5 :1;
+[; ;pic16f877a.h: 283: unsigned RC6 :1;
+[; ;pic16f877a.h: 284: unsigned RC7 :1;
+[; ;pic16f877a.h: 285: };
+[; ;pic16f877a.h: 286: } PORTCbits_t;
+[; ;pic16f877a.h: 287: extern volatile PORTCbits_t PORTCbits @ 0x007;
+[; ;pic16f877a.h: 331: extern volatile unsigned char PORTD @ 0x008;
+"333
+[; ;pic16f877a.h: 333: asm("PORTD equ 08h");
+[; <" PORTD equ 08h ;# ">
+[; ;pic16f877a.h: 336: typedef union {
+[; ;pic16f877a.h: 337: struct {
+[; ;pic16f877a.h: 338: unsigned RD0 :1;
+[; ;pic16f877a.h: 339: unsigned RD1 :1;
+[; ;pic16f877a.h: 340: unsigned RD2 :1;
+[; ;pic16f877a.h: 341: unsigned RD3 :1;
+[; ;pic16f877a.h: 342: unsigned RD4 :1;
+[; ;pic16f877a.h: 343: unsigned RD5 :1;
+[; ;pic16f877a.h: 344: unsigned RD6 :1;
+[; ;pic16f877a.h: 345: unsigned RD7 :1;
+[; ;pic16f877a.h: 346: };
+[; ;pic16f877a.h: 347: } PORTDbits_t;
+[; ;pic16f877a.h: 348: extern volatile PORTDbits_t PORTDbits @ 0x008;
+[; ;pic16f877a.h: 392: extern volatile unsigned char PORTE @ 0x009;
+"394
+[; ;pic16f877a.h: 394: asm("PORTE equ 09h");
+[; <" PORTE equ 09h ;# ">
+[; ;pic16f877a.h: 397: typedef union {
+[; ;pic16f877a.h: 398: struct {
+[; ;pic16f877a.h: 399: unsigned RE0 :1;
+[; ;pic16f877a.h: 400: unsigned RE1 :1;
+[; ;pic16f877a.h: 401: unsigned RE2 :1;
+[; ;pic16f877a.h: 402: };
+[; ;pic16f877a.h: 403: } PORTEbits_t;
+[; ;pic16f877a.h: 404: extern volatile PORTEbits_t PORTEbits @ 0x009;
+[; ;pic16f877a.h: 423: extern volatile unsigned char PCLATH @ 0x00A;
+"425
+[; ;pic16f877a.h: 425: asm("PCLATH equ 0Ah");
+[; <" PCLATH equ 0Ah ;# ">
+[; ;pic16f877a.h: 428: typedef union {
+[; ;pic16f877a.h: 429: struct {
+[; ;pic16f877a.h: 430: unsigned PCLATH :5;
+[; ;pic16f877a.h: 431: };
+[; ;pic16f877a.h: 432: } PCLATHbits_t;
+[; ;pic16f877a.h: 433: extern volatile PCLATHbits_t PCLATHbits @ 0x00A;
+[; ;pic16f877a.h: 442: extern volatile unsigned char INTCON @ 0x00B;
+"444
+[; ;pic16f877a.h: 444: asm("INTCON equ 0Bh");
+[; <" INTCON equ 0Bh ;# ">
+[; ;pic16f877a.h: 447: typedef union {
+[; ;pic16f877a.h: 448: struct {
+[; ;pic16f877a.h: 449: unsigned RBIF :1;
+[; ;pic16f877a.h: 450: unsigned INTF :1;
+[; ;pic16f877a.h: 451: unsigned TMR0IF :1;
+[; ;pic16f877a.h: 452: unsigned RBIE :1;
+[; ;pic16f877a.h: 453: unsigned INTE :1;
+[; ;pic16f877a.h: 454: unsigned TMR0IE :1;
+[; ;pic16f877a.h: 455: unsigned PEIE :1;
+[; ;pic16f877a.h: 456: unsigned GIE :1;
+[; ;pic16f877a.h: 457: };
+[; ;pic16f877a.h: 458: struct {
+[; ;pic16f877a.h: 459: unsigned :2;
+[; ;pic16f877a.h: 460: unsigned T0IF :1;
+[; ;pic16f877a.h: 461: unsigned :2;
+[; ;pic16f877a.h: 462: unsigned T0IE :1;
+[; ;pic16f877a.h: 463: };
+[; ;pic16f877a.h: 464: } INTCONbits_t;
+[; ;pic16f877a.h: 465: extern volatile INTCONbits_t INTCONbits @ 0x00B;
+[; ;pic16f877a.h: 519: extern volatile unsigned char PIR1 @ 0x00C;
+"521
+[; ;pic16f877a.h: 521: asm("PIR1 equ 0Ch");
+[; <" PIR1 equ 0Ch ;# ">
+[; ;pic16f877a.h: 524: typedef union {
+[; ;pic16f877a.h: 525: struct {
+[; ;pic16f877a.h: 526: unsigned TMR1IF :1;
+[; ;pic16f877a.h: 527: unsigned TMR2IF :1;
+[; ;pic16f877a.h: 528: unsigned CCP1IF :1;
+[; ;pic16f877a.h: 529: unsigned SSPIF :1;
+[; ;pic16f877a.h: 530: unsigned TXIF :1;
+[; ;pic16f877a.h: 531: unsigned RCIF :1;
+[; ;pic16f877a.h: 532: unsigned ADIF :1;
+[; ;pic16f877a.h: 533: unsigned PSPIF :1;
+[; ;pic16f877a.h: 534: };
+[; ;pic16f877a.h: 535: } PIR1bits_t;
+[; ;pic16f877a.h: 536: extern volatile PIR1bits_t PIR1bits @ 0x00C;
+[; ;pic16f877a.h: 580: extern volatile unsigned char PIR2 @ 0x00D;
+"582
+[; ;pic16f877a.h: 582: asm("PIR2 equ 0Dh");
+[; <" PIR2 equ 0Dh ;# ">
+[; ;pic16f877a.h: 585: typedef union {
+[; ;pic16f877a.h: 586: struct {
+[; ;pic16f877a.h: 587: unsigned CCP2IF :1;
+[; ;pic16f877a.h: 588: unsigned :2;
+[; ;pic16f877a.h: 589: unsigned BCLIF :1;
+[; ;pic16f877a.h: 590: unsigned EEIF :1;
+[; ;pic16f877a.h: 591: unsigned :1;
+[; ;pic16f877a.h: 592: unsigned CMIF :1;
+[; ;pic16f877a.h: 593: };
+[; ;pic16f877a.h: 594: } PIR2bits_t;
+[; ;pic16f877a.h: 595: extern volatile PIR2bits_t PIR2bits @ 0x00D;
+[; ;pic16f877a.h: 619: extern volatile unsigned short TMR1 @ 0x00E;
+"621
+[; ;pic16f877a.h: 621: asm("TMR1 equ 0Eh");
+[; <" TMR1 equ 0Eh ;# ">
+[; ;pic16f877a.h: 625: extern volatile unsigned char TMR1L @ 0x00E;
+"627
+[; ;pic16f877a.h: 627: asm("TMR1L equ 0Eh");
+[; <" TMR1L equ 0Eh ;# ">
+[; ;pic16f877a.h: 631: extern volatile unsigned char TMR1H @ 0x00F;
+"633
+[; ;pic16f877a.h: 633: asm("TMR1H equ 0Fh");
+[; <" TMR1H equ 0Fh ;# ">
+[; ;pic16f877a.h: 637: extern volatile unsigned char T1CON @ 0x010;
+"639
+[; ;pic16f877a.h: 639: asm("T1CON equ 010h");
+[; <" T1CON equ 010h ;# ">
+[; ;pic16f877a.h: 642: typedef union {
+[; ;pic16f877a.h: 643: struct {
+[; ;pic16f877a.h: 644: unsigned TMR1ON :1;
+[; ;pic16f877a.h: 645: unsigned TMR1CS :1;
+[; ;pic16f877a.h: 646: unsigned nT1SYNC :1;
+[; ;pic16f877a.h: 647: unsigned T1OSCEN :1;
+[; ;pic16f877a.h: 648: unsigned T1CKPS :2;
+[; ;pic16f877a.h: 649: };
+[; ;pic16f877a.h: 650: struct {
+[; ;pic16f877a.h: 651: unsigned :2;
+[; ;pic16f877a.h: 652: unsigned T1SYNC :1;
+[; ;pic16f877a.h: 653: unsigned :1;
+[; ;pic16f877a.h: 654: unsigned T1CKPS0 :1;
+[; ;pic16f877a.h: 655: unsigned T1CKPS1 :1;
+[; ;pic16f877a.h: 656: };
+[; ;pic16f877a.h: 657: struct {
+[; ;pic16f877a.h: 658: unsigned :2;
+[; ;pic16f877a.h: 659: unsigned T1INSYNC :1;
+[; ;pic16f877a.h: 660: };
+[; ;pic16f877a.h: 661: } T1CONbits_t;
+[; ;pic16f877a.h: 662: extern volatile T1CONbits_t T1CONbits @ 0x010;
+[; ;pic16f877a.h: 711: extern volatile unsigned char TMR2 @ 0x011;
+"713
+[; ;pic16f877a.h: 713: asm("TMR2 equ 011h");
+[; <" TMR2 equ 011h ;# ">
+[; ;pic16f877a.h: 717: extern volatile unsigned char T2CON @ 0x012;
+"719
+[; ;pic16f877a.h: 719: asm("T2CON equ 012h");
+[; <" T2CON equ 012h ;# ">
+[; ;pic16f877a.h: 722: typedef union {
+[; ;pic16f877a.h: 723: struct {
+[; ;pic16f877a.h: 724: unsigned T2CKPS :2;
+[; ;pic16f877a.h: 725: unsigned TMR2ON :1;
+[; ;pic16f877a.h: 726: unsigned TOUTPS :4;
+[; ;pic16f877a.h: 727: };
+[; ;pic16f877a.h: 728: struct {
+[; ;pic16f877a.h: 729: unsigned T2CKPS0 :1;
+[; ;pic16f877a.h: 730: unsigned T2CKPS1 :1;
+[; ;pic16f877a.h: 731: unsigned :1;
+[; ;pic16f877a.h: 732: unsigned TOUTPS0 :1;
+[; ;pic16f877a.h: 733: unsigned TOUTPS1 :1;
+[; ;pic16f877a.h: 734: unsigned TOUTPS2 :1;
+[; ;pic16f877a.h: 735: unsigned TOUTPS3 :1;
+[; ;pic16f877a.h: 736: };
+[; ;pic16f877a.h: 737: } T2CONbits_t;
+[; ;pic16f877a.h: 738: extern volatile T2CONbits_t T2CONbits @ 0x012;
+[; ;pic16f877a.h: 787: extern volatile unsigned char SSPBUF @ 0x013;
+"789
+[; ;pic16f877a.h: 789: asm("SSPBUF equ 013h");
+[; <" SSPBUF equ 013h ;# ">
+[; ;pic16f877a.h: 793: extern volatile unsigned char SSPCON @ 0x014;
+"795
+[; ;pic16f877a.h: 795: asm("SSPCON equ 014h");
+[; <" SSPCON equ 014h ;# ">
+[; ;pic16f877a.h: 798: typedef union {
+[; ;pic16f877a.h: 799: struct {
+[; ;pic16f877a.h: 800: unsigned SSPM :4;
+[; ;pic16f877a.h: 801: unsigned CKP :1;
+[; ;pic16f877a.h: 802: unsigned SSPEN :1;
+[; ;pic16f877a.h: 803: unsigned SSPOV :1;
+[; ;pic16f877a.h: 804: unsigned WCOL :1;
+[; ;pic16f877a.h: 805: };
+[; ;pic16f877a.h: 806: struct {
+[; ;pic16f877a.h: 807: unsigned SSPM0 :1;
+[; ;pic16f877a.h: 808: unsigned SSPM1 :1;
+[; ;pic16f877a.h: 809: unsigned SSPM2 :1;
+[; ;pic16f877a.h: 810: unsigned SSPM3 :1;
+[; ;pic16f877a.h: 811: };
+[; ;pic16f877a.h: 812: } SSPCONbits_t;
+[; ;pic16f877a.h: 813: extern volatile SSPCONbits_t SSPCONbits @ 0x014;
+[; ;pic16f877a.h: 862: extern volatile unsigned short CCPR1 @ 0x015;
+"864
+[; ;pic16f877a.h: 864: asm("CCPR1 equ 015h");
+[; <" CCPR1 equ 015h ;# ">
+[; ;pic16f877a.h: 868: extern volatile unsigned char CCPR1L @ 0x015;
+"870
+[; ;pic16f877a.h: 870: asm("CCPR1L equ 015h");
+[; <" CCPR1L equ 015h ;# ">
+[; ;pic16f877a.h: 874: extern volatile unsigned char CCPR1H @ 0x016;
+"876
+[; ;pic16f877a.h: 876: asm("CCPR1H equ 016h");
+[; <" CCPR1H equ 016h ;# ">
+[; ;pic16f877a.h: 880: extern volatile unsigned char CCP1CON @ 0x017;
+"882
+[; ;pic16f877a.h: 882: asm("CCP1CON equ 017h");
+[; <" CCP1CON equ 017h ;# ">
+[; ;pic16f877a.h: 885: typedef union {
+[; ;pic16f877a.h: 886: struct {
+[; ;pic16f877a.h: 887: unsigned CCP1M :4;
+[; ;pic16f877a.h: 888: unsigned CCP1Y :1;
+[; ;pic16f877a.h: 889: unsigned CCP1X :1;
+[; ;pic16f877a.h: 890: };
+[; ;pic16f877a.h: 891: struct {
+[; ;pic16f877a.h: 892: unsigned CCP1M0 :1;
+[; ;pic16f877a.h: 893: unsigned CCP1M1 :1;
+[; ;pic16f877a.h: 894: unsigned CCP1M2 :1;
+[; ;pic16f877a.h: 895: unsigned CCP1M3 :1;
+[; ;pic16f877a.h: 896: };
+[; ;pic16f877a.h: 897: } CCP1CONbits_t;
+[; ;pic16f877a.h: 898: extern volatile CCP1CONbits_t CCP1CONbits @ 0x017;
+[; ;pic16f877a.h: 937: extern volatile unsigned char RCSTA @ 0x018;
+"939
+[; ;pic16f877a.h: 939: asm("RCSTA equ 018h");
+[; <" RCSTA equ 018h ;# ">
+[; ;pic16f877a.h: 942: typedef union {
+[; ;pic16f877a.h: 943: struct {
+[; ;pic16f877a.h: 944: unsigned RX9D :1;
+[; ;pic16f877a.h: 945: unsigned OERR :1;
+[; ;pic16f877a.h: 946: unsigned FERR :1;
+[; ;pic16f877a.h: 947: unsigned ADDEN :1;
+[; ;pic16f877a.h: 948: unsigned CREN :1;
+[; ;pic16f877a.h: 949: unsigned SREN :1;
+[; ;pic16f877a.h: 950: unsigned RX9 :1;
+[; ;pic16f877a.h: 951: unsigned SPEN :1;
+[; ;pic16f877a.h: 952: };
+[; ;pic16f877a.h: 953: struct {
+[; ;pic16f877a.h: 954: unsigned RCD8 :1;
+[; ;pic16f877a.h: 955: unsigned :5;
+[; ;pic16f877a.h: 956: unsigned RC9 :1;
+[; ;pic16f877a.h: 957: };
+[; ;pic16f877a.h: 958: struct {
+[; ;pic16f877a.h: 959: unsigned :6;
+[; ;pic16f877a.h: 960: unsigned nRC8 :1;
+[; ;pic16f877a.h: 961: };
+[; ;pic16f877a.h: 962: struct {
+[; ;pic16f877a.h: 963: unsigned :6;
+[; ;pic16f877a.h: 964: unsigned RC8_9 :1;
+[; ;pic16f877a.h: 965: };
+[; ;pic16f877a.h: 966: } RCSTAbits_t;
+[; ;pic16f877a.h: 967: extern volatile RCSTAbits_t RCSTAbits @ 0x018;
+[; ;pic16f877a.h: 1031: extern volatile unsigned char TXREG @ 0x019;
+"1033
+[; ;pic16f877a.h: 1033: asm("TXREG equ 019h");
+[; <" TXREG equ 019h ;# ">
+[; ;pic16f877a.h: 1037: extern volatile unsigned char RCREG @ 0x01A;
+"1039
+[; ;pic16f877a.h: 1039: asm("RCREG equ 01Ah");
+[; <" RCREG equ 01Ah ;# ">
+[; ;pic16f877a.h: 1043: extern volatile unsigned short CCPR2 @ 0x01B;
+"1045
+[; ;pic16f877a.h: 1045: asm("CCPR2 equ 01Bh");
+[; <" CCPR2 equ 01Bh ;# ">
+[; ;pic16f877a.h: 1049: extern volatile unsigned char CCPR2L @ 0x01B;
+"1051
+[; ;pic16f877a.h: 1051: asm("CCPR2L equ 01Bh");
+[; <" CCPR2L equ 01Bh ;# ">
+[; ;pic16f877a.h: 1055: extern volatile unsigned char CCPR2H @ 0x01C;
+"1057
+[; ;pic16f877a.h: 1057: asm("CCPR2H equ 01Ch");
+[; <" CCPR2H equ 01Ch ;# ">
+[; ;pic16f877a.h: 1061: extern volatile unsigned char CCP2CON @ 0x01D;
+"1063
+[; ;pic16f877a.h: 1063: asm("CCP2CON equ 01Dh");
+[; <" CCP2CON equ 01Dh ;# ">
+[; ;pic16f877a.h: 1066: typedef union {
+[; ;pic16f877a.h: 1067: struct {
+[; ;pic16f877a.h: 1068: unsigned CCP2M :4;
+[; ;pic16f877a.h: 1069: unsigned CCP2Y :1;
+[; ;pic16f877a.h: 1070: unsigned CCP2X :1;
+[; ;pic16f877a.h: 1071: };
+[; ;pic16f877a.h: 1072: struct {
+[; ;pic16f877a.h: 1073: unsigned CCP2M0 :1;
+[; ;pic16f877a.h: 1074: unsigned CCP2M1 :1;
+[; ;pic16f877a.h: 1075: unsigned CCP2M2 :1;
+[; ;pic16f877a.h: 1076: unsigned CCP2M3 :1;
+[; ;pic16f877a.h: 1077: };
+[; ;pic16f877a.h: 1078: } CCP2CONbits_t;
+[; ;pic16f877a.h: 1079: extern volatile CCP2CONbits_t CCP2CONbits @ 0x01D;
+[; ;pic16f877a.h: 1118: extern volatile unsigned char ADRESH @ 0x01E;
+"1120
+[; ;pic16f877a.h: 1120: asm("ADRESH equ 01Eh");
+[; <" ADRESH equ 01Eh ;# ">
+[; ;pic16f877a.h: 1124: extern volatile unsigned char ADCON0 @ 0x01F;
+"1126
+[; ;pic16f877a.h: 1126: asm("ADCON0 equ 01Fh");
+[; <" ADCON0 equ 01Fh ;# ">
+[; ;pic16f877a.h: 1129: typedef union {
+[; ;pic16f877a.h: 1130: struct {
+[; ;pic16f877a.h: 1131: unsigned ADON :1;
+[; ;pic16f877a.h: 1132: unsigned :1;
+[; ;pic16f877a.h: 1133: unsigned GO_nDONE :1;
+[; ;pic16f877a.h: 1134: unsigned CHS :3;
+[; ;pic16f877a.h: 1135: unsigned ADCS :2;
+[; ;pic16f877a.h: 1136: };
+[; ;pic16f877a.h: 1137: struct {
+[; ;pic16f877a.h: 1138: unsigned :2;
+[; ;pic16f877a.h: 1139: unsigned GO :1;
+[; ;pic16f877a.h: 1140: unsigned CHS0 :1;
+[; ;pic16f877a.h: 1141: unsigned CHS1 :1;
+[; ;pic16f877a.h: 1142: unsigned CHS2 :1;
+[; ;pic16f877a.h: 1143: unsigned ADCS0 :1;
+[; ;pic16f877a.h: 1144: unsigned ADCS1 :1;
+[; ;pic16f877a.h: 1145: };
+[; ;pic16f877a.h: 1146: struct {
+[; ;pic16f877a.h: 1147: unsigned :2;
+[; ;pic16f877a.h: 1148: unsigned nDONE :1;
+[; ;pic16f877a.h: 1149: };
+[; ;pic16f877a.h: 1150: struct {
+[; ;pic16f877a.h: 1151: unsigned :2;
+[; ;pic16f877a.h: 1152: unsigned GO_DONE :1;
+[; ;pic16f877a.h: 1153: };
+[; ;pic16f877a.h: 1154: } ADCON0bits_t;
+[; ;pic16f877a.h: 1155: extern volatile ADCON0bits_t ADCON0bits @ 0x01F;
+[; ;pic16f877a.h: 1219: extern volatile unsigned char OPTION_REG @ 0x081;
+"1221
+[; ;pic16f877a.h: 1221: asm("OPTION_REG equ 081h");
+[; <" OPTION_REG equ 081h ;# ">
+[; ;pic16f877a.h: 1224: typedef union {
+[; ;pic16f877a.h: 1225: struct {
+[; ;pic16f877a.h: 1226: unsigned PS :3;
+[; ;pic16f877a.h: 1227: unsigned PSA :1;
+[; ;pic16f877a.h: 1228: unsigned T0SE :1;
+[; ;pic16f877a.h: 1229: unsigned T0CS :1;
+[; ;pic16f877a.h: 1230: unsigned INTEDG :1;
+[; ;pic16f877a.h: 1231: unsigned nRBPU :1;
+[; ;pic16f877a.h: 1232: };
+[; ;pic16f877a.h: 1233: struct {
+[; ;pic16f877a.h: 1234: unsigned PS0 :1;
+[; ;pic16f877a.h: 1235: unsigned PS1 :1;
+[; ;pic16f877a.h: 1236: unsigned PS2 :1;
+[; ;pic16f877a.h: 1237: };
+[; ;pic16f877a.h: 1238: } OPTION_REGbits_t;
+[; ;pic16f877a.h: 1239: extern volatile OPTION_REGbits_t OPTION_REGbits @ 0x081;
+[; ;pic16f877a.h: 1288: extern volatile unsigned char TRISA @ 0x085;
+"1290
+[; ;pic16f877a.h: 1290: asm("TRISA equ 085h");
+[; <" TRISA equ 085h ;# ">
+[; ;pic16f877a.h: 1293: typedef union {
+[; ;pic16f877a.h: 1294: struct {
+[; ;pic16f877a.h: 1295: unsigned TRISA0 :1;
+[; ;pic16f877a.h: 1296: unsigned TRISA1 :1;
+[; ;pic16f877a.h: 1297: unsigned TRISA2 :1;
+[; ;pic16f877a.h: 1298: unsigned TRISA3 :1;
+[; ;pic16f877a.h: 1299: unsigned TRISA4 :1;
+[; ;pic16f877a.h: 1300: unsigned TRISA5 :1;
+[; ;pic16f877a.h: 1301: };
+[; ;pic16f877a.h: 1302: } TRISAbits_t;
+[; ;pic16f877a.h: 1303: extern volatile TRISAbits_t TRISAbits @ 0x085;
+[; ;pic16f877a.h: 1337: extern volatile unsigned char TRISB @ 0x086;
+"1339
+[; ;pic16f877a.h: 1339: asm("TRISB equ 086h");
+[; <" TRISB equ 086h ;# ">
+[; ;pic16f877a.h: 1342: typedef union {
+[; ;pic16f877a.h: 1343: struct {
+[; ;pic16f877a.h: 1344: unsigned TRISB0 :1;
+[; ;pic16f877a.h: 1345: unsigned TRISB1 :1;
+[; ;pic16f877a.h: 1346: unsigned TRISB2 :1;
+[; ;pic16f877a.h: 1347: unsigned TRISB3 :1;
+[; ;pic16f877a.h: 1348: unsigned TRISB4 :1;
+[; ;pic16f877a.h: 1349: unsigned TRISB5 :1;
+[; ;pic16f877a.h: 1350: unsigned TRISB6 :1;
+[; ;pic16f877a.h: 1351: unsigned TRISB7 :1;
+[; ;pic16f877a.h: 1352: };
+[; ;pic16f877a.h: 1353: } TRISBbits_t;
+[; ;pic16f877a.h: 1354: extern volatile TRISBbits_t TRISBbits @ 0x086;
+[; ;pic16f877a.h: 1398: extern volatile unsigned char TRISC @ 0x087;
+"1400
+[; ;pic16f877a.h: 1400: asm("TRISC equ 087h");
+[; <" TRISC equ 087h ;# ">
+[; ;pic16f877a.h: 1403: typedef union {
+[; ;pic16f877a.h: 1404: struct {
+[; ;pic16f877a.h: 1405: unsigned TRISC0 :1;
+[; ;pic16f877a.h: 1406: unsigned TRISC1 :1;
+[; ;pic16f877a.h: 1407: unsigned TRISC2 :1;
+[; ;pic16f877a.h: 1408: unsigned TRISC3 :1;
+[; ;pic16f877a.h: 1409: unsigned TRISC4 :1;
+[; ;pic16f877a.h: 1410: unsigned TRISC5 :1;
+[; ;pic16f877a.h: 1411: unsigned TRISC6 :1;
+[; ;pic16f877a.h: 1412: unsigned TRISC7 :1;
+[; ;pic16f877a.h: 1413: };
+[; ;pic16f877a.h: 1414: } TRISCbits_t;
+[; ;pic16f877a.h: 1415: extern volatile TRISCbits_t TRISCbits @ 0x087;
+[; ;pic16f877a.h: 1459: extern volatile unsigned char TRISD @ 0x088;
+"1461
+[; ;pic16f877a.h: 1461: asm("TRISD equ 088h");
+[; <" TRISD equ 088h ;# ">
+[; ;pic16f877a.h: 1464: typedef union {
+[; ;pic16f877a.h: 1465: struct {
+[; ;pic16f877a.h: 1466: unsigned TRISD0 :1;
+[; ;pic16f877a.h: 1467: unsigned TRISD1 :1;
+[; ;pic16f877a.h: 1468: unsigned TRISD2 :1;
+[; ;pic16f877a.h: 1469: unsigned TRISD3 :1;
+[; ;pic16f877a.h: 1470: unsigned TRISD4 :1;
+[; ;pic16f877a.h: 1471: unsigned TRISD5 :1;
+[; ;pic16f877a.h: 1472: unsigned TRISD6 :1;
+[; ;pic16f877a.h: 1473: unsigned TRISD7 :1;
+[; ;pic16f877a.h: 1474: };
+[; ;pic16f877a.h: 1475: } TRISDbits_t;
+[; ;pic16f877a.h: 1476: extern volatile TRISDbits_t TRISDbits @ 0x088;
+[; ;pic16f877a.h: 1520: extern volatile unsigned char TRISE @ 0x089;
+"1522
+[; ;pic16f877a.h: 1522: asm("TRISE equ 089h");
+[; <" TRISE equ 089h ;# ">
+[; ;pic16f877a.h: 1525: typedef union {
+[; ;pic16f877a.h: 1526: struct {
+[; ;pic16f877a.h: 1527: unsigned TRISE0 :1;
+[; ;pic16f877a.h: 1528: unsigned TRISE1 :1;
+[; ;pic16f877a.h: 1529: unsigned TRISE2 :1;
+[; ;pic16f877a.h: 1530: unsigned :1;
+[; ;pic16f877a.h: 1531: unsigned PSPMODE :1;
+[; ;pic16f877a.h: 1532: unsigned IBOV :1;
+[; ;pic16f877a.h: 1533: unsigned OBF :1;
+[; ;pic16f877a.h: 1534: unsigned IBF :1;
+[; ;pic16f877a.h: 1535: };
+[; ;pic16f877a.h: 1536: } TRISEbits_t;
+[; ;pic16f877a.h: 1537: extern volatile TRISEbits_t TRISEbits @ 0x089;
+[; ;pic16f877a.h: 1576: extern volatile unsigned char PIE1 @ 0x08C;
+"1578
+[; ;pic16f877a.h: 1578: asm("PIE1 equ 08Ch");
+[; <" PIE1 equ 08Ch ;# ">
+[; ;pic16f877a.h: 1581: typedef union {
+[; ;pic16f877a.h: 1582: struct {
+[; ;pic16f877a.h: 1583: unsigned TMR1IE :1;
+[; ;pic16f877a.h: 1584: unsigned TMR2IE :1;
+[; ;pic16f877a.h: 1585: unsigned CCP1IE :1;
+[; ;pic16f877a.h: 1586: unsigned SSPIE :1;
+[; ;pic16f877a.h: 1587: unsigned TXIE :1;
+[; ;pic16f877a.h: 1588: unsigned RCIE :1;
+[; ;pic16f877a.h: 1589: unsigned ADIE :1;
+[; ;pic16f877a.h: 1590: unsigned PSPIE :1;
+[; ;pic16f877a.h: 1591: };
+[; ;pic16f877a.h: 1592: } PIE1bits_t;
+[; ;pic16f877a.h: 1593: extern volatile PIE1bits_t PIE1bits @ 0x08C;
+[; ;pic16f877a.h: 1637: extern volatile unsigned char PIE2 @ 0x08D;
+"1639
+[; ;pic16f877a.h: 1639: asm("PIE2 equ 08Dh");
+[; <" PIE2 equ 08Dh ;# ">
+[; ;pic16f877a.h: 1642: typedef union {
+[; ;pic16f877a.h: 1643: struct {
+[; ;pic16f877a.h: 1644: unsigned CCP2IE :1;
+[; ;pic16f877a.h: 1645: unsigned :2;
+[; ;pic16f877a.h: 1646: unsigned BCLIE :1;
+[; ;pic16f877a.h: 1647: unsigned EEIE :1;
+[; ;pic16f877a.h: 1648: unsigned :1;
+[; ;pic16f877a.h: 1649: unsigned CMIE :1;
+[; ;pic16f877a.h: 1650: };
+[; ;pic16f877a.h: 1651: } PIE2bits_t;
+[; ;pic16f877a.h: 1652: extern volatile PIE2bits_t PIE2bits @ 0x08D;
+[; ;pic16f877a.h: 1676: extern volatile unsigned char PCON @ 0x08E;
+"1678
+[; ;pic16f877a.h: 1678: asm("PCON equ 08Eh");
+[; <" PCON equ 08Eh ;# ">
+[; ;pic16f877a.h: 1681: typedef union {
+[; ;pic16f877a.h: 1682: struct {
+[; ;pic16f877a.h: 1683: unsigned nBOR :1;
+[; ;pic16f877a.h: 1684: unsigned nPOR :1;
+[; ;pic16f877a.h: 1685: };
+[; ;pic16f877a.h: 1686: struct {
+[; ;pic16f877a.h: 1687: unsigned nBO :1;
+[; ;pic16f877a.h: 1688: };
+[; ;pic16f877a.h: 1689: } PCONbits_t;
+[; ;pic16f877a.h: 1690: extern volatile PCONbits_t PCONbits @ 0x08E;
+[; ;pic16f877a.h: 1709: extern volatile unsigned char SSPCON2 @ 0x091;
+"1711
+[; ;pic16f877a.h: 1711: asm("SSPCON2 equ 091h");
+[; <" SSPCON2 equ 091h ;# ">
+[; ;pic16f877a.h: 1714: typedef union {
+[; ;pic16f877a.h: 1715: struct {
+[; ;pic16f877a.h: 1716: unsigned SEN :1;
+[; ;pic16f877a.h: 1717: unsigned RSEN :1;
+[; ;pic16f877a.h: 1718: unsigned PEN :1;
+[; ;pic16f877a.h: 1719: unsigned RCEN :1;
+[; ;pic16f877a.h: 1720: unsigned ACKEN :1;
+[; ;pic16f877a.h: 1721: unsigned ACKDT :1;
+[; ;pic16f877a.h: 1722: unsigned ACKSTAT :1;
+[; ;pic16f877a.h: 1723: unsigned GCEN :1;
+[; ;pic16f877a.h: 1724: };
+[; ;pic16f877a.h: 1725: } SSPCON2bits_t;
+[; ;pic16f877a.h: 1726: extern volatile SSPCON2bits_t SSPCON2bits @ 0x091;
+[; ;pic16f877a.h: 1770: extern volatile unsigned char PR2 @ 0x092;
+"1772
+[; ;pic16f877a.h: 1772: asm("PR2 equ 092h");
+[; <" PR2 equ 092h ;# ">
+[; ;pic16f877a.h: 1776: extern volatile unsigned char SSPADD @ 0x093;
+"1778
+[; ;pic16f877a.h: 1778: asm("SSPADD equ 093h");
+[; <" SSPADD equ 093h ;# ">
+[; ;pic16f877a.h: 1782: extern volatile unsigned char SSPSTAT @ 0x094;
+"1784
+[; ;pic16f877a.h: 1784: asm("SSPSTAT equ 094h");
+[; <" SSPSTAT equ 094h ;# ">
+[; ;pic16f877a.h: 1787: typedef union {
+[; ;pic16f877a.h: 1788: struct {
+[; ;pic16f877a.h: 1789: unsigned BF :1;
+[; ;pic16f877a.h: 1790: unsigned UA :1;
+[; ;pic16f877a.h: 1791: unsigned R_nW :1;
+[; ;pic16f877a.h: 1792: unsigned S :1;
+[; ;pic16f877a.h: 1793: unsigned P :1;
+[; ;pic16f877a.h: 1794: unsigned D_nA :1;
+[; ;pic16f877a.h: 1795: unsigned CKE :1;
+[; ;pic16f877a.h: 1796: unsigned SMP :1;
+[; ;pic16f877a.h: 1797: };
+[; ;pic16f877a.h: 1798: struct {
+[; ;pic16f877a.h: 1799: unsigned :2;
+[; ;pic16f877a.h: 1800: unsigned R :1;
+[; ;pic16f877a.h: 1801: unsigned :2;
+[; ;pic16f877a.h: 1802: unsigned D :1;
+[; ;pic16f877a.h: 1803: };
+[; ;pic16f877a.h: 1804: struct {
+[; ;pic16f877a.h: 1805: unsigned :2;
+[; ;pic16f877a.h: 1806: unsigned I2C_READ :1;
+[; ;pic16f877a.h: 1807: unsigned I2C_START :1;
+[; ;pic16f877a.h: 1808: unsigned I2C_STOP :1;
+[; ;pic16f877a.h: 1809: unsigned I2C_DATA :1;
+[; ;pic16f877a.h: 1810: };
+[; ;pic16f877a.h: 1811: struct {
+[; ;pic16f877a.h: 1812: unsigned :2;
+[; ;pic16f877a.h: 1813: unsigned nW :1;
+[; ;pic16f877a.h: 1814: unsigned :2;
+[; ;pic16f877a.h: 1815: unsigned nA :1;
+[; ;pic16f877a.h: 1816: };
+[; ;pic16f877a.h: 1817: struct {
+[; ;pic16f877a.h: 1818: unsigned :2;
+[; ;pic16f877a.h: 1819: unsigned nWRITE :1;
+[; ;pic16f877a.h: 1820: unsigned :2;
+[; ;pic16f877a.h: 1821: unsigned nADDRESS :1;
+[; ;pic16f877a.h: 1822: };
+[; ;pic16f877a.h: 1823: struct {
+[; ;pic16f877a.h: 1824: unsigned :2;
+[; ;pic16f877a.h: 1825: unsigned R_W :1;
+[; ;pic16f877a.h: 1826: unsigned :2;
+[; ;pic16f877a.h: 1827: unsigned D_A :1;
+[; ;pic16f877a.h: 1828: };
+[; ;pic16f877a.h: 1829: struct {
+[; ;pic16f877a.h: 1830: unsigned :2;
+[; ;pic16f877a.h: 1831: unsigned READ_WRITE :1;
+[; ;pic16f877a.h: 1832: unsigned :2;
+[; ;pic16f877a.h: 1833: unsigned DATA_ADDRESS :1;
+[; ;pic16f877a.h: 1834: };
+[; ;pic16f877a.h: 1835: } SSPSTATbits_t;
+[; ;pic16f877a.h: 1836: extern volatile SSPSTATbits_t SSPSTATbits @ 0x094;
+[; ;pic16f877a.h: 1950: extern volatile unsigned char TXSTA @ 0x098;
+"1952
+[; ;pic16f877a.h: 1952: asm("TXSTA equ 098h");
+[; <" TXSTA equ 098h ;# ">
+[; ;pic16f877a.h: 1955: typedef union {
+[; ;pic16f877a.h: 1956: struct {
+[; ;pic16f877a.h: 1957: unsigned TX9D :1;
+[; ;pic16f877a.h: 1958: unsigned TRMT :1;
+[; ;pic16f877a.h: 1959: unsigned BRGH :1;
+[; ;pic16f877a.h: 1960: unsigned :1;
+[; ;pic16f877a.h: 1961: unsigned SYNC :1;
+[; ;pic16f877a.h: 1962: unsigned TXEN :1;
+[; ;pic16f877a.h: 1963: unsigned TX9 :1;
+[; ;pic16f877a.h: 1964: unsigned CSRC :1;
+[; ;pic16f877a.h: 1965: };
+[; ;pic16f877a.h: 1966: struct {
+[; ;pic16f877a.h: 1967: unsigned TXD8 :1;
+[; ;pic16f877a.h: 1968: unsigned :5;
+[; ;pic16f877a.h: 1969: unsigned nTX8 :1;
+[; ;pic16f877a.h: 1970: };
+[; ;pic16f877a.h: 1971: struct {
+[; ;pic16f877a.h: 1972: unsigned :6;
+[; ;pic16f877a.h: 1973: unsigned TX8_9 :1;
+[; ;pic16f877a.h: 1974: };
+[; ;pic16f877a.h: 1975: } TXSTAbits_t;
+[; ;pic16f877a.h: 1976: extern volatile TXSTAbits_t TXSTAbits @ 0x098;
+[; ;pic16f877a.h: 2030: extern volatile unsigned char SPBRG @ 0x099;
+"2032
+[; ;pic16f877a.h: 2032: asm("SPBRG equ 099h");
+[; <" SPBRG equ 099h ;# ">
+[; ;pic16f877a.h: 2036: extern volatile unsigned char CMCON @ 0x09C;
+"2038
+[; ;pic16f877a.h: 2038: asm("CMCON equ 09Ch");
+[; <" CMCON equ 09Ch ;# ">
+[; ;pic16f877a.h: 2041: typedef union {
+[; ;pic16f877a.h: 2042: struct {
+[; ;pic16f877a.h: 2043: unsigned CM :3;
+[; ;pic16f877a.h: 2044: unsigned CIS :1;
+[; ;pic16f877a.h: 2045: unsigned C1INV :1;
+[; ;pic16f877a.h: 2046: unsigned C2INV :1;
+[; ;pic16f877a.h: 2047: unsigned C1OUT :1;
+[; ;pic16f877a.h: 2048: unsigned C2OUT :1;
+[; ;pic16f877a.h: 2049: };
+[; ;pic16f877a.h: 2050: struct {
+[; ;pic16f877a.h: 2051: unsigned CM0 :1;
+[; ;pic16f877a.h: 2052: unsigned CM1 :1;
+[; ;pic16f877a.h: 2053: unsigned CM2 :1;
+[; ;pic16f877a.h: 2054: };
+[; ;pic16f877a.h: 2055: } CMCONbits_t;
+[; ;pic16f877a.h: 2056: extern volatile CMCONbits_t CMCONbits @ 0x09C;
+[; ;pic16f877a.h: 2105: extern volatile unsigned char CVRCON @ 0x09D;
+"2107
+[; ;pic16f877a.h: 2107: asm("CVRCON equ 09Dh");
+[; <" CVRCON equ 09Dh ;# ">
+[; ;pic16f877a.h: 2110: typedef union {
+[; ;pic16f877a.h: 2111: struct {
+[; ;pic16f877a.h: 2112: unsigned CVR :4;
+[; ;pic16f877a.h: 2113: unsigned :1;
+[; ;pic16f877a.h: 2114: unsigned CVRR :1;
+[; ;pic16f877a.h: 2115: unsigned CVROE :1;
+[; ;pic16f877a.h: 2116: unsigned CVREN :1;
+[; ;pic16f877a.h: 2117: };
+[; ;pic16f877a.h: 2118: struct {
+[; ;pic16f877a.h: 2119: unsigned CVR0 :1;
+[; ;pic16f877a.h: 2120: unsigned CVR1 :1;
+[; ;pic16f877a.h: 2121: unsigned CVR2 :1;
+[; ;pic16f877a.h: 2122: unsigned CVR3 :1;
+[; ;pic16f877a.h: 2123: };
+[; ;pic16f877a.h: 2124: } CVRCONbits_t;
+[; ;pic16f877a.h: 2125: extern volatile CVRCONbits_t CVRCONbits @ 0x09D;
+[; ;pic16f877a.h: 2169: extern volatile unsigned char ADRESL @ 0x09E;
+"2171
+[; ;pic16f877a.h: 2171: asm("ADRESL equ 09Eh");
+[; <" ADRESL equ 09Eh ;# ">
+[; ;pic16f877a.h: 2175: extern volatile unsigned char ADCON1 @ 0x09F;
+"2177
+[; ;pic16f877a.h: 2177: asm("ADCON1 equ 09Fh");
+[; <" ADCON1 equ 09Fh ;# ">
+[; ;pic16f877a.h: 2180: typedef union {
+[; ;pic16f877a.h: 2181: struct {
+[; ;pic16f877a.h: 2182: unsigned PCFG :4;
+[; ;pic16f877a.h: 2183: unsigned :2;
+[; ;pic16f877a.h: 2184: unsigned ADCS2 :1;
+[; ;pic16f877a.h: 2185: unsigned ADFM :1;
+[; ;pic16f877a.h: 2186: };
+[; ;pic16f877a.h: 2187: struct {
+[; ;pic16f877a.h: 2188: unsigned PCFG0 :1;
+[; ;pic16f877a.h: 2189: unsigned PCFG1 :1;
+[; ;pic16f877a.h: 2190: unsigned PCFG2 :1;
+[; ;pic16f877a.h: 2191: unsigned PCFG3 :1;
+[; ;pic16f877a.h: 2192: };
+[; ;pic16f877a.h: 2193: } ADCON1bits_t;
+[; ;pic16f877a.h: 2194: extern volatile ADCON1bits_t ADCON1bits @ 0x09F;
+[; ;pic16f877a.h: 2233: extern volatile unsigned char EEDATA @ 0x10C;
+"2235
+[; ;pic16f877a.h: 2235: asm("EEDATA equ 010Ch");
+[; <" EEDATA equ 010Ch ;# ">
+[; ;pic16f877a.h: 2239: extern volatile unsigned char EEADR @ 0x10D;
+"2241
+[; ;pic16f877a.h: 2241: asm("EEADR equ 010Dh");
+[; <" EEADR equ 010Dh ;# ">
+[; ;pic16f877a.h: 2245: extern volatile unsigned char EEDATH @ 0x10E;
+"2247
+[; ;pic16f877a.h: 2247: asm("EEDATH equ 010Eh");
+[; <" EEDATH equ 010Eh ;# ">
+[; ;pic16f877a.h: 2251: extern volatile unsigned char EEADRH @ 0x10F;
+"2253
+[; ;pic16f877a.h: 2253: asm("EEADRH equ 010Fh");
+[; <" EEADRH equ 010Fh ;# ">
+[; ;pic16f877a.h: 2257: extern volatile unsigned char EECON1 @ 0x18C;
+"2259
+[; ;pic16f877a.h: 2259: asm("EECON1 equ 018Ch");
+[; <" EECON1 equ 018Ch ;# ">
+[; ;pic16f877a.h: 2262: typedef union {
+[; ;pic16f877a.h: 2263: struct {
+[; ;pic16f877a.h: 2264: unsigned RD :1;
+[; ;pic16f877a.h: 2265: unsigned WR :1;
+[; ;pic16f877a.h: 2266: unsigned WREN :1;
+[; ;pic16f877a.h: 2267: unsigned WRERR :1;
+[; ;pic16f877a.h: 2268: unsigned :3;
+[; ;pic16f877a.h: 2269: unsigned EEPGD :1;
+[; ;pic16f877a.h: 2270: };
+[; ;pic16f877a.h: 2271: } EECON1bits_t;
+[; ;pic16f877a.h: 2272: extern volatile EECON1bits_t EECON1bits @ 0x18C;
+[; ;pic16f877a.h: 2301: extern volatile unsigned char EECON2 @ 0x18D;
+"2303
+[; ;pic16f877a.h: 2303: asm("EECON2 equ 018Dh");
+[; <" EECON2 equ 018Dh ;# ">
+[; ;pic16f877a.h: 2313: extern volatile __bit ACKDT @ (((unsigned) &SSPCON2)*8) + 5;
+[; ;pic16f877a.h: 2315: extern volatile __bit ACKEN @ (((unsigned) &SSPCON2)*8) + 4;
+[; ;pic16f877a.h: 2317: extern volatile __bit ACKSTAT @ (((unsigned) &SSPCON2)*8) + 6;
+[; ;pic16f877a.h: 2319: extern volatile __bit ADCS0 @ (((unsigned) &ADCON0)*8) + 6;
+[; ;pic16f877a.h: 2321: extern volatile __bit ADCS1 @ (((unsigned) &ADCON0)*8) + 7;
+[; ;pic16f877a.h: 2323: extern volatile __bit ADCS2 @ (((unsigned) &ADCON1)*8) + 6;
+[; ;pic16f877a.h: 2325: extern volatile __bit ADDEN @ (((unsigned) &RCSTA)*8) + 3;
+[; ;pic16f877a.h: 2327: extern volatile __bit ADFM @ (((unsigned) &ADCON1)*8) + 7;
+[; ;pic16f877a.h: 2329: extern volatile __bit ADIE @ (((unsigned) &PIE1)*8) + 6;
+[; ;pic16f877a.h: 2331: extern volatile __bit ADIF @ (((unsigned) &PIR1)*8) + 6;
+[; ;pic16f877a.h: 2333: extern volatile __bit ADON @ (((unsigned) &ADCON0)*8) + 0;
+[; ;pic16f877a.h: 2335: extern volatile __bit BCLIE @ (((unsigned) &PIE2)*8) + 3;
+[; ;pic16f877a.h: 2337: extern volatile __bit BCLIF @ (((unsigned) &PIR2)*8) + 3;
+[; ;pic16f877a.h: 2339: extern volatile __bit BF @ (((unsigned) &SSPSTAT)*8) + 0;
+[; ;pic16f877a.h: 2341: extern volatile __bit BRGH @ (((unsigned) &TXSTA)*8) + 2;
+[; ;pic16f877a.h: 2343: extern volatile __bit C1INV @ (((unsigned) &CMCON)*8) + 4;
+[; ;pic16f877a.h: 2345: extern volatile __bit C1OUT @ (((unsigned) &CMCON)*8) + 6;
+[; ;pic16f877a.h: 2347: extern volatile __bit C2INV @ (((unsigned) &CMCON)*8) + 5;
+[; ;pic16f877a.h: 2349: extern volatile __bit C2OUT @ (((unsigned) &CMCON)*8) + 7;
+[; ;pic16f877a.h: 2351: extern volatile __bit CARRY @ (((unsigned) &STATUS)*8) + 0;
+[; ;pic16f877a.h: 2353: extern volatile __bit CCP1IE @ (((unsigned) &PIE1)*8) + 2;
+[; ;pic16f877a.h: 2355: extern volatile __bit CCP1IF @ (((unsigned) &PIR1)*8) + 2;
+[; ;pic16f877a.h: 2357: extern volatile __bit CCP1M0 @ (((unsigned) &CCP1CON)*8) + 0;
+[; ;pic16f877a.h: 2359: extern volatile __bit CCP1M1 @ (((unsigned) &CCP1CON)*8) + 1;
+[; ;pic16f877a.h: 2361: extern volatile __bit CCP1M2 @ (((unsigned) &CCP1CON)*8) + 2;
+[; ;pic16f877a.h: 2363: extern volatile __bit CCP1M3 @ (((unsigned) &CCP1CON)*8) + 3;
+[; ;pic16f877a.h: 2365: extern volatile __bit CCP1X @ (((unsigned) &CCP1CON)*8) + 5;
+[; ;pic16f877a.h: 2367: extern volatile __bit CCP1Y @ (((unsigned) &CCP1CON)*8) + 4;
+[; ;pic16f877a.h: 2369: extern volatile __bit CCP2IE @ (((unsigned) &PIE2)*8) + 0;
+[; ;pic16f877a.h: 2371: extern volatile __bit CCP2IF @ (((unsigned) &PIR2)*8) + 0;
+[; ;pic16f877a.h: 2373: extern volatile __bit CCP2M0 @ (((unsigned) &CCP2CON)*8) + 0;
+[; ;pic16f877a.h: 2375: extern volatile __bit CCP2M1 @ (((unsigned) &CCP2CON)*8) + 1;
+[; ;pic16f877a.h: 2377: extern volatile __bit CCP2M2 @ (((unsigned) &CCP2CON)*8) + 2;
+[; ;pic16f877a.h: 2379: extern volatile __bit CCP2M3 @ (((unsigned) &CCP2CON)*8) + 3;
+[; ;pic16f877a.h: 2381: extern volatile __bit CCP2X @ (((unsigned) &CCP2CON)*8) + 5;
+[; ;pic16f877a.h: 2383: extern volatile __bit CCP2Y @ (((unsigned) &CCP2CON)*8) + 4;
+[; ;pic16f877a.h: 2385: extern volatile __bit CHS0 @ (((unsigned) &ADCON0)*8) + 3;
+[; ;pic16f877a.h: 2387: extern volatile __bit CHS1 @ (((unsigned) &ADCON0)*8) + 4;
+[; ;pic16f877a.h: 2389: extern volatile __bit CHS2 @ (((unsigned) &ADCON0)*8) + 5;
+[; ;pic16f877a.h: 2391: extern volatile __bit CIS @ (((unsigned) &CMCON)*8) + 3;
+[; ;pic16f877a.h: 2393: extern volatile __bit CKE @ (((unsigned) &SSPSTAT)*8) + 6;
+[; ;pic16f877a.h: 2395: extern volatile __bit CKP @ (((unsigned) &SSPCON)*8) + 4;
+[; ;pic16f877a.h: 2397: extern volatile __bit CM0 @ (((unsigned) &CMCON)*8) + 0;
+[; ;pic16f877a.h: 2399: extern volatile __bit CM1 @ (((unsigned) &CMCON)*8) + 1;
+[; ;pic16f877a.h: 2401: extern volatile __bit CM2 @ (((unsigned) &CMCON)*8) + 2;
+[; ;pic16f877a.h: 2403: extern volatile __bit CMIE @ (((unsigned) &PIE2)*8) + 6;
+[; ;pic16f877a.h: 2405: extern volatile __bit CMIF @ (((unsigned) &PIR2)*8) + 6;
+[; ;pic16f877a.h: 2407: extern volatile __bit CREN @ (((unsigned) &RCSTA)*8) + 4;
+[; ;pic16f877a.h: 2409: extern volatile __bit CSRC @ (((unsigned) &TXSTA)*8) + 7;
+[; ;pic16f877a.h: 2411: extern volatile __bit CVR0 @ (((unsigned) &CVRCON)*8) + 0;
+[; ;pic16f877a.h: 2413: extern volatile __bit CVR1 @ (((unsigned) &CVRCON)*8) + 1;
+[; ;pic16f877a.h: 2415: extern volatile __bit CVR2 @ (((unsigned) &CVRCON)*8) + 2;
+[; ;pic16f877a.h: 2417: extern volatile __bit CVR3 @ (((unsigned) &CVRCON)*8) + 3;
+[; ;pic16f877a.h: 2419: extern volatile __bit CVREN @ (((unsigned) &CVRCON)*8) + 7;
+[; ;pic16f877a.h: 2421: extern volatile __bit CVROE @ (((unsigned) &CVRCON)*8) + 6;
+[; ;pic16f877a.h: 2423: extern volatile __bit CVRR @ (((unsigned) &CVRCON)*8) + 5;
+[; ;pic16f877a.h: 2425: extern volatile __bit DATA_ADDRESS @ (((unsigned) &SSPSTAT)*8) + 5;
+[; ;pic16f877a.h: 2427: extern volatile __bit DC @ (((unsigned) &STATUS)*8) + 1;
+[; ;pic16f877a.h: 2429: extern volatile __bit D_A @ (((unsigned) &SSPSTAT)*8) + 5;
+[; ;pic16f877a.h: 2431: extern volatile __bit D_nA @ (((unsigned) &SSPSTAT)*8) + 5;
+[; ;pic16f877a.h: 2433: extern volatile __bit EEIE @ (((unsigned) &PIE2)*8) + 4;
+[; ;pic16f877a.h: 2435: extern volatile __bit EEIF @ (((unsigned) &PIR2)*8) + 4;
+[; ;pic16f877a.h: 2437: extern volatile __bit EEPGD @ (((unsigned) &EECON1)*8) + 7;
+[; ;pic16f877a.h: 2439: extern volatile __bit FERR @ (((unsigned) &RCSTA)*8) + 2;
+[; ;pic16f877a.h: 2441: extern volatile __bit GCEN @ (((unsigned) &SSPCON2)*8) + 7;
+[; ;pic16f877a.h: 2443: extern volatile __bit GIE @ (((unsigned) &INTCON)*8) + 7;
+[; ;pic16f877a.h: 2445: extern volatile __bit GO @ (((unsigned) &ADCON0)*8) + 2;
+[; ;pic16f877a.h: 2447: extern volatile __bit GO_DONE @ (((unsigned) &ADCON0)*8) + 2;
+[; ;pic16f877a.h: 2449: extern volatile __bit GO_nDONE @ (((unsigned) &ADCON0)*8) + 2;
+[; ;pic16f877a.h: 2451: extern volatile __bit I2C_DATA @ (((unsigned) &SSPSTAT)*8) + 5;
+[; ;pic16f877a.h: 2453: extern volatile __bit I2C_READ @ (((unsigned) &SSPSTAT)*8) + 2;
+[; ;pic16f877a.h: 2455: extern volatile __bit I2C_START @ (((unsigned) &SSPSTAT)*8) + 3;
+[; ;pic16f877a.h: 2457: extern volatile __bit I2C_STOP @ (((unsigned) &SSPSTAT)*8) + 4;
+[; ;pic16f877a.h: 2459: extern volatile __bit IBF @ (((unsigned) &TRISE)*8) + 7;
+[; ;pic16f877a.h: 2461: extern volatile __bit IBOV @ (((unsigned) &TRISE)*8) + 5;
+[; ;pic16f877a.h: 2463: extern volatile __bit INTE @ (((unsigned) &INTCON)*8) + 4;
+[; ;pic16f877a.h: 2465: extern volatile __bit INTEDG @ (((unsigned) &OPTION_REG)*8) + 6;
+[; ;pic16f877a.h: 2467: extern volatile __bit INTF @ (((unsigned) &INTCON)*8) + 1;
+[; ;pic16f877a.h: 2469: extern volatile __bit IRP @ (((unsigned) &STATUS)*8) + 7;
+[; ;pic16f877a.h: 2471: extern volatile __bit OBF @ (((unsigned) &TRISE)*8) + 6;
+[; ;pic16f877a.h: 2473: extern volatile __bit OERR @ (((unsigned) &RCSTA)*8) + 1;
+[; ;pic16f877a.h: 2475: extern volatile __bit PCFG0 @ (((unsigned) &ADCON1)*8) + 0;
+[; ;pic16f877a.h: 2477: extern volatile __bit PCFG1 @ (((unsigned) &ADCON1)*8) + 1;
+[; ;pic16f877a.h: 2479: extern volatile __bit PCFG2 @ (((unsigned) &ADCON1)*8) + 2;
+[; ;pic16f877a.h: 2481: extern volatile __bit PCFG3 @ (((unsigned) &ADCON1)*8) + 3;
+[; ;pic16f877a.h: 2483: extern volatile __bit PEIE @ (((unsigned) &INTCON)*8) + 6;
+[; ;pic16f877a.h: 2485: extern volatile __bit PEN @ (((unsigned) &SSPCON2)*8) + 2;
+[; ;pic16f877a.h: 2487: extern volatile __bit PS0 @ (((unsigned) &OPTION_REG)*8) + 0;
+[; ;pic16f877a.h: 2489: extern volatile __bit PS1 @ (((unsigned) &OPTION_REG)*8) + 1;
+[; ;pic16f877a.h: 2491: extern volatile __bit PS2 @ (((unsigned) &OPTION_REG)*8) + 2;
+[; ;pic16f877a.h: 2493: extern volatile __bit PSA @ (((unsigned) &OPTION_REG)*8) + 3;
+[; ;pic16f877a.h: 2495: extern volatile __bit PSPIE @ (((unsigned) &PIE1)*8) + 7;
+[; ;pic16f877a.h: 2497: extern volatile __bit PSPIF @ (((unsigned) &PIR1)*8) + 7;
+[; ;pic16f877a.h: 2499: extern volatile __bit PSPMODE @ (((unsigned) &TRISE)*8) + 4;
+[; ;pic16f877a.h: 2501: extern volatile __bit RA0 @ (((unsigned) &PORTA)*8) + 0;
+[; ;pic16f877a.h: 2503: extern volatile __bit RA1 @ (((unsigned) &PORTA)*8) + 1;
+[; ;pic16f877a.h: 2505: extern volatile __bit RA2 @ (((unsigned) &PORTA)*8) + 2;
+[; ;pic16f877a.h: 2507: extern volatile __bit RA3 @ (((unsigned) &PORTA)*8) + 3;
+[; ;pic16f877a.h: 2509: extern volatile __bit RA4 @ (((unsigned) &PORTA)*8) + 4;
+[; ;pic16f877a.h: 2511: extern volatile __bit RA5 @ (((unsigned) &PORTA)*8) + 5;
+[; ;pic16f877a.h: 2513: extern volatile __bit RB0 @ (((unsigned) &PORTB)*8) + 0;
+[; ;pic16f877a.h: 2515: extern volatile __bit RB1 @ (((unsigned) &PORTB)*8) + 1;
+[; ;pic16f877a.h: 2517: extern volatile __bit RB2 @ (((unsigned) &PORTB)*8) + 2;
+[; ;pic16f877a.h: 2519: extern volatile __bit RB3 @ (((unsigned) &PORTB)*8) + 3;
+[; ;pic16f877a.h: 2521: extern volatile __bit RB4 @ (((unsigned) &PORTB)*8) + 4;
+[; ;pic16f877a.h: 2523: extern volatile __bit RB5 @ (((unsigned) &PORTB)*8) + 5;
+[; ;pic16f877a.h: 2525: extern volatile __bit RB6 @ (((unsigned) &PORTB)*8) + 6;
+[; ;pic16f877a.h: 2527: extern volatile __bit RB7 @ (((unsigned) &PORTB)*8) + 7;
+[; ;pic16f877a.h: 2529: extern volatile __bit RBIE @ (((unsigned) &INTCON)*8) + 3;
+[; ;pic16f877a.h: 2531: extern volatile __bit RBIF @ (((unsigned) &INTCON)*8) + 0;
+[; ;pic16f877a.h: 2533: extern volatile __bit RC0 @ (((unsigned) &PORTC)*8) + 0;
+[; ;pic16f877a.h: 2535: extern volatile __bit RC1 @ (((unsigned) &PORTC)*8) + 1;
+[; ;pic16f877a.h: 2537: extern volatile __bit RC2 @ (((unsigned) &PORTC)*8) + 2;
+[; ;pic16f877a.h: 2539: extern volatile __bit RC3 @ (((unsigned) &PORTC)*8) + 3;
+[; ;pic16f877a.h: 2541: extern volatile __bit RC4 @ (((unsigned) &PORTC)*8) + 4;
+[; ;pic16f877a.h: 2543: extern volatile __bit RC5 @ (((unsigned) &PORTC)*8) + 5;
+[; ;pic16f877a.h: 2545: extern volatile __bit RC6 @ (((unsigned) &PORTC)*8) + 6;
+[; ;pic16f877a.h: 2547: extern volatile __bit RC7 @ (((unsigned) &PORTC)*8) + 7;
+[; ;pic16f877a.h: 2549: extern volatile __bit RC8_9 @ (((unsigned) &RCSTA)*8) + 6;
+[; ;pic16f877a.h: 2551: extern volatile __bit RC9 @ (((unsigned) &RCSTA)*8) + 6;
+[; ;pic16f877a.h: 2553: extern volatile __bit RCD8 @ (((unsigned) &RCSTA)*8) + 0;
+[; ;pic16f877a.h: 2555: extern volatile __bit RCEN @ (((unsigned) &SSPCON2)*8) + 3;
+[; ;pic16f877a.h: 2557: extern volatile __bit RCIE @ (((unsigned) &PIE1)*8) + 5;
+[; ;pic16f877a.h: 2559: extern volatile __bit RCIF @ (((unsigned) &PIR1)*8) + 5;
+[; ;pic16f877a.h: 2561: extern volatile __bit RD @ (((unsigned) &EECON1)*8) + 0;
+[; ;pic16f877a.h: 2563: extern volatile __bit RD0 @ (((unsigned) &PORTD)*8) + 0;
+[; ;pic16f877a.h: 2565: extern volatile __bit RD1 @ (((unsigned) &PORTD)*8) + 1;
+[; ;pic16f877a.h: 2567: extern volatile __bit RD2 @ (((unsigned) &PORTD)*8) + 2;
+[; ;pic16f877a.h: 2569: extern volatile __bit RD3 @ (((unsigned) &PORTD)*8) + 3;
+[; ;pic16f877a.h: 2571: extern volatile __bit RD4 @ (((unsigned) &PORTD)*8) + 4;
+[; ;pic16f877a.h: 2573: extern volatile __bit RD5 @ (((unsigned) &PORTD)*8) + 5;
+[; ;pic16f877a.h: 2575: extern volatile __bit RD6 @ (((unsigned) &PORTD)*8) + 6;
+[; ;pic16f877a.h: 2577: extern volatile __bit RD7 @ (((unsigned) &PORTD)*8) + 7;
+[; ;pic16f877a.h: 2579: extern volatile __bit RE0 @ (((unsigned) &PORTE)*8) + 0;
+[; ;pic16f877a.h: 2581: extern volatile __bit RE1 @ (((unsigned) &PORTE)*8) + 1;
+[; ;pic16f877a.h: 2583: extern volatile __bit RE2 @ (((unsigned) &PORTE)*8) + 2;
+[; ;pic16f877a.h: 2585: extern volatile __bit READ_WRITE @ (((unsigned) &SSPSTAT)*8) + 2;
+[; ;pic16f877a.h: 2587: extern volatile __bit RP0 @ (((unsigned) &STATUS)*8) + 5;
+[; ;pic16f877a.h: 2589: extern volatile __bit RP1 @ (((unsigned) &STATUS)*8) + 6;
+[; ;pic16f877a.h: 2591: extern volatile __bit RSEN @ (((unsigned) &SSPCON2)*8) + 1;
+[; ;pic16f877a.h: 2593: extern volatile __bit RX9 @ (((unsigned) &RCSTA)*8) + 6;
+[; ;pic16f877a.h: 2595: extern volatile __bit RX9D @ (((unsigned) &RCSTA)*8) + 0;
+[; ;pic16f877a.h: 2597: extern volatile __bit R_W @ (((unsigned) &SSPSTAT)*8) + 2;
+[; ;pic16f877a.h: 2599: extern volatile __bit R_nW @ (((unsigned) &SSPSTAT)*8) + 2;
+[; ;pic16f877a.h: 2601: extern volatile __bit SEN @ (((unsigned) &SSPCON2)*8) + 0;
+[; ;pic16f877a.h: 2603: extern volatile __bit SMP @ (((unsigned) &SSPSTAT)*8) + 7;
+[; ;pic16f877a.h: 2605: extern volatile __bit SPEN @ (((unsigned) &RCSTA)*8) + 7;
+[; ;pic16f877a.h: 2607: extern volatile __bit SREN @ (((unsigned) &RCSTA)*8) + 5;
+[; ;pic16f877a.h: 2609: extern volatile __bit SSPEN @ (((unsigned) &SSPCON)*8) + 5;
+[; ;pic16f877a.h: 2611: extern volatile __bit SSPIE @ (((unsigned) &PIE1)*8) + 3;
+[; ;pic16f877a.h: 2613: extern volatile __bit SSPIF @ (((unsigned) &PIR1)*8) + 3;
+[; ;pic16f877a.h: 2615: extern volatile __bit SSPM0 @ (((unsigned) &SSPCON)*8) + 0;
+[; ;pic16f877a.h: 2617: extern volatile __bit SSPM1 @ (((unsigned) &SSPCON)*8) + 1;
+[; ;pic16f877a.h: 2619: extern volatile __bit SSPM2 @ (((unsigned) &SSPCON)*8) + 2;
+[; ;pic16f877a.h: 2621: extern volatile __bit SSPM3 @ (((unsigned) &SSPCON)*8) + 3;
+[; ;pic16f877a.h: 2623: extern volatile __bit SSPOV @ (((unsigned) &SSPCON)*8) + 6;
+[; ;pic16f877a.h: 2625: extern volatile __bit SYNC @ (((unsigned) &TXSTA)*8) + 4;
+[; ;pic16f877a.h: 2627: extern volatile __bit T0CS @ (((unsigned) &OPTION_REG)*8) + 5;
+[; ;pic16f877a.h: 2629: extern volatile __bit T0IE @ (((unsigned) &INTCON)*8) + 5;
+[; ;pic16f877a.h: 2631: extern volatile __bit T0IF @ (((unsigned) &INTCON)*8) + 2;
+[; ;pic16f877a.h: 2633: extern volatile __bit T0SE @ (((unsigned) &OPTION_REG)*8) + 4;
+[; ;pic16f877a.h: 2635: extern volatile __bit T1CKPS0 @ (((unsigned) &T1CON)*8) + 4;
+[; ;pic16f877a.h: 2637: extern volatile __bit T1CKPS1 @ (((unsigned) &T1CON)*8) + 5;
+[; ;pic16f877a.h: 2639: extern volatile __bit T1INSYNC @ (((unsigned) &T1CON)*8) + 2;
+[; ;pic16f877a.h: 2641: extern volatile __bit T1OSCEN @ (((unsigned) &T1CON)*8) + 3;
+[; ;pic16f877a.h: 2643: extern volatile __bit T1SYNC @ (((unsigned) &T1CON)*8) + 2;
+[; ;pic16f877a.h: 2645: extern volatile __bit T2CKPS0 @ (((unsigned) &T2CON)*8) + 0;
+[; ;pic16f877a.h: 2647: extern volatile __bit T2CKPS1 @ (((unsigned) &T2CON)*8) + 1;
+[; ;pic16f877a.h: 2649: extern volatile __bit TMR0IE @ (((unsigned) &INTCON)*8) + 5;
+[; ;pic16f877a.h: 2651: extern volatile __bit TMR0IF @ (((unsigned) &INTCON)*8) + 2;
+[; ;pic16f877a.h: 2653: extern volatile __bit TMR1CS @ (((unsigned) &T1CON)*8) + 1;
+[; ;pic16f877a.h: 2655: extern volatile __bit TMR1IE @ (((unsigned) &PIE1)*8) + 0;
+[; ;pic16f877a.h: 2657: extern volatile __bit TMR1IF @ (((unsigned) &PIR1)*8) + 0;
+[; ;pic16f877a.h: 2659: extern volatile __bit TMR1ON @ (((unsigned) &T1CON)*8) + 0;
+[; ;pic16f877a.h: 2661: extern volatile __bit TMR2IE @ (((unsigned) &PIE1)*8) + 1;
+[; ;pic16f877a.h: 2663: extern volatile __bit TMR2IF @ (((unsigned) &PIR1)*8) + 1;
+[; ;pic16f877a.h: 2665: extern volatile __bit TMR2ON @ (((unsigned) &T2CON)*8) + 2;
+[; ;pic16f877a.h: 2667: extern volatile __bit TOUTPS0 @ (((unsigned) &T2CON)*8) + 3;
+[; ;pic16f877a.h: 2669: extern volatile __bit TOUTPS1 @ (((unsigned) &T2CON)*8) + 4;
+[; ;pic16f877a.h: 2671: extern volatile __bit TOUTPS2 @ (((unsigned) &T2CON)*8) + 5;
+[; ;pic16f877a.h: 2673: extern volatile __bit TOUTPS3 @ (((unsigned) &T2CON)*8) + 6;
+[; ;pic16f877a.h: 2675: extern volatile __bit TRISA0 @ (((unsigned) &TRISA)*8) + 0;
+[; ;pic16f877a.h: 2677: extern volatile __bit TRISA1 @ (((unsigned) &TRISA)*8) + 1;
+[; ;pic16f877a.h: 2679: extern volatile __bit TRISA2 @ (((unsigned) &TRISA)*8) + 2;
+[; ;pic16f877a.h: 2681: extern volatile __bit TRISA3 @ (((unsigned) &TRISA)*8) + 3;
+[; ;pic16f877a.h: 2683: extern volatile __bit TRISA4 @ (((unsigned) &TRISA)*8) + 4;
+[; ;pic16f877a.h: 2685: extern volatile __bit TRISA5 @ (((unsigned) &TRISA)*8) + 5;
+[; ;pic16f877a.h: 2687: extern volatile __bit TRISB0 @ (((unsigned) &TRISB)*8) + 0;
+[; ;pic16f877a.h: 2689: extern volatile __bit TRISB1 @ (((unsigned) &TRISB)*8) + 1;
+[; ;pic16f877a.h: 2691: extern volatile __bit TRISB2 @ (((unsigned) &TRISB)*8) + 2;
+[; ;pic16f877a.h: 2693: extern volatile __bit TRISB3 @ (((unsigned) &TRISB)*8) + 3;
+[; ;pic16f877a.h: 2695: extern volatile __bit TRISB4 @ (((unsigned) &TRISB)*8) + 4;
+[; ;pic16f877a.h: 2697: extern volatile __bit TRISB5 @ (((unsigned) &TRISB)*8) + 5;
+[; ;pic16f877a.h: 2699: extern volatile __bit TRISB6 @ (((unsigned) &TRISB)*8) + 6;
+[; ;pic16f877a.h: 2701: extern volatile __bit TRISB7 @ (((unsigned) &TRISB)*8) + 7;
+[; ;pic16f877a.h: 2703: extern volatile __bit TRISC0 @ (((unsigned) &TRISC)*8) + 0;
+[; ;pic16f877a.h: 2705: extern volatile __bit TRISC1 @ (((unsigned) &TRISC)*8) + 1;
+[; ;pic16f877a.h: 2707: extern volatile __bit TRISC2 @ (((unsigned) &TRISC)*8) + 2;
+[; ;pic16f877a.h: 2709: extern volatile __bit TRISC3 @ (((unsigned) &TRISC)*8) + 3;
+[; ;pic16f877a.h: 2711: extern volatile __bit TRISC4 @ (((unsigned) &TRISC)*8) + 4;
+[; ;pic16f877a.h: 2713: extern volatile __bit TRISC5 @ (((unsigned) &TRISC)*8) + 5;
+[; ;pic16f877a.h: 2715: extern volatile __bit TRISC6 @ (((unsigned) &TRISC)*8) + 6;
+[; ;pic16f877a.h: 2717: extern volatile __bit TRISC7 @ (((unsigned) &TRISC)*8) + 7;
+[; ;pic16f877a.h: 2719: extern volatile __bit TRISD0 @ (((unsigned) &TRISD)*8) + 0;
+[; ;pic16f877a.h: 2721: extern volatile __bit TRISD1 @ (((unsigned) &TRISD)*8) + 1;
+[; ;pic16f877a.h: 2723: extern volatile __bit TRISD2 @ (((unsigned) &TRISD)*8) + 2;
+[; ;pic16f877a.h: 2725: extern volatile __bit TRISD3 @ (((unsigned) &TRISD)*8) + 3;
+[; ;pic16f877a.h: 2727: extern volatile __bit TRISD4 @ (((unsigned) &TRISD)*8) + 4;
+[; ;pic16f877a.h: 2729: extern volatile __bit TRISD5 @ (((unsigned) &TRISD)*8) + 5;
+[; ;pic16f877a.h: 2731: extern volatile __bit TRISD6 @ (((unsigned) &TRISD)*8) + 6;
+[; ;pic16f877a.h: 2733: extern volatile __bit TRISD7 @ (((unsigned) &TRISD)*8) + 7;
+[; ;pic16f877a.h: 2735: extern volatile __bit TRISE0 @ (((unsigned) &TRISE)*8) + 0;
+[; ;pic16f877a.h: 2737: extern volatile __bit TRISE1 @ (((unsigned) &TRISE)*8) + 1;
+[; ;pic16f877a.h: 2739: extern volatile __bit TRISE2 @ (((unsigned) &TRISE)*8) + 2;
+[; ;pic16f877a.h: 2741: extern volatile __bit TRMT @ (((unsigned) &TXSTA)*8) + 1;
+[; ;pic16f877a.h: 2743: extern volatile __bit TX8_9 @ (((unsigned) &TXSTA)*8) + 6;
+[; ;pic16f877a.h: 2745: extern volatile __bit TX9 @ (((unsigned) &TXSTA)*8) + 6;
+[; ;pic16f877a.h: 2747: extern volatile __bit TX9D @ (((unsigned) &TXSTA)*8) + 0;
+[; ;pic16f877a.h: 2749: extern volatile __bit TXD8 @ (((unsigned) &TXSTA)*8) + 0;
+[; ;pic16f877a.h: 2751: extern volatile __bit TXEN @ (((unsigned) &TXSTA)*8) + 5;
+[; ;pic16f877a.h: 2753: extern volatile __bit TXIE @ (((unsigned) &PIE1)*8) + 4;
+[; ;pic16f877a.h: 2755: extern volatile __bit TXIF @ (((unsigned) &PIR1)*8) + 4;
+[; ;pic16f877a.h: 2757: extern volatile __bit UA @ (((unsigned) &SSPSTAT)*8) + 1;
+[; ;pic16f877a.h: 2759: extern volatile __bit WCOL @ (((unsigned) &SSPCON)*8) + 7;
+[; ;pic16f877a.h: 2761: extern volatile __bit WR @ (((unsigned) &EECON1)*8) + 1;
+[; ;pic16f877a.h: 2763: extern volatile __bit WREN @ (((unsigned) &EECON1)*8) + 2;
+[; ;pic16f877a.h: 2765: extern volatile __bit WRERR @ (((unsigned) &EECON1)*8) + 3;
+[; ;pic16f877a.h: 2767: extern volatile __bit ZERO @ (((unsigned) &STATUS)*8) + 2;
+[; ;pic16f877a.h: 2769: extern volatile __bit nA @ (((unsigned) &SSPSTAT)*8) + 5;
+[; ;pic16f877a.h: 2771: extern volatile __bit nADDRESS @ (((unsigned) &SSPSTAT)*8) + 5;
+[; ;pic16f877a.h: 2773: extern volatile __bit nBO @ (((unsigned) &PCON)*8) + 0;
+[; ;pic16f877a.h: 2775: extern volatile __bit nBOR @ (((unsigned) &PCON)*8) + 0;
+[; ;pic16f877a.h: 2777: extern volatile __bit nDONE @ (((unsigned) &ADCON0)*8) + 2;
+[; ;pic16f877a.h: 2779: extern volatile __bit nPD @ (((unsigned) &STATUS)*8) + 3;
+[; ;pic16f877a.h: 2781: extern volatile __bit nPOR @ (((unsigned) &PCON)*8) + 1;
+[; ;pic16f877a.h: 2783: extern volatile __bit nRBPU @ (((unsigned) &OPTION_REG)*8) + 7;
+[; ;pic16f877a.h: 2785: extern volatile __bit nRC8 @ (((unsigned) &RCSTA)*8) + 6;
+[; ;pic16f877a.h: 2787: extern volatile __bit nT1SYNC @ (((unsigned) &T1CON)*8) + 2;
+[; ;pic16f877a.h: 2789: extern volatile __bit nTO @ (((unsigned) &STATUS)*8) + 4;
+[; ;pic16f877a.h: 2791: extern volatile __bit nTX8 @ (((unsigned) &TXSTA)*8) + 6;
+[; ;pic16f877a.h: 2793: extern volatile __bit nW @ (((unsigned) &SSPSTAT)*8) + 2;
+[; ;pic16f877a.h: 2795: extern volatile __bit nWRITE @ (((unsigned) &SSPSTAT)*8) + 2;
+[; ;pic.h: 28: extern void __nop(void);
+[; ;pic.h: 76: extern unsigned int flash_read(unsigned short addr);
+[; ;eeprom_routines.h: 41: extern void eeprom_write(unsigned char addr, unsigned char value);
+[; ;eeprom_routines.h: 42: extern unsigned char eeprom_read(unsigned char addr);
+[; ;eeprom_routines.h: 43: extern void eecpymem(volatile unsigned char *to, __eeprom unsigned char *from, unsigned char size);
+[; ;eeprom_routines.h: 44: extern void memcpyee(__eeprom unsigned char *to, const unsigned char *from, unsigned char size);
+[; ;pic.h: 150: extern __nonreentrant void _delay(unsigned long);
+[; ;pic.h: 184: extern unsigned char __resetbits;
+[; ;pic.h: 185: extern __bit __powerdown;
+[; ;pic.h: 186: extern __bit __timeout;
+"3 Automated Solar Panel Orientation Setter.c
+[p x FOSC=HS ]
+[p x WDTE=OFF ]
+[p x PWRTE=ON ]
+[p x BOREN=OFF ]
+"48 setup.h
+[v _Nop `b ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 3: __config("__CONFIG", "pic", "FOSC_HS & WDTE_OFF & PWRTE_ON & BOREN_OFF & LVP_ON & CPD_OFF & WRT_OFF & CP_OFF");
+[; ;setup.h: 48: bit Nop;
+"50
+[v _nop `(v ~T0 @X0 1 ef ]
+{
+[; ;setup.h: 50: void nop(){
+[e :U _nop ]
+[f ]
+[; ;setup.h: 51: Nop = !Nop;
+"51
+[e = _Nop ! _Nop ]
+[; ;setup.h: 52: }
+"52
+[e :UE 96 ]
+}
+[; ;setup.h: 54: void Setup_IOports();
+"56
+[v _Setup_IOports `(v ~T0 @X0 1 ef ]
+{
+[; ;setup.h: 56: void Setup_IOports(){
+[e :U _Setup_IOports ]
+[f ]
+[; ;setup.h: 58: TRISA = 0b11111111;
+"58
+[e = _TRISA -> -> 255 `i `uc ]
+[; ;setup.h: 59: PORTA = 0b00000000;
+"59
+[e = _PORTA -> -> 0 `i `uc ]
+[; ;setup.h: 61: TRISB = 0b11000000;
+"61
+[e = _TRISB -> -> 192 `i `uc ]
+[; ;setup.h: 62: PORTB = 0b00000000;
+"62
+[e = _PORTB -> -> 0 `i `uc ]
+[; ;setup.h: 64: TRISC = 0b10000000;
+"64
+[e = _TRISC -> -> 128 `i `uc ]
+[; ;setup.h: 65: PORTC = 0b00000000;
+"65
+[e = _PORTC -> -> 0 `i `uc ]
+[; ;setup.h: 67: TRISD = 0b11001100;
+"67
+[e = _TRISD -> -> 204 `i `uc ]
+[; ;setup.h: 68: PORTD = 0b00000000;
+"68
+[e = _PORTD -> -> 0 `i `uc ]
+[; ;setup.h: 70: TRISE = 0b10000000;
+"70
+[e = _TRISE -> -> 128 `i `uc ]
+[; ;setup.h: 71: PORTE = 0b00000000;
+"71
+[e = _PORTE -> -> 0 `i `uc ]
+[; ;setup.h: 72: }
+"72
+[e :UE 97 ]
+}
+[; ;stdio.h: 8: typedef int ptrdiff_t;
+[; ;stdio.h: 9: typedef unsigned size_t;
+[; ;stdio.h: 10: typedef unsigned short wchar_t;
+[; ;stdarg.h: 7: typedef void * va_list[1];
+[; ;stdarg.h: 10: extern void * __va_start(void);
+[; ;stdarg.h: 13: extern void * __va_arg(void *, ...);
+[; ;stdio.h: 24: extern int errno;
+[; ;stdio.h: 55: struct __prbuf
+[; ;stdio.h: 56: {
+[; ;stdio.h: 57: char * ptr;
+[; ;stdio.h: 58: void (* func)(char);
+[; ;stdio.h: 59: };
+[; ;conio.h: 17: extern int errno;
+[; ;conio.h: 20: extern void init_uart(void);
+[; ;conio.h: 22: extern char getch(void);
+[; ;conio.h: 23: extern char getche(void);
+[; ;conio.h: 24: extern void putch(char);
+[; ;conio.h: 25: extern void ungetch(char);
+[; ;conio.h: 27: extern __bit kbhit(void);
+[; ;conio.h: 31: extern char * cgets(char *);
+[; ;conio.h: 32: extern void cputs(const char *);
+[; ;stdio.h: 100: extern int cprintf(char *, ...);
+[; ;stdio.h: 105: extern int _doprnt(struct __prbuf *, const register char *, register va_list);
+[; ;stdio.h: 195: extern char * gets(char *);
+[; ;stdio.h: 196: extern int puts(const char *);
+[; ;stdio.h: 197: extern int scanf(const char *, ...) __attribute__((unsupported("scanf() is not supported by this compiler")));
+[; ;stdio.h: 198: extern int sscanf(const char *, const char *, ...) __attribute__((unsupported("sscanf() is not supported by this compiler")));
+[; ;stdio.h: 199: extern int vprintf(const char *, va_list) __attribute__((unsupported("vprintf() is not supported by this compiler")));
+[; ;stdio.h: 200: extern int vsprintf(char *, const char *, va_list) __attribute__((unsupported("vsprintf() is not supported by this compiler")));
+[; ;stdio.h: 201: extern int vscanf(const char *, va_list ap) __attribute__((unsupported("vscanf() is not supported by this compiler")));
+[; ;stdio.h: 202: extern int vsscanf(const char *, const char *, va_list) __attribute__((unsupported("vsscanf() is not supported by this compiler")));
+[; ;stdio.h: 206: extern int sprintf(char *, const char *, ...);
+[; ;stdio.h: 207: extern int printf(const char *, ...);
+"42 lcdv2.h
+[v _lcd_data `uc ~T0 @X0 1 e ]
+[; ;lcdv2.h: 42: unsigned char lcd_data;
+"43
+[v _lcd_data_high `uc ~T0 @X0 1 e ]
+[; ;lcdv2.h: 43: unsigned char lcd_data_high;
+"44
+[v _lcd_data_low `uc ~T0 @X0 1 e ]
+[; ;lcdv2.h: 44: unsigned char lcd_data_low;
+"45
+[v _lcd_bus `uc ~T0 @X0 1 e ]
+[; ;lcdv2.h: 45: unsigned char lcd_bus;
+"47
+[v _bit0 `b ~T0 @X0 1 e ]
+[v _bit1 `b ~T0 @X0 1 e ]
+[v _bit2 `b ~T0 @X0 1 e ]
+[v _bit3 `b ~T0 @X0 1 e ]
+[v _bit4 `b ~T0 @X0 1 e ]
+[v _bit5 `b ~T0 @X0 1 e ]
+[v _bit6 `b ~T0 @X0 1 e ]
+[v _bit7 `b ~T0 @X0 1 e ]
+[; ;lcdv2.h: 47: bit bit0,bit1,bit2,bit3,bit4,bit5,bit6,bit7;
+[; ;lcdv2.h: 49: void lcd_init();
+[; ;lcdv2.h: 50: void lcd_add();
+[; ;lcdv2.h: 51: void position( char row, char collum);
+[; ;lcdv2.h: 52: void clr_display();
+[; ;lcdv2.h: 53: void curser( char on );
+[; ;lcdv2.h: 54: void row2();
+[; ;lcdv2.h: 55: void enable4bitMode();
+[; ;lcdv2.h: 56: void enable8bitMode();
+[; ;lcdv2.h: 57: void pulseEnable();
+[; ;lcdv2.h: 58: void LCD_print_char( int row, int column,char print_value );
+"60
+[v _lcd_init `(v ~T0 @X0 1 ef ]
+"61
+{
+[; ;lcdv2.h: 60: void lcd_init()
+[; ;lcdv2.h: 61: {
+[e :U _lcd_init ]
+[f ]
+[; ;lcdv2.h: 63: RC3 = 0;
+"63
+[e = _RC3 -> -> 0 `i `b ]
+"65
+[v _DelayLCD `ui ~T0 @X0 1 a ]
+[; ;lcdv2.h: 65: unsigned int DelayLCD;
+[; ;lcdv2.h: 67: RC2 = 0;
+"67
+[e = _RC2 -> -> 0 `i `b ]
+[; ;lcdv2.h: 68: RD1 = 0;
+"68
+[e = _RD1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 69: RC0 = 0;
+"69
+[e = _RC0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 70: RD0 = 1;
+"70
+[e = _RD0 -> -> 1 `i `b ]
+[; ;lcdv2.h: 71: RC1 = 0;
+"71
+[e = _RC1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 72: RC3 = 1;
+"72
+[e = _RC3 -> -> 1 `i `b ]
+[; ;lcdv2.h: 73: RC3 = 0;
+"73
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 74: RD1 = 1;
+"74
+[e = _RD1 -> -> 1 `i `b ]
+[; ;lcdv2.h: 75: RC0 = 0;
+"75
+[e = _RC0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 76: RD0 = 0;
+"76
+[e = _RD0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 77: RC1 = 0;
+"77
+[e = _RC1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 78: RC3 = 1;
+"78
+[e = _RC3 -> -> 1 `i `b ]
+[; ;lcdv2.h: 79: RC3 = 0;
+"79
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 80: for(DelayLCD=0;DelayLCD<2500;DelayLCD++);
+"80
+{
+[e = _DelayLCD -> -> 0 `i `ui ]
+[e $ < _DelayLCD -> -> 2500 `i `ui 100  ]
+[e $U 101  ]
+[e :U 100 ]
+[e ++ _DelayLCD -> -> 1 `i `ui ]
+[e $ < _DelayLCD -> -> 2500 `i `ui 100  ]
+[e :U 101 ]
+}
+[; ;lcdv2.h: 83: RC2 = 0;
+"83
+[e = _RC2 -> -> 0 `i `b ]
+[; ;lcdv2.h: 84: RD1 = 0;
+"84
+[e = _RD1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 85: RC0 = 0;
+"85
+[e = _RC0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 86: RD0 = 1;
+"86
+[e = _RD0 -> -> 1 `i `b ]
+[; ;lcdv2.h: 87: RC1 = 0;
+"87
+[e = _RC1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 88: RC3 = 1;
+"88
+[e = _RC3 -> -> 1 `i `b ]
+[; ;lcdv2.h: 89: RC3 = 0;
+"89
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 90: RD1 = 1;
+"90
+[e = _RD1 -> -> 1 `i `b ]
+[; ;lcdv2.h: 91: RC0 = 0;
+"91
+[e = _RC0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 92: RD0 = 0;
+"92
+[e = _RD0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 93: RC1 = 0;
+"93
+[e = _RC1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 94: RC3 = 1;
+"94
+[e = _RC3 -> -> 1 `i `b ]
+[; ;lcdv2.h: 95: RC3 = 0;
+"95
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 96: for(DelayLCD=0;DelayLCD<2500;DelayLCD++);
+"96
+{
+[e = _DelayLCD -> -> 0 `i `ui ]
+[e $ < _DelayLCD -> -> 2500 `i `ui 103  ]
+[e $U 104  ]
+[e :U 103 ]
+[e ++ _DelayLCD -> -> 1 `i `ui ]
+[e $ < _DelayLCD -> -> 2500 `i `ui 103  ]
+[e :U 104 ]
+}
+[; ;lcdv2.h: 99: RC2 = 0;
+"99
+[e = _RC2 -> -> 0 `i `b ]
+[; ;lcdv2.h: 100: RD1 = 0;
+"100
+[e = _RD1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 101: RC0 = 0;
+"101
+[e = _RC0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 102: RD0 = 0;
+"102
+[e = _RD0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 103: RC1 = 0;
+"103
+[e = _RC1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 104: RC3 = 1;
+"104
+[e = _RC3 -> -> 1 `i `b ]
+[; ;lcdv2.h: 105: RC3 = 0;
+"105
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 106: RD1 = 0;
+"106
+[e = _RD1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 107: RC0 = 1;
+"107
+[e = _RC0 -> -> 1 `i `b ]
+[; ;lcdv2.h: 108: RD0 = 1;
+"108
+[e = _RD0 -> -> 1 `i `b ]
+[; ;lcdv2.h: 109: RC1 = 0;
+"109
+[e = _RC1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 110: RC3 = 1;
+"110
+[e = _RC3 -> -> 1 `i `b ]
+[; ;lcdv2.h: 111: RC3 = 0;
+"111
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 112: for(DelayLCD=0;DelayLCD<2500;DelayLCD++);
+"112
+{
+[e = _DelayLCD -> -> 0 `i `ui ]
+[e $ < _DelayLCD -> -> 2500 `i `ui 106  ]
+[e $U 107  ]
+[e :U 106 ]
+[e ++ _DelayLCD -> -> 1 `i `ui ]
+[e $ < _DelayLCD -> -> 2500 `i `ui 106  ]
+[e :U 107 ]
+}
+[; ;lcdv2.h: 115: RC2 = 0;
+"115
+[e = _RC2 -> -> 0 `i `b ]
+[; ;lcdv2.h: 116: RD1 = 0;
+"116
+[e = _RD1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 117: RC0 = 0;
+"117
+[e = _RC0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 118: RD0 = 0;
+"118
+[e = _RD0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 119: RC1 = 0;
+"119
+[e = _RC1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 120: RC3 = 1;
+"120
+[e = _RC3 -> -> 1 `i `b ]
+[; ;lcdv2.h: 121: RC3 = 0;
+"121
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 122: RD1 = 1;
+"122
+[e = _RD1 -> -> 1 `i `b ]
+[; ;lcdv2.h: 123: RC0 = 1;
+"123
+[e = _RC0 -> -> 1 `i `b ]
+[; ;lcdv2.h: 124: RD0 = 0;
+"124
+[e = _RD0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 125: RC1 = 0;
+"125
+[e = _RC1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 126: RC3 = 1;
+"126
+[e = _RC3 -> -> 1 `i `b ]
+[; ;lcdv2.h: 127: RC3 = 0;
+"127
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 128: for(DelayLCD=0;DelayLCD<2500;DelayLCD++);
+"128
+{
+[e = _DelayLCD -> -> 0 `i `ui ]
+[e $ < _DelayLCD -> -> 2500 `i `ui 109  ]
+[e $U 110  ]
+[e :U 109 ]
+[e ++ _DelayLCD -> -> 1 `i `ui ]
+[e $ < _DelayLCD -> -> 2500 `i `ui 109  ]
+[e :U 110 ]
+}
+[; ;lcdv2.h: 131: RC2 = 0;
+"131
+[e = _RC2 -> -> 0 `i `b ]
+[; ;lcdv2.h: 132: RD1 = 0;
+"132
+[e = _RD1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 133: RC0 = 0;
+"133
+[e = _RC0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 134: RD0 = 0;
+"134
+[e = _RD0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 135: RC1 = 0;
+"135
+[e = _RC1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 136: RC3 = 1;
+"136
+[e = _RC3 -> -> 1 `i `b ]
+[; ;lcdv2.h: 137: RC3 = 0;
+"137
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 138: RD1 = 0;
+"138
+[e = _RD1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 139: RC0 = 0;
+"139
+[e = _RC0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 140: RD0 = 0;
+"140
+[e = _RD0 -> -> 0 `i `b ]
+[; ;lcdv2.h: 141: RC1 = 1;
+"141
+[e = _RC1 -> -> 1 `i `b ]
+[; ;lcdv2.h: 142: RC3 = 1;
+"142
+[e = _RC3 -> -> 1 `i `b ]
+[; ;lcdv2.h: 143: RC3 = 0;
+"143
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 144: for(DelayLCD=0;DelayLCD<2500;DelayLCD++);
+"144
+{
+[e = _DelayLCD -> -> 0 `i `ui ]
+[e $ < _DelayLCD -> -> 2500 `i `ui 112  ]
+[e $U 113  ]
+[e :U 112 ]
+[e ++ _DelayLCD -> -> 1 `i `ui ]
+[e $ < _DelayLCD -> -> 2500 `i `ui 112  ]
+[e :U 113 ]
+}
+[; ;lcdv2.h: 147: }
+"147
+[e :UE 99 ]
+}
+"149
+[v _enable4bitMode `(v ~T0 @X0 1 ef ]
+"150
+{
+[; ;lcdv2.h: 149: void enable4bitMode()
+[; ;lcdv2.h: 150: {
+[e :U _enable4bitMode ]
+[f ]
+[; ;lcdv2.h: 151: RC2 = 0;
+"151
+[e = _RC2 -> -> 0 `i `b ]
+[; ;lcdv2.h: 152: _delay(20);
+"152
+[e ( __delay (1 -> -> -> 20 `i `l `ul ]
+[; ;lcdv2.h: 153: RD1 = 0; RC0 = 0; RD0 = 1; RC1 = 0;
+"153
+[e = _RD1 -> -> 0 `i `b ]
+[e = _RC0 -> -> 0 `i `b ]
+[e = _RD0 -> -> 1 `i `b ]
+[e = _RC1 -> -> 0 `i `b ]
+[; ;lcdv2.h: 154: pulseEnable();
+"154
+[e ( _pulseEnable ..  ]
+[; ;lcdv2.h: 155: }
+"155
+[e :UE 115 ]
+}
+"157
+[v _enable8bitMode `(v ~T0 @X0 1 ef ]
+"158
+{
+[; ;lcdv2.h: 157: void enable8bitMode()
+[; ;lcdv2.h: 158: {
+[e :U _enable8bitMode ]
+[f ]
+[; ;lcdv2.h: 159: RC2 = 0;
+"159
+[e = _RC2 -> -> 0 `i `b ]
+[; ;lcdv2.h: 160: _delay(20);
+"160
+[e ( __delay (1 -> -> -> 20 `i `l `ul ]
+[; ;lcdv2.h: 161: RD1 = 0; RC0 = 0; RD0 = 1; RC1 = 1;
+"161
+[e = _RD1 -> -> 0 `i `b ]
+[e = _RC0 -> -> 0 `i `b ]
+[e = _RD0 -> -> 1 `i `b ]
+[e = _RC1 -> -> 1 `i `b ]
+[; ;lcdv2.h: 162: pulseEnable();
+"162
+[e ( _pulseEnable ..  ]
+[; ;lcdv2.h: 163: }
+"163
+[e :UE 116 ]
+}
+"166
+[v _putch `(v ~T0 @X0 1 ef1`uc ]
+{
+[; ;lcdv2.h: 166: void putch( char print_value ){
+[e :U _putch ]
+[v _print_value `uc ~T0 @X0 1 r1 ]
+[f ]
+[; ;lcdv2.h: 167: RC2 = 1;
+"167
+[e = _RC2 -> -> 1 `i `b ]
+[; ;lcdv2.h: 168: _delay(20);
+"168
+[e ( __delay (1 -> -> -> 20 `i `l `ul ]
+[; ;lcdv2.h: 169: lcd_data = print_value;
+"169
+[e = _lcd_data _print_value ]
+[; ;lcdv2.h: 170: lcd_add();
+"170
+[e ( _lcd_add ..  ]
+[; ;lcdv2.h: 171: _delay(100);
+"171
+[e ( __delay (1 -> -> -> 100 `i `l `ul ]
+[; ;lcdv2.h: 172: }
+"172
+[e :UE 117 ]
+}
+"174
+[v _LCD_print_char `(v ~T0 @X0 1 ef3`i`i`uc ]
+{
+[; ;lcdv2.h: 174: void LCD_print_char( int row, int column,char print_value ){
+[e :U _LCD_print_char ]
+[v _row `i ~T0 @X0 1 r1 ]
+[v _column `i ~T0 @X0 1 r2 ]
+[v _print_value `uc ~T0 @X0 1 r3 ]
+[f ]
+[; ;lcdv2.h: 175: position(row,column);
+"175
+[e ( _position (2 , -> _row `uc -> _column `uc ]
+[; ;lcdv2.h: 176: RC2 = 1;
+"176
+[e = _RC2 -> -> 1 `i `b ]
+[; ;lcdv2.h: 177: _delay(20);
+"177
+[e ( __delay (1 -> -> -> 20 `i `l `ul ]
+[; ;lcdv2.h: 178: lcd_data = print_value;
+"178
+[e = _lcd_data _print_value ]
+[; ;lcdv2.h: 179: lcd_add();
+"179
+[e ( _lcd_add ..  ]
+[; ;lcdv2.h: 180: _delay(100);
+"180
+[e ( __delay (1 -> -> -> 100 `i `l `ul ]
+[; ;lcdv2.h: 181: }
+"181
+[e :UE 118 ]
+}
+"183
+[v _clr_display `(v ~T0 @X0 1 ef ]
+"184
+{
+[; ;lcdv2.h: 183: void clr_display()
+[; ;lcdv2.h: 184: {
+[e :U _clr_display ]
+[f ]
+[; ;lcdv2.h: 185: RC2 = 0;
+"185
+[e = _RC2 -> -> 0 `i `b ]
+[; ;lcdv2.h: 186: _delay(20);
+"186
+[e ( __delay (1 -> -> -> 20 `i `l `ul ]
+[; ;lcdv2.h: 187: lcd_data = 0b00000001;
+"187
+[e = _lcd_data -> -> 1 `i `uc ]
+[; ;lcdv2.h: 188: lcd_add();
+"188
+[e ( _lcd_add ..  ]
+[; ;lcdv2.h: 189: _delay((unsigned long)((10)*(4000000/4000.0)));
+"189
+[e ( __delay (1 -> * -> -> 10 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;lcdv2.h: 190: RC2 = 1;
+"190
+[e = _RC2 -> -> 1 `i `b ]
+[; ;lcdv2.h: 191: }
+"191
+[e :UE 119 ]
+}
+"192
+[v _curser `(v ~T0 @X0 1 ef1`uc ]
+"193
+{
+[; ;lcdv2.h: 192: void curser( char on )
+[; ;lcdv2.h: 193: {
+[e :U _curser ]
+"192
+[v _on `uc ~T0 @X0 1 r1 ]
+"193
+[f ]
+[; ;lcdv2.h: 194: if (on == 0)
+"194
+[e $ ! == -> _on `i -> 0 `i 121  ]
+[; ;lcdv2.h: 195: {
+"195
+{
+[; ;lcdv2.h: 196: lcd_data = 0b00001000;
+"196
+[e = _lcd_data -> -> 8 `i `uc ]
+[; ;lcdv2.h: 197: lcd_add();
+"197
+[e ( _lcd_add ..  ]
+[; ;lcdv2.h: 198: _delay((unsigned long)((10)*(4000000/4000.0)));
+"198
+[e ( __delay (1 -> * -> -> 10 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+"199
+}
+[e :U 121 ]
+[; ;lcdv2.h: 199: }
+[; ;lcdv2.h: 200: if (on == 1)
+"200
+[e $ ! == -> _on `i -> 1 `i 122  ]
+[; ;lcdv2.h: 201: {
+"201
+{
+[; ;lcdv2.h: 202: lcd_data = 0b00001010;
+"202
+[e = _lcd_data -> -> 10 `i `uc ]
+[; ;lcdv2.h: 203: lcd_add();
+"203
+[e ( _lcd_add ..  ]
+[; ;lcdv2.h: 204: _delay((unsigned long)((10)*(4000000/4000.0)));
+"204
+[e ( __delay (1 -> * -> -> 10 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+"205
+}
+[e :U 122 ]
+[; ;lcdv2.h: 205: }
+[; ;lcdv2.h: 206: }
+"206
+[e :UE 120 ]
+}
+"208
+[v _position `(v ~T0 @X0 1 ef2`uc`uc ]
+"209
+{
+[; ;lcdv2.h: 208: void position( char row, char collum)
+[; ;lcdv2.h: 209: {
+[e :U _position ]
+"208
+[v _row `uc ~T0 @X0 1 r1 ]
+[v _collum `uc ~T0 @X0 1 r2 ]
+"209
+[f ]
+"210
+[v _post `uc ~T0 @X0 1 a ]
+[; ;lcdv2.h: 210: char post ;
+[; ;lcdv2.h: 211: if( row == 1 ) row = 128;
+"211
+[e $ ! == -> _row `i -> 1 `i 124  ]
+[e = _row -> -> 128 `i `uc ]
+[e :U 124 ]
+[; ;lcdv2.h: 212: if( row == 2 ) row = 192;
+"212
+[e $ ! == -> _row `i -> 2 `i 125  ]
+[e = _row -> -> 192 `i `uc ]
+[e :U 125 ]
+[; ;lcdv2.h: 213: post = row + collum - 1;
+"213
+[e = _post -> - + -> _row `i -> _collum `i -> 1 `i `uc ]
+[; ;lcdv2.h: 214: RC2 = 0;
+"214
+[e = _RC2 -> -> 0 `i `b ]
+[; ;lcdv2.h: 215: _delay(20);
+"215
+[e ( __delay (1 -> -> -> 20 `i `l `ul ]
+[; ;lcdv2.h: 216: lcd_data = post ;
+"216
+[e = _lcd_data _post ]
+[; ;lcdv2.h: 217: lcd_add();
+"217
+[e ( _lcd_add ..  ]
+[; ;lcdv2.h: 218: _delay((unsigned long)((10)*(4000000/4000.0)));
+"218
+[e ( __delay (1 -> * -> -> 10 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;lcdv2.h: 219: row = 0;
+"219
+[e = _row -> -> 0 `i `uc ]
+[; ;lcdv2.h: 220: collum = 0;
+"220
+[e = _collum -> -> 0 `i `uc ]
+[; ;lcdv2.h: 221: }
+"221
+[e :UE 123 ]
+}
+"224
+[v _lcd_add `(v ~T0 @X0 1 ef ]
+"225
+{
+[; ;lcdv2.h: 224: void lcd_add()
+[; ;lcdv2.h: 225: {
+[e :U _lcd_add ]
+[f ]
+[; ;lcdv2.h: 226: lcd_data_high = lcd_data >> 4;
+"226
+[e = _lcd_data_high -> >> -> _lcd_data `i -> 4 `i `uc ]
+[; ;lcdv2.h: 227: lcd_data_low = lcd_data << 4;
+"227
+[e = _lcd_data_low -> << -> _lcd_data `i -> 4 `i `uc ]
+[; ;lcdv2.h: 228: lcd_data_low = lcd_data_low >> 4;
+"228
+[e = _lcd_data_low -> >> -> _lcd_data_low `i -> 4 `i `uc ]
+[; ;lcdv2.h: 230: bit0 = lcd_data;
+"230
+[e = _bit0 -> _lcd_data `b ]
+[; ;lcdv2.h: 231: bit1 = lcd_data>>1;
+"231
+[e = _bit1 -> >> -> _lcd_data `i -> 1 `i `b ]
+[; ;lcdv2.h: 232: bit2 = lcd_data>>2;
+"232
+[e = _bit2 -> >> -> _lcd_data `i -> 2 `i `b ]
+[; ;lcdv2.h: 233: bit3 = lcd_data>>3;
+"233
+[e = _bit3 -> >> -> _lcd_data `i -> 3 `i `b ]
+[; ;lcdv2.h: 234: bit4 = lcd_data>>4;
+"234
+[e = _bit4 -> >> -> _lcd_data `i -> 4 `i `b ]
+[; ;lcdv2.h: 235: bit5 = lcd_data>>5;
+"235
+[e = _bit5 -> >> -> _lcd_data `i -> 5 `i `b ]
+[; ;lcdv2.h: 236: bit6 = lcd_data>>6;
+"236
+[e = _bit6 -> >> -> _lcd_data `i -> 6 `i `b ]
+[; ;lcdv2.h: 237: bit7 = lcd_data>>7;
+"237
+[e = _bit7 -> >> -> _lcd_data `i -> 7 `i `b ]
+[; ;lcdv2.h: 239: RC3 = 0;
+"239
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 240: _delay(1);
+"240
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;lcdv2.h: 241: RC3 = 1;
+"241
+[e = _RC3 -> -> 1 `i `b ]
+[; ;lcdv2.h: 242: _delay(1);
+"242
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;lcdv2.h: 244: RC1 = bit4;
+"244
+[e = _RC1 _bit4 ]
+[; ;lcdv2.h: 245: RD0 = bit5;
+"245
+[e = _RD0 _bit5 ]
+[; ;lcdv2.h: 246: RC0 = bit6;
+"246
+[e = _RC0 _bit6 ]
+[; ;lcdv2.h: 247: RD1 = bit7;
+"247
+[e = _RD1 _bit7 ]
+[; ;lcdv2.h: 249: _delay(1);
+"249
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;lcdv2.h: 250: RC3 = 0;
+"250
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 251: _delay(1);
+"251
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;lcdv2.h: 255: RC3 = 0;
+"255
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 256: _delay(1);
+"256
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;lcdv2.h: 257: RC3 = 1;
+"257
+[e = _RC3 -> -> 1 `i `b ]
+[; ;lcdv2.h: 258: _delay(1);
+"258
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;lcdv2.h: 260: RC1 = bit0;
+"260
+[e = _RC1 _bit0 ]
+[; ;lcdv2.h: 261: RD0 = bit1;
+"261
+[e = _RD0 _bit1 ]
+[; ;lcdv2.h: 262: RC0 = bit2;
+"262
+[e = _RC0 _bit2 ]
+[; ;lcdv2.h: 263: RD1 = bit3;
+"263
+[e = _RD1 _bit3 ]
+[; ;lcdv2.h: 265: _delay(1);
+"265
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;lcdv2.h: 266: RC3 = 0;
+"266
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 267: _delay(1);
+"267
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;lcdv2.h: 268: }
+"268
+[e :UE 126 ]
+}
+"269
+[v _pulseEnable `(v ~T0 @X0 1 ef ]
+{
+[; ;lcdv2.h: 269: void pulseEnable(){
+[e :U _pulseEnable ]
+[f ]
+[; ;lcdv2.h: 271: RC3 = 0;
+"271
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 272: _delay(1);
+"272
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;lcdv2.h: 273: RC3 = 1;
+"273
+[e = _RC3 -> -> 1 `i `b ]
+[; ;lcdv2.h: 274: _delay(1);
+"274
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;lcdv2.h: 275: RC3 = 0;
+"275
+[e = _RC3 -> -> 0 `i `b ]
+[; ;lcdv2.h: 276: _delay(100);
+"276
+[e ( __delay (1 -> -> -> 100 `i `l `ul ]
+[; ;lcdv2.h: 277: }
+"277
+[e :UE 127 ]
+}
+[; ;a2d.h: 5: unsigned int read_a2d_value( char channel );
+[; ;a2d.h: 6: void atod_init();
+"8 a2d.h
+[v _atod_init `(v ~T0 @X0 1 ef ]
+{
+[; ;a2d.h: 8: void atod_init(){
+[e :U _atod_init ]
+[f ]
+[; ;a2d.h: 9: ADCON0 = 0b01000010;
+"9
+[e = _ADCON0 -> -> 66 `i `uc ]
+[; ;a2d.h: 10: ADCON1 = 0b10000100;
+"10
+[e = _ADCON1 -> -> 132 `i `uc ]
+[; ;a2d.h: 11: }
+"11
+[e :UE 128 ]
+}
+"13
+[v _read_a2d_value `(ui ~T0 @X0 1 ef1`uc ]
+{
+[; ;a2d.h: 13: unsigned int read_a2d_value( char channel ){
+[e :U _read_a2d_value ]
+[v _channel `uc ~T0 @X0 1 r1 ]
+[f ]
+"14
+[v _a2d_value `ui ~T0 @X0 1 a ]
+[; ;a2d.h: 14: unsigned int a2d_value;
+[; ;a2d.h: 15: channel = channel << 3;
+"15
+[e = _channel -> << -> _channel `i -> 3 `i `uc ]
+[; ;a2d.h: 16: ADCON0 = ADCON0 & 0b11000111;
+"16
+[e = _ADCON0 -> & -> _ADCON0 `i -> 199 `i `uc ]
+[; ;a2d.h: 17: ADCON0 = ADCON0 | channel;
+"17
+[e = _ADCON0 -> | -> _ADCON0 `i -> _channel `i `uc ]
+[; ;a2d.h: 18: ADON = 1;
+"18
+[e = _ADON -> -> 1 `i `b ]
+[; ;a2d.h: 19: _delay(50);
+"19
+[e ( __delay (1 -> -> -> 50 `i `l `ul ]
+[; ;a2d.h: 20: GO = 1;
+"20
+[e = _GO -> -> 1 `i `b ]
+[; ;a2d.h: 21: while( GO == 1 );
+"21
+[e $U 130  ]
+[e :U 131 ]
+[e :U 130 ]
+[e $ == -> _GO `i -> 1 `i 131  ]
+[e :U 132 ]
+[; ;a2d.h: 22: a2d_value = ADRESH;
+"22
+[e = _a2d_value -> _ADRESH `ui ]
+[; ;a2d.h: 23: a2d_value = a2d_value << 8;
+"23
+[e = _a2d_value << _a2d_value -> 8 `i ]
+[; ;a2d.h: 24: a2d_value = a2d_value + ADRESL;
+"24
+[e = _a2d_value + _a2d_value -> _ADRESL `ui ]
+[; ;a2d.h: 25: return a2d_value;
+"25
+[e ) _a2d_value ]
+[e $UE 129  ]
+[; ;a2d.h: 26: }
+"26
+[e :UE 129 ]
+}
+[; ;serialv2.h: 2: void Serial_Init();
+[; ;serialv2.h: 3: bit Serial_Print( const char *a );
+[; ;serialv2.h: 4: void Serial_NewLine();
+[; ;serialv2.h: 5: bit Serial_Println( const char *a );
+[; ;serialv2.h: 6: bit Serial_Println_Int(int val);
+[; ;serialv2.h: 7: bit Serial_Print_Int(int val);
+[; ;serialv2.h: 8: bit Serial_Println_Char(char val);
+"10 serialv2.h
+[v _Serial_Init `(v ~T0 @X0 1 ef ]
+{
+[; ;serialv2.h: 10: void Serial_Init(){
+[e :U _Serial_Init ]
+[f ]
+[; ;serialv2.h: 13: SPEN = 1;
+"13
+[e = _SPEN -> -> 1 `i `b ]
+[; ;serialv2.h: 14: RX9 = 0;
+"14
+[e = _RX9 -> -> 0 `i `b ]
+[; ;serialv2.h: 15: CREN = 1;
+"15
+[e = _CREN -> -> 1 `i `b ]
+[; ;serialv2.h: 16: TX9 = 0;
+"16
+[e = _TX9 -> -> 0 `i `b ]
+[; ;serialv2.h: 17: TXEN = 1;
+"17
+[e = _TXEN -> -> 1 `i `b ]
+[; ;serialv2.h: 18: SYNC = 0;
+"18
+[e = _SYNC -> -> 0 `i `b ]
+[; ;serialv2.h: 19: BRGH = 1;
+"19
+[e = _BRGH -> -> 1 `i `b ]
+[; ;serialv2.h: 20: SPBRG = 129;
+"20
+[e = _SPBRG -> -> 129 `i `uc ]
+[; ;serialv2.h: 21: RCIE = 1;
+"21
+[e = _RCIE -> -> 1 `i `b ]
+[; ;serialv2.h: 22: TXIE = 0;
+"22
+[e = _TXIE -> -> 0 `i `b ]
+[; ;serialv2.h: 23: ADDEN = 0;
+"23
+[e = _ADDEN -> -> 0 `i `b ]
+[; ;serialv2.h: 24: _delay((unsigned long)((500)*(4000000/4000.0)));
+"24
+[e ( __delay (1 -> * -> -> 500 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;serialv2.h: 25: }
+"25
+[e :UE 133 ]
+}
+"27
+[v _Serial_Print `(b ~T0 @X0 1 ef1`*Cuc ]
+{
+[; ;serialv2.h: 27: bit Serial_Print(const char *a){
+[e :U _Serial_Print ]
+[v _a `*Cuc ~T0 @X0 1 r1 ]
+[f ]
+[; ;serialv2.h: 28: while( *a!='\0'){
+"28
+[e $U 135  ]
+[e :U 136 ]
+{
+[; ;serialv2.h: 29: while(!TXIF);
+"29
+[e $U 138  ]
+[e :U 139 ]
+[e :U 138 ]
+[e $ ! _TXIF 139  ]
+[e :U 140 ]
+[; ;serialv2.h: 30: TXREG = *a;
+"30
+[e = _TXREG *U _a ]
+[; ;serialv2.h: 31: _delay(10);
+"31
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 32: a = a+1;
+"32
+[e = _a + _a * -> -> 1 `i `x -> -> # *U _a `i `x ]
+"33
+}
+[e :U 135 ]
+"28
+[e $ != -> *U _a `ui -> 0 `ui 136  ]
+[e :U 137 ]
+[; ;serialv2.h: 33: }
+[; ;serialv2.h: 34: return 1;
+"34
+[e ) -> -> 1 `i `b ]
+[e $UE 134  ]
+[; ;serialv2.h: 35: }
+"35
+[e :UE 134 ]
+}
+"37
+[v _Serial_NewLine `(v ~T0 @X0 1 ef ]
+{
+[; ;serialv2.h: 37: void Serial_NewLine(){
+[e :U _Serial_NewLine ]
+[f ]
+[; ;serialv2.h: 38: while(!TXIF);
+"38
+[e $U 142  ]
+[e :U 143 ]
+[e :U 142 ]
+[e $ ! _TXIF 143  ]
+[e :U 144 ]
+[; ;serialv2.h: 39: TXREG = 13;
+"39
+[e = _TXREG -> -> 13 `i `uc ]
+[; ;serialv2.h: 40: _delay((unsigned long)((1)*(4000000/4000.0)));
+"40
+[e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;serialv2.h: 41: while(!TXIF);
+"41
+[e $U 145  ]
+[e :U 146 ]
+[e :U 145 ]
+[e $ ! _TXIF 146  ]
+[e :U 147 ]
+[; ;serialv2.h: 42: TXREG = 10;
+"42
+[e = _TXREG -> -> 10 `i `uc ]
+[; ;serialv2.h: 43: _delay((unsigned long)((1)*(4000000/4000.0)));
+"43
+[e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;serialv2.h: 44: }
+"44
+[e :UE 141 ]
+}
+"46
+[v _Serial_Println `(b ~T0 @X0 1 ef1`*Cuc ]
+{
+[; ;serialv2.h: 46: bit Serial_Println(const char *a){
+[e :U _Serial_Println ]
+[v _a `*Cuc ~T0 @X0 1 r1 ]
+[f ]
+[; ;serialv2.h: 47: while( *a!='\0'){
+"47
+[e $U 149  ]
+[e :U 150 ]
+{
+[; ;serialv2.h: 48: while(!TXIF);
+"48
+[e $U 152  ]
+[e :U 153 ]
+[e :U 152 ]
+[e $ ! _TXIF 153  ]
+[e :U 154 ]
+[; ;serialv2.h: 49: TXREG = *a;
+"49
+[e = _TXREG *U _a ]
+[; ;serialv2.h: 50: _delay(10);
+"50
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 51: a = a+1;
+"51
+[e = _a + _a * -> -> 1 `i `x -> -> # *U _a `i `x ]
+"52
+}
+[e :U 149 ]
+"47
+[e $ != -> *U _a `ui -> 0 `ui 150  ]
+[e :U 151 ]
+[; ;serialv2.h: 52: }
+[; ;serialv2.h: 53: Serial_NewLine();
+"53
+[e ( _Serial_NewLine ..  ]
+[; ;serialv2.h: 54: return 1;
+"54
+[e ) -> -> 1 `i `b ]
+[e $UE 148  ]
+[; ;serialv2.h: 55: }
+"55
+[e :UE 148 ]
+}
+"58
+[v _Serial_Println_Int `(b ~T0 @X0 1 ef1`i ]
+{
+[; ;serialv2.h: 58: bit Serial_Println_Int(int val){
+[e :U _Serial_Println_Int ]
+[v _val `i ~T0 @X0 1 r1 ]
+[f ]
+[; ;serialv2.h: 61: if(val < 0){
+"61
+[e $ ! < _val -> 0 `i 156  ]
+{
+[; ;serialv2.h: 62: while(!TXIF);
+"62
+[e $U 157  ]
+[e :U 158 ]
+[e :U 157 ]
+[e $ ! _TXIF 158  ]
+[e :U 159 ]
+[; ;serialv2.h: 63: TXREG = '-';
+"63
+[e = _TXREG -> -> 45 `ui `uc ]
+[; ;serialv2.h: 64: _delay(10);
+"64
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 65: val = -val;
+"65
+[e = _val -U _val ]
+"66
+}
+[e :U 156 ]
+[; ;serialv2.h: 66: }
+[; ;serialv2.h: 67: if(val > 9999){
+"67
+[e $ ! > _val -> 9999 `i 160  ]
+{
+[; ;serialv2.h: 68: while(!TXIF);
+"68
+[e $U 161  ]
+[e :U 162 ]
+[e :U 161 ]
+[e $ ! _TXIF 162  ]
+[e :U 163 ]
+[; ;serialv2.h: 69: TXREG = val/10000+48;
+"69
+[e = _TXREG -> + / _val -> 10000 `i -> 48 `i `uc ]
+[; ;serialv2.h: 70: _delay(10);
+"70
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 71: val = val%10000;
+"71
+[e = _val % _val -> 10000 `i ]
+[; ;serialv2.h: 73: while(!TXIF);
+"73
+[e $U 164  ]
+[e :U 165 ]
+[e :U 164 ]
+[e $ ! _TXIF 165  ]
+[e :U 166 ]
+[; ;serialv2.h: 74: TXREG = val/1000+48;
+"74
+[e = _TXREG -> + / _val -> 1000 `i -> 48 `i `uc ]
+[; ;serialv2.h: 75: _delay(10);
+"75
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 76: val = val%1000;
+"76
+[e = _val % _val -> 1000 `i ]
+[; ;serialv2.h: 78: while(!TXIF);
+"78
+[e $U 167  ]
+[e :U 168 ]
+[e :U 167 ]
+[e $ ! _TXIF 168  ]
+[e :U 169 ]
+[; ;serialv2.h: 79: TXREG = val/100+48;
+"79
+[e = _TXREG -> + / _val -> 100 `i -> 48 `i `uc ]
+[; ;serialv2.h: 80: _delay(10);
+"80
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 81: val = val%100;
+"81
+[e = _val % _val -> 100 `i ]
+[; ;serialv2.h: 83: while(!TXIF);
+"83
+[e $U 170  ]
+[e :U 171 ]
+[e :U 170 ]
+[e $ ! _TXIF 171  ]
+[e :U 172 ]
+[; ;serialv2.h: 84: TXREG = val/10+48;
+"84
+[e = _TXREG -> + / _val -> 10 `i -> 48 `i `uc ]
+[; ;serialv2.h: 85: _delay(10);
+"85
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 86: val = val%10;
+"86
+[e = _val % _val -> 10 `i ]
+"87
+}
+[; ;serialv2.h: 87: }
+[e $U 173  ]
+"88
+[e :U 160 ]
+[; ;serialv2.h: 88: else if(val > 999){
+[e $ ! > _val -> 999 `i 174  ]
+{
+[; ;serialv2.h: 89: while(!TXIF);
+"89
+[e $U 175  ]
+[e :U 176 ]
+[e :U 175 ]
+[e $ ! _TXIF 176  ]
+[e :U 177 ]
+[; ;serialv2.h: 90: TXREG = val/1000+48;
+"90
+[e = _TXREG -> + / _val -> 1000 `i -> 48 `i `uc ]
+[; ;serialv2.h: 91: _delay(10);
+"91
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 92: val = val%1000;
+"92
+[e = _val % _val -> 1000 `i ]
+[; ;serialv2.h: 94: while(!TXIF);
+"94
+[e $U 178  ]
+[e :U 179 ]
+[e :U 178 ]
+[e $ ! _TXIF 179  ]
+[e :U 180 ]
+[; ;serialv2.h: 95: TXREG = val/100+48;
+"95
+[e = _TXREG -> + / _val -> 100 `i -> 48 `i `uc ]
+[; ;serialv2.h: 96: _delay(10);
+"96
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 97: val = val%100;
+"97
+[e = _val % _val -> 100 `i ]
+[; ;serialv2.h: 99: while(!TXIF);
+"99
+[e $U 181  ]
+[e :U 182 ]
+[e :U 181 ]
+[e $ ! _TXIF 182  ]
+[e :U 183 ]
+[; ;serialv2.h: 100: TXREG = val/10+48;
+"100
+[e = _TXREG -> + / _val -> 10 `i -> 48 `i `uc ]
+[; ;serialv2.h: 101: _delay(10);
+"101
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 102: val = val%10;
+"102
+[e = _val % _val -> 10 `i ]
+"103
+}
+[; ;serialv2.h: 103: }
+[e $U 184  ]
+"104
+[e :U 174 ]
+[; ;serialv2.h: 104: else if(val > 99){
+[e $ ! > _val -> 99 `i 185  ]
+{
+[; ;serialv2.h: 105: while(!TXIF);
+"105
+[e $U 186  ]
+[e :U 187 ]
+[e :U 186 ]
+[e $ ! _TXIF 187  ]
+[e :U 188 ]
+[; ;serialv2.h: 106: TXREG = val/100+48;
+"106
+[e = _TXREG -> + / _val -> 100 `i -> 48 `i `uc ]
+[; ;serialv2.h: 107: _delay(10);
+"107
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 108: val = val%100;
+"108
+[e = _val % _val -> 100 `i ]
+[; ;serialv2.h: 110: while(!TXIF);
+"110
+[e $U 189  ]
+[e :U 190 ]
+[e :U 189 ]
+[e $ ! _TXIF 190  ]
+[e :U 191 ]
+[; ;serialv2.h: 111: TXREG = val/10+48;
+"111
+[e = _TXREG -> + / _val -> 10 `i -> 48 `i `uc ]
+[; ;serialv2.h: 112: _delay(10);
+"112
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 113: val = val%10;
+"113
+[e = _val % _val -> 10 `i ]
+"114
+}
+[; ;serialv2.h: 114: }
+[e $U 192  ]
+"115
+[e :U 185 ]
+[; ;serialv2.h: 115: else if(val > 9){
+[e $ ! > _val -> 9 `i 193  ]
+{
+[; ;serialv2.h: 116: while(!TXIF);
+"116
+[e $U 194  ]
+[e :U 195 ]
+[e :U 194 ]
+[e $ ! _TXIF 195  ]
+[e :U 196 ]
+[; ;serialv2.h: 117: TXREG = val/10+48;
+"117
+[e = _TXREG -> + / _val -> 10 `i -> 48 `i `uc ]
+[; ;serialv2.h: 118: _delay(10);
+"118
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 119: val = val%10;
+"119
+[e = _val % _val -> 10 `i ]
+"120
+}
+[e :U 193 ]
+"121
+[e :U 192 ]
+[e :U 184 ]
+[e :U 173 ]
+[; ;serialv2.h: 120: }
+[; ;serialv2.h: 121: while(!TXIF);
+[e $U 197  ]
+[e :U 198 ]
+[e :U 197 ]
+[e $ ! _TXIF 198  ]
+[e :U 199 ]
+[; ;serialv2.h: 122: TXREG = val+48;
+"122
+[e = _TXREG -> + _val -> 48 `i `uc ]
+[; ;serialv2.h: 123: _delay(10);
+"123
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 124: while(!TXIF);
+"124
+[e $U 200  ]
+[e :U 201 ]
+[e :U 200 ]
+[e $ ! _TXIF 201  ]
+[e :U 202 ]
+[; ;serialv2.h: 125: TXREG = 13;
+"125
+[e = _TXREG -> -> 13 `i `uc ]
+[; ;serialv2.h: 126: _delay(10);
+"126
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 127: while(!TXIF);
+"127
+[e $U 203  ]
+[e :U 204 ]
+[e :U 203 ]
+[e $ ! _TXIF 204  ]
+[e :U 205 ]
+[; ;serialv2.h: 128: TXREG = 10;
+"128
+[e = _TXREG -> -> 10 `i `uc ]
+[; ;serialv2.h: 129: _delay(10);
+"129
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 130: return 1;
+"130
+[e ) -> -> 1 `i `b ]
+[e $UE 155  ]
+[; ;serialv2.h: 131: }
+"131
+[e :UE 155 ]
+}
+"135
+[v _Serial_Print_Char `(v ~T0 @X0 1 ef1`uc ]
+{
+[; ;serialv2.h: 135: void Serial_Print_Char(char character){
+[e :U _Serial_Print_Char ]
+[v _character `uc ~T0 @X0 1 r1 ]
+[f ]
+[; ;serialv2.h: 136: while(!TXIF);
+"136
+[e $U 207  ]
+[e :U 208 ]
+[e :U 207 ]
+[e $ ! _TXIF 208  ]
+[e :U 209 ]
+[; ;serialv2.h: 137: TXREG = character;
+"137
+[e = _TXREG _character ]
+[; ;serialv2.h: 138: _delay(10);
+"138
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 139: }
+"139
+[e :UE 206 ]
+}
+"141
+[v _Serial_Print_Int `(b ~T0 @X0 1 ef1`i ]
+{
+[; ;serialv2.h: 141: bit Serial_Print_Int(int val){
+[e :U _Serial_Print_Int ]
+[v _val `i ~T0 @X0 1 r1 ]
+[f ]
+[; ;serialv2.h: 144: if(val < 0){
+"144
+[e $ ! < _val -> 0 `i 211  ]
+{
+[; ;serialv2.h: 145: while(!TXIF);
+"145
+[e $U 212  ]
+[e :U 213 ]
+[e :U 212 ]
+[e $ ! _TXIF 213  ]
+[e :U 214 ]
+[; ;serialv2.h: 146: TXREG = '-';
+"146
+[e = _TXREG -> -> 45 `ui `uc ]
+[; ;serialv2.h: 147: _delay(10);
+"147
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 148: val = -val;
+"148
+[e = _val -U _val ]
+"149
+}
+[e :U 211 ]
+[; ;serialv2.h: 149: }
+[; ;serialv2.h: 150: if(val > 9999){
+"150
+[e $ ! > _val -> 9999 `i 215  ]
+{
+[; ;serialv2.h: 151: while(!TXIF);
+"151
+[e $U 216  ]
+[e :U 217 ]
+[e :U 216 ]
+[e $ ! _TXIF 217  ]
+[e :U 218 ]
+[; ;serialv2.h: 152: TXREG = val/10000+48;
+"152
+[e = _TXREG -> + / _val -> 10000 `i -> 48 `i `uc ]
+[; ;serialv2.h: 153: _delay(10);
+"153
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 154: val = val%10000;
+"154
+[e = _val % _val -> 10000 `i ]
+[; ;serialv2.h: 156: while(!TXIF);
+"156
+[e $U 219  ]
+[e :U 220 ]
+[e :U 219 ]
+[e $ ! _TXIF 220  ]
+[e :U 221 ]
+[; ;serialv2.h: 157: TXREG = val/1000+48;
+"157
+[e = _TXREG -> + / _val -> 1000 `i -> 48 `i `uc ]
+[; ;serialv2.h: 158: _delay(10);
+"158
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 159: val = val%1000;
+"159
+[e = _val % _val -> 1000 `i ]
+[; ;serialv2.h: 161: while(!TXIF);
+"161
+[e $U 222  ]
+[e :U 223 ]
+[e :U 222 ]
+[e $ ! _TXIF 223  ]
+[e :U 224 ]
+[; ;serialv2.h: 162: TXREG = val/100+48;
+"162
+[e = _TXREG -> + / _val -> 100 `i -> 48 `i `uc ]
+[; ;serialv2.h: 163: _delay(10);
+"163
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 164: val = val%100;
+"164
+[e = _val % _val -> 100 `i ]
+[; ;serialv2.h: 166: while(!TXIF);
+"166
+[e $U 225  ]
+[e :U 226 ]
+[e :U 225 ]
+[e $ ! _TXIF 226  ]
+[e :U 227 ]
+[; ;serialv2.h: 167: TXREG = val/10+48;
+"167
+[e = _TXREG -> + / _val -> 10 `i -> 48 `i `uc ]
+[; ;serialv2.h: 168: _delay(10);
+"168
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 169: val = val%10;
+"169
+[e = _val % _val -> 10 `i ]
+"170
+}
+[; ;serialv2.h: 170: }
+[e $U 228  ]
+"171
+[e :U 215 ]
+[; ;serialv2.h: 171: else if(val > 999){
+[e $ ! > _val -> 999 `i 229  ]
+{
+[; ;serialv2.h: 172: while(!TXIF);
+"172
+[e $U 230  ]
+[e :U 231 ]
+[e :U 230 ]
+[e $ ! _TXIF 231  ]
+[e :U 232 ]
+[; ;serialv2.h: 173: TXREG = val/1000+48;
+"173
+[e = _TXREG -> + / _val -> 1000 `i -> 48 `i `uc ]
+[; ;serialv2.h: 174: _delay(10);
+"174
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 175: val = val%1000;
+"175
+[e = _val % _val -> 1000 `i ]
+[; ;serialv2.h: 177: while(!TXIF);
+"177
+[e $U 233  ]
+[e :U 234 ]
+[e :U 233 ]
+[e $ ! _TXIF 234  ]
+[e :U 235 ]
+[; ;serialv2.h: 178: TXREG = val/100+48;
+"178
+[e = _TXREG -> + / _val -> 100 `i -> 48 `i `uc ]
+[; ;serialv2.h: 179: _delay(10);
+"179
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 180: val = val%100;
+"180
+[e = _val % _val -> 100 `i ]
+[; ;serialv2.h: 182: while(!TXIF);
+"182
+[e $U 236  ]
+[e :U 237 ]
+[e :U 236 ]
+[e $ ! _TXIF 237  ]
+[e :U 238 ]
+[; ;serialv2.h: 183: TXREG = val/10+48;
+"183
+[e = _TXREG -> + / _val -> 10 `i -> 48 `i `uc ]
+[; ;serialv2.h: 184: _delay(10);
+"184
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 185: val = val%10;
+"185
+[e = _val % _val -> 10 `i ]
+"186
+}
+[; ;serialv2.h: 186: }
+[e $U 239  ]
+"187
+[e :U 229 ]
+[; ;serialv2.h: 187: else if(val > 99){
+[e $ ! > _val -> 99 `i 240  ]
+{
+[; ;serialv2.h: 188: while(!TXIF);
+"188
+[e $U 241  ]
+[e :U 242 ]
+[e :U 241 ]
+[e $ ! _TXIF 242  ]
+[e :U 243 ]
+[; ;serialv2.h: 189: TXREG = val/100+48;
+"189
+[e = _TXREG -> + / _val -> 100 `i -> 48 `i `uc ]
+[; ;serialv2.h: 190: _delay(10);
+"190
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 191: val = val%100;
+"191
+[e = _val % _val -> 100 `i ]
+[; ;serialv2.h: 193: while(!TXIF);
+"193
+[e $U 244  ]
+[e :U 245 ]
+[e :U 244 ]
+[e $ ! _TXIF 245  ]
+[e :U 246 ]
+[; ;serialv2.h: 194: TXREG = val/10+48;
+"194
+[e = _TXREG -> + / _val -> 10 `i -> 48 `i `uc ]
+[; ;serialv2.h: 195: _delay(10);
+"195
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 196: val = val%10;
+"196
+[e = _val % _val -> 10 `i ]
+"197
+}
+[; ;serialv2.h: 197: }
+[e $U 247  ]
+"198
+[e :U 240 ]
+[; ;serialv2.h: 198: else if(val > 9){
+[e $ ! > _val -> 9 `i 248  ]
+{
+[; ;serialv2.h: 199: while(!TXIF);
+"199
+[e $U 249  ]
+[e :U 250 ]
+[e :U 249 ]
+[e $ ! _TXIF 250  ]
+[e :U 251 ]
+[; ;serialv2.h: 200: TXREG = val/10+48;
+"200
+[e = _TXREG -> + / _val -> 10 `i -> 48 `i `uc ]
+[; ;serialv2.h: 201: _delay(10);
+"201
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 202: val = val%10;
+"202
+[e = _val % _val -> 10 `i ]
+"203
+}
+[e :U 248 ]
+"204
+[e :U 247 ]
+[e :U 239 ]
+[e :U 228 ]
+[; ;serialv2.h: 203: }
+[; ;serialv2.h: 204: while(!TXIF);
+[e $U 252  ]
+[e :U 253 ]
+[e :U 252 ]
+[e $ ! _TXIF 253  ]
+[e :U 254 ]
+[; ;serialv2.h: 205: TXREG = val+48;
+"205
+[e = _TXREG -> + _val -> 48 `i `uc ]
+[; ;serialv2.h: 206: _delay(10);
+"206
+[e ( __delay (1 -> -> -> 10 `i `l `ul ]
+[; ;serialv2.h: 208: return 1;
+"208
+[e ) -> -> 1 `i `b ]
+[e $UE 210  ]
+[; ;serialv2.h: 209: }
+"209
+[e :UE 210 ]
+}
+[; ;interrupts.h: 2: void interruptTimer1();
+[; ;interrupts.h: 3: void enableInterrupt();
+[; ;interrupts.h: 4: void interruptSPI();
+[; ;interrupts.h: 5: void interrupt isr();
+"7 interrupts.h
+[v _enableInterrupt `(v ~T0 @X0 1 ef ]
+{
+[; ;interrupts.h: 7: void enableInterrupt(){
+[e :U _enableInterrupt ]
+[f ]
+[; ;interrupts.h: 9: RBIE = 0;
+"9
+[e = _RBIE -> -> 0 `i `b ]
+[; ;interrupts.h: 10: INTE = 0;
+"10
+[e = _INTE -> -> 0 `i `b ]
+[; ;interrupts.h: 12: PSPIE = 0;
+"12
+[e = _PSPIE -> -> 0 `i `b ]
+[; ;interrupts.h: 13: ADIE = 0;
+"13
+[e = _ADIE -> -> 0 `i `b ]
+[; ;interrupts.h: 15: TXIE = 0;
+"15
+[e = _TXIE -> -> 0 `i `b ]
+[; ;interrupts.h: 16: RCIE = 1;
+"16
+[e = _RCIE -> -> 1 `i `b ]
+[; ;interrupts.h: 18: SSPIE = 0;
+"18
+[e = _SSPIE -> -> 0 `i `b ]
+[; ;interrupts.h: 19: CCP1IE = 0;
+"19
+[e = _CCP1IE -> -> 0 `i `b ]
+[; ;interrupts.h: 21: TMR1IE = 1;
+"21
+[e = _TMR1IE -> -> 1 `i `b ]
+[; ;interrupts.h: 22: TMR2IE = 0;
+"22
+[e = _TMR2IE -> -> 0 `i `b ]
+[; ;interrupts.h: 23: T0IE = 0;
+"23
+[e = _T0IE -> -> 0 `i `b ]
+[; ;interrupts.h: 25: EEIE = 0;
+"25
+[e = _EEIE -> -> 0 `i `b ]
+[; ;interrupts.h: 26: BCLIE = 0;
+"26
+[e = _BCLIE -> -> 0 `i `b ]
+[; ;interrupts.h: 27: CCP2IE = 0;
+"27
+[e = _CCP2IE -> -> 0 `i `b ]
+[; ;interrupts.h: 30: GIE = 1;
+"30
+[e = _GIE -> -> 1 `i `b ]
+[; ;interrupts.h: 31: PEIE = 1;
+"31
+[e = _PEIE -> -> 1 `i `b ]
+[; ;interrupts.h: 32: }
+"32
+[e :UE 255 ]
+}
+[; ;timer1.h: 2: void Timer1_Init();
+"4 timer1.h
+[v _Timer1_Init `(v ~T0 @X0 1 ef ]
+{
+[; ;timer1.h: 4: void Timer1_Init(){
+[e :U _Timer1_Init ]
+[f ]
+[; ;timer1.h: 6: T1CKPS1 = 0;
+"6
+[e = _T1CKPS1 -> -> 0 `i `b ]
+[; ;timer1.h: 7: T1CKPS0 = 1;
+"7
+[e = _T1CKPS0 -> -> 1 `i `b ]
+[; ;timer1.h: 8: TMR1CS = 0;
+"8
+[e = _TMR1CS -> -> 0 `i `b ]
+[; ;timer1.h: 9: TMR1ON = 1;
+"9
+[e = _TMR1ON -> -> 1 `i `b ]
+[; ;timer1.h: 10: T1OSCEN = 0;
+"10
+[e = _T1OSCEN -> -> 0 `i `b ]
+[; ;timer1.h: 11: TMR1L = 0xB0;
+"11
+[e = _TMR1L -> -> 176 `i `uc ]
+[; ;timer1.h: 12: TMR1H = 60;
+"12
+[e = _TMR1H -> -> 60 `i `uc ]
+[; ;timer1.h: 13: TMR1IE = 1;
+"13
+[e = _TMR1IE -> -> 1 `i `b ]
+[; ;timer1.h: 14: }
+"14
+[e :UE 256 ]
+}
+"12 Automated Solar Panel Orientation Setter.c
+[v _v `uc ~T0 @X0 1 e ]
+[v _y `uc ~T0 @X0 1 e ]
+[v _z `uc ~T0 @X0 1 e ]
+[v _w `uc ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 12: unsigned char v,y,z,w;
+"13
+[v _x `uc ~T0 @X0 1 e ]
+[v _bed_nu `uc ~T0 @X0 1 e ]
+[i _bed_nu
+-> -> 1 `i `uc
+]
+[; ;Automated Solar Panel Orientation Setter.c: 13: unsigned char x,bed_nu = 1;
+"14
+[v _i `uc ~T0 @X0 1 e ]
+[i _i
+-> -> 1 `i `uc
+]
+[; ;Automated Solar Panel Orientation Setter.c: 14: unsigned char i = 1;
+"17
+[v _HeartRate `ui ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 17: unsigned int HeartRate;
+"18
+[v _heartRate `ui ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 18: unsigned int heartRate;
+"19
+[v _HeartRateCount `ui ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 19: unsigned int HeartRateCount;
+"20
+[v _temperature `um ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 20: unsigned short long temperature;
+"21
+[v _analogReadVal `ui ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 21: unsigned int analogReadVal;
+[; ;Automated Solar Panel Orientation Setter.c: 22: void a2d_read();
+"23
+[v _ldr1 `ui ~T0 @X0 1 e ]
+[v _ldr2 `ui ~T0 @X0 1 e ]
+[v _V_Bat `ui ~T0 @X0 1 e ]
+[v _C_Bat `ui ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 23: unsigned int ldr1,ldr2,V_Bat,C_Bat;
+"24
+[v _V_Bat2 `um ~T0 @X0 1 e ]
+[v _C_Bat2 `um ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 24: unsigned short long V_Bat2,C_Bat2;
+[; ;Automated Solar Panel Orientation Setter.c: 25: void Calculate();
+"28
+[v _msecond `ui ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 28: unsigned int msecond;
+"29
+[v _second `ui ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 29: unsigned int second;
+"30
+[v _minute `ui ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 30: unsigned int minute;
+"31
+[v _hour `ui ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 31: unsigned int hour;
+"32
+[v _j `uc ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 32: unsigned char j;
+[; ;Automated Solar Panel Orientation Setter.c: 39: void bdnu_unid();
+"40
+[v _buffer `uc ~T0 @X0 -> 20 `i e ]
+[; ;Automated Solar Panel Orientation Setter.c: 40: char buffer[20];
+"41
+[v _rc `uc ~T0 @X0 -> 9 `i e ]
+[; ;Automated Solar Panel Orientation Setter.c: 41: unsigned char rc[9];
+"42
+[v _wtmp `uc ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 42: unsigned char wtmp;
+"44
+[v _state `uc ~T0 @X0 1 e ]
+[i _state
+-> -> 0 `i `uc
+]
+[; ;Automated Solar Panel Orientation Setter.c: 44: unsigned char state=0;
+"51
+[v _currentMode `ui ~T0 @X0 1 e ]
+[i _currentMode
+-> -> 0 `i `ui
+]
+[; ;Automated Solar Panel Orientation Setter.c: 51: unsigned int currentMode = 0;
+"52
+[v _BlinkDet `b ~T0 @X0 1 e ]
+[; ;Automated Solar Panel Orientation Setter.c: 52: bit BlinkDet;
+[; ;Automated Solar Panel Orientation Setter.c: 54: void check_pc();
+[; ;Automated Solar Panel Orientation Setter.c: 55: void ClrBuffer();
+[; ;Automated Solar Panel Orientation Setter.c: 57: void RotateMotorRight(int value);
+[; ;Automated Solar Panel Orientation Setter.c: 58: void RotateMotorLeft(int value);
+[; ;Automated Solar Panel Orientation Setter.c: 60: char CheckKeyPad();
+[; ;Automated Solar Panel Orientation Setter.c: 61: int RowNo();
+[; ;Automated Solar Panel Orientation Setter.c: 62: int ColomnNo(int rowNo);
+[; ;Automated Solar Panel Orientation Setter.c: 63: void CheckMode();
+[; ;Automated Solar Panel Orientation Setter.c: 64: void KeyToSerial();
+[; ;Automated Solar Panel Orientation Setter.c: 65: void LCDTimeUpdate();
+"66
+[v _main `(v ~T0 @X0 1 ef ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 66: void main(){
+[e :U _main ]
+[f ]
+"68
+[v _pressedKey `uc ~T0 @X0 1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 68: char pressedKey;
+[; ;Automated Solar Panel Orientation Setter.c: 70: Setup_IOports();
+"70
+[e ( _Setup_IOports ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 73: atod_init();
+"73
+[e ( _atod_init ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 77: lcd_init();
+"77
+[e ( _lcd_init ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 78: clr_display();
+"78
+[e ( _clr_display ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 80: Serial_Init();
+"80
+[e ( _Serial_Init ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 81: Timer1_Init();
+"81
+[e ( _Timer1_Init ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 82: enableInterrupt();
+"82
+[e ( _enableInterrupt ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 86: lcd_init();
+"86
+[e ( _lcd_init ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 87: clr_display();
+"87
+[e ( _clr_display ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 89: printf("Body Temperature ");
+"89
+[e ( _printf :s 1C ]
+[; ;Automated Solar Panel Orientation Setter.c: 90: position(2,1);
+"90
+[e ( _position (2 , -> -> 2 `i `uc -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 91: printf(" and Heart Rate  ");
+"91
+[e ( _printf :s 2C ]
+[; ;Automated Solar Panel Orientation Setter.c: 92: _delay((unsigned long)((1000)*(4000000/4000.0)));
+"92
+[e ( __delay (1 -> * -> -> 1000 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 93: position(1,1);
+"93
+[e ( _position (2 , -> -> 1 `i `uc -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 94: printf("    Monitoring   ");
+"94
+[e ( _printf :s 3C ]
+[; ;Automated Solar Panel Orientation Setter.c: 95: position(2,1);
+"95
+[e ( _position (2 , -> -> 2 `i `uc -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 96: printf("      System     ");
+"96
+[e ( _printf :s 4C ]
+[; ;Automated Solar Panel Orientation Setter.c: 97: _delay((unsigned long)((1000)*(4000000/4000.0)));
+"97
+[e ( __delay (1 -> * -> -> 1000 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 98: position(1,1);
+"98
+[e ( _position (2 , -> -> 1 `i `uc -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 99: printf("       for      ");
+"99
+[e ( _printf :s 5C ]
+[; ;Automated Solar Panel Orientation Setter.c: 100: position(2,1);
+"100
+[e ( _position (2 , -> -> 2 `i `uc -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 101: printf("    Patients    ");
+"101
+[e ( _printf :s 6C ]
+[; ;Automated Solar Panel Orientation Setter.c: 102: _delay((unsigned long)((1000)*(4000000/4000.0)));
+"102
+[e ( __delay (1 -> * -> -> 1000 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 103: position(1,1);
+"103
+[e ( _position (2 , -> -> 1 `i `uc -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 104: printf("H:  62PPM Low   ",HeartRate);
+"104
+[e ( _printf , (. :s 7C _HeartRate ]
+[; ;Automated Solar Panel Orientation Setter.c: 105: position(2,1);
+"105
+[e ( _position (2 , -> -> 2 `i `uc -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 106: printf("T:  84F   Low   ",analogReadVal);
+"106
+[e ( _printf , (. :s 8C _analogReadVal ]
+[; ;Automated Solar Panel Orientation Setter.c: 110: clr_display();
+"110
+[e ( _clr_display ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 111: state = 91;
+"111
+[e = _state -> -> 91 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 114: _delay((unsigned long)((20)*(4000000/4000.0)));
+"114
+[e ( __delay (1 -> * -> -> 20 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 115: eeprom_write(0x01, 0x2A );
+"115
+[e ( _eeprom_write (2 , -> -> 1 `i `uc -> -> 42 `i `uc ]
+"116
+[v _abc `i ~T0 @X0 1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 116: int abc = eeprom_read(0x00);
+[e = _abc -> ( _eeprom_read (1 -> -> 0 `i `uc `i ]
+[; ;Automated Solar Panel Orientation Setter.c: 117: nop();
+"117
+[e ( _nop ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 118: LCDTimeUpdate();
+"118
+[e ( _LCDTimeUpdate ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 119: while(1){
+"119
+[e :U 259 ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 120: switch (state){
+"120
+[e $U 262  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 124: case 0:
+"124
+[e :U 263 ]
+[; ;Automated Solar Panel Orientation Setter.c: 126: break;
+"126
+[e $U 261  ]
+[; ;Automated Solar Panel Orientation Setter.c: 128: case 1:
+"128
+[e :U 264 ]
+[; ;Automated Solar Panel Orientation Setter.c: 129: state = 91;
+"129
+[e = _state -> -> 91 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 130: break;
+"130
+[e $U 261  ]
+[; ;Automated Solar Panel Orientation Setter.c: 131: case 2:
+"131
+[e :U 265 ]
+[; ;Automated Solar Panel Orientation Setter.c: 132: state = 92;
+"132
+[e = _state -> -> 92 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 133: break;
+"133
+[e $U 261  ]
+[; ;Automated Solar Panel Orientation Setter.c: 134: case 3:
+"134
+[e :U 266 ]
+[; ;Automated Solar Panel Orientation Setter.c: 135: state = 93;
+"135
+[e = _state -> -> 93 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 136: break;
+"136
+[e $U 261  ]
+[; ;Automated Solar Panel Orientation Setter.c: 138: case 90:
+"138
+[e :U 267 ]
+[; ;Automated Solar Panel Orientation Setter.c: 140: break;
+"140
+[e $U 261  ]
+[; ;Automated Solar Panel Orientation Setter.c: 143: case 91:
+"143
+[e :U 268 ]
+[; ;Automated Solar Panel Orientation Setter.c: 145: LCD_print_char(1,1,'M');
+"145
+[e ( _LCD_print_char (3 , , -> 1 `i -> 1 `i -> -> 77 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 146: LCD_print_char(1,2,'O');
+"146
+[e ( _LCD_print_char (3 , , -> 1 `i -> 2 `i -> -> 79 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 147: LCD_print_char(1,3,'D');
+"147
+[e ( _LCD_print_char (3 , , -> 1 `i -> 3 `i -> -> 68 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 148: LCD_print_char(1,4,'E');
+"148
+[e ( _LCD_print_char (3 , , -> 1 `i -> 4 `i -> -> 69 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 150: LCD_print_char(1,6,',');
+"150
+[e ( _LCD_print_char (3 , , -> 1 `i -> 6 `i -> -> 44 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 151: LCD_print_char(1,10,'D');
+"151
+[e ( _LCD_print_char (3 , , -> 1 `i -> 10 `i -> -> 68 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 152: LCD_print_char(1,11,',');
+"152
+[e ( _LCD_print_char (3 , , -> 1 `i -> 11 `i -> -> 44 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 154: LCD_print_char(2,3,'.');
+"154
+[e ( _LCD_print_char (3 , , -> 2 `i -> 3 `i -> -> 46 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 155: LCD_print_char(2,5,'V');
+"155
+[e ( _LCD_print_char (3 , , -> 2 `i -> 5 `i -> -> 86 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 156: LCD_print_char(2,6,',');
+"156
+[e ( _LCD_print_char (3 , , -> 2 `i -> 6 `i -> -> 44 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 157: LCD_print_char(2,8,'.');
+"157
+[e ( _LCD_print_char (3 , , -> 2 `i -> 8 `i -> -> 46 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 158: LCD_print_char(2,10,'A');
+"158
+[e ( _LCD_print_char (3 , , -> 2 `i -> 10 `i -> -> 65 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 159: LCD_print_char(2,11,',');
+"159
+[e ( _LCD_print_char (3 , , -> 2 `i -> 11 `i -> -> 44 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 160: LCD_print_char(2,14,'.');
+"160
+[e ( _LCD_print_char (3 , , -> 2 `i -> 14 `i -> -> 46 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 161: LCD_print_char(2,16,'W');
+"161
+[e ( _LCD_print_char (3 , , -> 2 `i -> 16 `i -> -> 87 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 164: LCD_print_char(1,5,'1');
+"164
+[e ( _LCD_print_char (3 , , -> 1 `i -> 5 `i -> -> 49 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 166: LCD_print_char(1,7,'0');
+"166
+[e ( _LCD_print_char (3 , , -> 1 `i -> 7 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 167: LCD_print_char(1,8,'0');
+"167
+[e ( _LCD_print_char (3 , , -> 1 `i -> 8 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 168: LCD_print_char(1,9,'0');
+"168
+[e ( _LCD_print_char (3 , , -> 1 `i -> 9 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 170: LCD_print_char(2,1,'0');
+"170
+[e ( _LCD_print_char (3 , , -> 2 `i -> 1 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 171: LCD_print_char(2,2,'0');
+"171
+[e ( _LCD_print_char (3 , , -> 2 `i -> 2 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 172: LCD_print_char(2,4,'0');
+"172
+[e ( _LCD_print_char (3 , , -> 2 `i -> 4 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 174: LCD_print_char(2,7,'0');
+"174
+[e ( _LCD_print_char (3 , , -> 2 `i -> 7 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 175: LCD_print_char(2,9,'0');
+"175
+[e ( _LCD_print_char (3 , , -> 2 `i -> 9 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 177: LCD_print_char(2,12,'0');
+"177
+[e ( _LCD_print_char (3 , , -> 2 `i -> 12 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 178: LCD_print_char(2,13,'0');
+"178
+[e ( _LCD_print_char (3 , , -> 2 `i -> 13 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 179: LCD_print_char(2,15,'0');
+"179
+[e ( _LCD_print_char (3 , , -> 2 `i -> 15 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 182: state = 10;
+"182
+[e = _state -> -> 10 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 183: break;
+"183
+[e $U 261  ]
+[; ;Automated Solar Panel Orientation Setter.c: 184: case 10 :
+"184
+[e :U 269 ]
+[; ;Automated Solar Panel Orientation Setter.c: 186: a2d_read();
+"186
+[e ( _a2d_read ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 188: Serial_Print_Int(ldr1);
+"188
+[e ( _Serial_Print_Int (1 -> _ldr1 `i ]
+[; ;Automated Solar Panel Orientation Setter.c: 189: Serial_Print(", ");
+"189
+[e ( _Serial_Print (1 :s 9C ]
+[; ;Automated Solar Panel Orientation Setter.c: 190: Serial_Print_Int(ldr2);
+"190
+[e ( _Serial_Print_Int (1 -> _ldr2 `i ]
+[; ;Automated Solar Panel Orientation Setter.c: 191: Serial_Print(", ");
+"191
+[e ( _Serial_Print (1 :s 10C ]
+[; ;Automated Solar Panel Orientation Setter.c: 192: Serial_Print_Int(V_Bat);
+"192
+[e ( _Serial_Print_Int (1 -> _V_Bat `i ]
+[; ;Automated Solar Panel Orientation Setter.c: 193: Serial_Print(", ");
+"193
+[e ( _Serial_Print (1 :s 11C ]
+[; ;Automated Solar Panel Orientation Setter.c: 194: Serial_Print_Int(C_Bat);
+"194
+[e ( _Serial_Print_Int (1 -> _C_Bat `i ]
+[; ;Automated Solar Panel Orientation Setter.c: 195: Serial_Print(", ");
+"195
+[e ( _Serial_Print (1 :s 12C ]
+[; ;Automated Solar Panel Orientation Setter.c: 196: Serial_NewLine();
+"196
+[e ( _Serial_NewLine ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 197: _delay((unsigned long)((50)*(4000000/4000.0)));
+"197
+[e ( __delay (1 -> * -> -> 50 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 198: nop();
+"198
+[e ( _nop ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 201: LCD_print_char(1,7,'0');
+"201
+[e ( _LCD_print_char (3 , , -> 1 `i -> 7 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 202: LCD_print_char(1,8,'0');
+"202
+[e ( _LCD_print_char (3 , , -> 1 `i -> 8 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 203: LCD_print_char(1,9,'0');
+"203
+[e ( _LCD_print_char (3 , , -> 1 `i -> 9 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 205: LCD_print_char(2,1,V_Bat2/10+48);
+"205
+[e ( _LCD_print_char (3 , , -> 2 `i -> 1 `i -> + / _V_Bat2 -> -> -> 10 `i `m `um -> -> -> 48 `i `m `um `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 206: LCD_print_char(2,2,V_Bat2%10+48);
+"206
+[e ( _LCD_print_char (3 , , -> 2 `i -> 2 `i -> + % _V_Bat2 -> -> -> 10 `i `m `um -> -> -> 48 `i `m `um `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 207: LCD_print_char(2,4,'0');
+"207
+[e ( _LCD_print_char (3 , , -> 2 `i -> 4 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 209: LCD_print_char(2,7,'0');
+"209
+[e ( _LCD_print_char (3 , , -> 2 `i -> 7 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 210: LCD_print_char(2,9,'0');
+"210
+[e ( _LCD_print_char (3 , , -> 2 `i -> 9 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 212: LCD_print_char(2,12,'0');
+"212
+[e ( _LCD_print_char (3 , , -> 2 `i -> 12 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 213: LCD_print_char(2,13,'0');
+"213
+[e ( _LCD_print_char (3 , , -> 2 `i -> 13 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 214: LCD_print_char(2,15,'0');
+"214
+[e ( _LCD_print_char (3 , , -> 2 `i -> 15 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 219: CheckMode();
+"219
+[e ( _CheckMode ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 221: Calculate();
+"221
+[e ( _Calculate ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 223: break;
+"223
+[e $U 261  ]
+[; ;Automated Solar Panel Orientation Setter.c: 226: case 92 :
+"226
+[e :U 270 ]
+[; ;Automated Solar Panel Orientation Setter.c: 228: LCD_print_char(1,1,'M');
+"228
+[e ( _LCD_print_char (3 , , -> 1 `i -> 1 `i -> -> 77 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 229: LCD_print_char(1,2,'O');
+"229
+[e ( _LCD_print_char (3 , , -> 1 `i -> 2 `i -> -> 79 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 230: LCD_print_char(1,3,'D');
+"230
+[e ( _LCD_print_char (3 , , -> 1 `i -> 3 `i -> -> 68 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 231: LCD_print_char(1,4,'E');
+"231
+[e ( _LCD_print_char (3 , , -> 1 `i -> 4 `i -> -> 69 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 233: LCD_print_char(1,6,',');
+"233
+[e ( _LCD_print_char (3 , , -> 1 `i -> 6 `i -> -> 44 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 234: LCD_print_char(1,10,'D');
+"234
+[e ( _LCD_print_char (3 , , -> 1 `i -> 10 `i -> -> 68 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 235: LCD_print_char(1,11,',');
+"235
+[e ( _LCD_print_char (3 , , -> 1 `i -> 11 `i -> -> 44 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 237: LCD_print_char(2,3,'.');
+"237
+[e ( _LCD_print_char (3 , , -> 2 `i -> 3 `i -> -> 46 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 238: LCD_print_char(2,5,'V');
+"238
+[e ( _LCD_print_char (3 , , -> 2 `i -> 5 `i -> -> 86 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 239: LCD_print_char(2,6,',');
+"239
+[e ( _LCD_print_char (3 , , -> 2 `i -> 6 `i -> -> 44 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 240: LCD_print_char(2,8,'.');
+"240
+[e ( _LCD_print_char (3 , , -> 2 `i -> 8 `i -> -> 46 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 241: LCD_print_char(2,10,'A');
+"241
+[e ( _LCD_print_char (3 , , -> 2 `i -> 10 `i -> -> 65 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 242: LCD_print_char(2,11,',');
+"242
+[e ( _LCD_print_char (3 , , -> 2 `i -> 11 `i -> -> 44 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 243: LCD_print_char(2,14,'.');
+"243
+[e ( _LCD_print_char (3 , , -> 2 `i -> 14 `i -> -> 46 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 244: LCD_print_char(2,16,'W');
+"244
+[e ( _LCD_print_char (3 , , -> 2 `i -> 16 `i -> -> 87 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 247: LCD_print_char(1,5,'2');
+"247
+[e ( _LCD_print_char (3 , , -> 1 `i -> 5 `i -> -> 50 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 249: LCD_print_char(1,7,'0');
+"249
+[e ( _LCD_print_char (3 , , -> 1 `i -> 7 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 250: LCD_print_char(1,8,'0');
+"250
+[e ( _LCD_print_char (3 , , -> 1 `i -> 8 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 251: LCD_print_char(1,9,'0');
+"251
+[e ( _LCD_print_char (3 , , -> 1 `i -> 9 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 253: LCD_print_char(2,1,V_Bat2/10+48);
+"253
+[e ( _LCD_print_char (3 , , -> 2 `i -> 1 `i -> + / _V_Bat2 -> -> -> 10 `i `m `um -> -> -> 48 `i `m `um `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 254: LCD_print_char(2,2,V_Bat2%10+48);
+"254
+[e ( _LCD_print_char (3 , , -> 2 `i -> 2 `i -> + % _V_Bat2 -> -> -> 10 `i `m `um -> -> -> 48 `i `m `um `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 255: LCD_print_char(2,4,'0');
+"255
+[e ( _LCD_print_char (3 , , -> 2 `i -> 4 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 257: LCD_print_char(2,7,'0');
+"257
+[e ( _LCD_print_char (3 , , -> 2 `i -> 7 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 258: LCD_print_char(2,9,'0');
+"258
+[e ( _LCD_print_char (3 , , -> 2 `i -> 9 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 260: LCD_print_char(2,12,'0');
+"260
+[e ( _LCD_print_char (3 , , -> 2 `i -> 12 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 261: LCD_print_char(2,13,'0');
+"261
+[e ( _LCD_print_char (3 , , -> 2 `i -> 13 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 262: LCD_print_char(2,15,'0');
+"262
+[e ( _LCD_print_char (3 , , -> 2 `i -> 15 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 265: state = 20;
+"265
+[e = _state -> -> 20 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 266: break;
+"266
+[e $U 261  ]
+[; ;Automated Solar Panel Orientation Setter.c: 268: case 20 :
+"268
+[e :U 271 ]
+[; ;Automated Solar Panel Orientation Setter.c: 269: CheckMode();
+"269
+[e ( _CheckMode ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 270: break;
+"270
+[e $U 261  ]
+[; ;Automated Solar Panel Orientation Setter.c: 272: case 93 :
+"272
+[e :U 272 ]
+[; ;Automated Solar Panel Orientation Setter.c: 274: LCD_print_char(1,1,'M');
+"274
+[e ( _LCD_print_char (3 , , -> 1 `i -> 1 `i -> -> 77 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 275: LCD_print_char(1,2,'O');
+"275
+[e ( _LCD_print_char (3 , , -> 1 `i -> 2 `i -> -> 79 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 276: LCD_print_char(1,3,'D');
+"276
+[e ( _LCD_print_char (3 , , -> 1 `i -> 3 `i -> -> 68 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 277: LCD_print_char(1,4,'E');
+"277
+[e ( _LCD_print_char (3 , , -> 1 `i -> 4 `i -> -> 69 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 279: LCD_print_char(1,6,',');
+"279
+[e ( _LCD_print_char (3 , , -> 1 `i -> 6 `i -> -> 44 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 280: LCD_print_char(1,10,'D');
+"280
+[e ( _LCD_print_char (3 , , -> 1 `i -> 10 `i -> -> 68 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 281: LCD_print_char(1,11,',');
+"281
+[e ( _LCD_print_char (3 , , -> 1 `i -> 11 `i -> -> 44 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 283: LCD_print_char(2,3,'.');
+"283
+[e ( _LCD_print_char (3 , , -> 2 `i -> 3 `i -> -> 46 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 284: LCD_print_char(2,5,'V');
+"284
+[e ( _LCD_print_char (3 , , -> 2 `i -> 5 `i -> -> 86 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 285: LCD_print_char(2,6,',');
+"285
+[e ( _LCD_print_char (3 , , -> 2 `i -> 6 `i -> -> 44 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 286: LCD_print_char(2,8,'.');
+"286
+[e ( _LCD_print_char (3 , , -> 2 `i -> 8 `i -> -> 46 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 287: LCD_print_char(2,10,'A');
+"287
+[e ( _LCD_print_char (3 , , -> 2 `i -> 10 `i -> -> 65 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 288: LCD_print_char(2,11,',');
+"288
+[e ( _LCD_print_char (3 , , -> 2 `i -> 11 `i -> -> 44 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 289: LCD_print_char(2,14,'.');
+"289
+[e ( _LCD_print_char (3 , , -> 2 `i -> 14 `i -> -> 46 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 290: LCD_print_char(2,16,'W');
+"290
+[e ( _LCD_print_char (3 , , -> 2 `i -> 16 `i -> -> 87 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 293: LCD_print_char(1,5,'3');
+"293
+[e ( _LCD_print_char (3 , , -> 1 `i -> 5 `i -> -> 51 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 295: LCD_print_char(1,7,'0');
+"295
+[e ( _LCD_print_char (3 , , -> 1 `i -> 7 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 296: LCD_print_char(1,8,'0');
+"296
+[e ( _LCD_print_char (3 , , -> 1 `i -> 8 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 297: LCD_print_char(1,9,'0');
+"297
+[e ( _LCD_print_char (3 , , -> 1 `i -> 9 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 299: LCD_print_char(2,1,'0');
+"299
+[e ( _LCD_print_char (3 , , -> 2 `i -> 1 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 300: LCD_print_char(2,2,'0');
+"300
+[e ( _LCD_print_char (3 , , -> 2 `i -> 2 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 301: LCD_print_char(2,4,'0');
+"301
+[e ( _LCD_print_char (3 , , -> 2 `i -> 4 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 303: LCD_print_char(2,7,'0');
+"303
+[e ( _LCD_print_char (3 , , -> 2 `i -> 7 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 304: LCD_print_char(2,9,'0');
+"304
+[e ( _LCD_print_char (3 , , -> 2 `i -> 9 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 306: LCD_print_char(2,12,'0');
+"306
+[e ( _LCD_print_char (3 , , -> 2 `i -> 12 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 307: LCD_print_char(2,13,'0');
+"307
+[e ( _LCD_print_char (3 , , -> 2 `i -> 13 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 308: LCD_print_char(2,15,'0');
+"308
+[e ( _LCD_print_char (3 , , -> 2 `i -> 15 `i -> -> 48 `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 311: state = 30;
+"311
+[e = _state -> -> 30 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 312: break;
+"312
+[e $U 261  ]
+[; ;Automated Solar Panel Orientation Setter.c: 314: case 30 :
+"314
+[e :U 273 ]
+[; ;Automated Solar Panel Orientation Setter.c: 315: CheckMode();
+"315
+[e ( _CheckMode ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 316: break;
+"316
+[e $U 261  ]
+"320
+}
+[; ;Automated Solar Panel Orientation Setter.c: 320: }
+[e $U 261  ]
+"120
+[e :U 262 ]
+[e [\ _state , $ -> -> 0 `i `uc 263
+ , $ -> -> 1 `i `uc 264
+ , $ -> -> 2 `i `uc 265
+ , $ -> -> 3 `i `uc 266
+ , $ -> -> 90 `i `uc 267
+ , $ -> -> 91 `i `uc 268
+ , $ -> -> 10 `i `uc 269
+ , $ -> -> 92 `i `uc 270
+ , $ -> -> 20 `i `uc 271
+ , $ -> -> 93 `i `uc 272
+ , $ -> -> 30 `i `uc 273
+ 261 ]
+"320
+[e :U 261 ]
+"321
+}
+[e :U 258 ]
+"119
+[e $U 259  ]
+[e :U 260 ]
+[; ;Automated Solar Panel Orientation Setter.c: 321: }
+[; ;Automated Solar Panel Orientation Setter.c: 322: }
+"322
+[e :UE 257 ]
+}
+"324
+[v _CheckMode `(v ~T0 @X0 1 ef ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 324: void CheckMode(){
+[e :U _CheckMode ]
+[f ]
+"325
+[v _pressedKey `uc ~T0 @X0 1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 325: char pressedKey;
+[; ;Automated Solar Panel Orientation Setter.c: 326: pressedKey = CheckKeyPad();
+"326
+[e = _pressedKey ( _CheckKeyPad ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 328: if( pressedKey=='*' ){
+"328
+[e $ ! == -> _pressedKey `ui -> 42 `ui 275  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 329: currentMode++;
+"329
+[e ++ _currentMode -> -> 1 `i `ui ]
+[; ;Automated Solar Panel Orientation Setter.c: 330: if (currentMode>3) currentMode = 1;
+"330
+[e $ ! > _currentMode -> -> 3 `i `ui 276  ]
+[e = _currentMode -> -> 1 `i `ui ]
+[e :U 276 ]
+[; ;Automated Solar Panel Orientation Setter.c: 331: state = currentMode;
+"331
+[e = _state -> _currentMode `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 333: RC1 = 1;
+"333
+[e = _RC1 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 334: Serial_Print("Switched to Mode : ");
+"334
+[e ( _Serial_Print (1 :s 13C ]
+[; ;Automated Solar Panel Orientation Setter.c: 335: Serial_Println_Int((int)state);
+"335
+[e ( _Serial_Println_Int (1 -> _state `i ]
+[; ;Automated Solar Panel Orientation Setter.c: 336: RC1 = 0;
+"336
+[e = _RC1 -> -> 0 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 338: ; nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();;
+"338
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+"339
+}
+[e :U 275 ]
+[; ;Automated Solar Panel Orientation Setter.c: 339: }
+[; ;Automated Solar Panel Orientation Setter.c: 340: }
+"340
+[e :UE 274 ]
+}
+"342
+[v _KeyToSerial `(v ~T0 @X0 1 ef ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 342: void KeyToSerial(){
+[e :U _KeyToSerial ]
+[f ]
+"343
+[v _pressedKey `uc ~T0 @X0 1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 343: char pressedKey = CheckKeyPad();
+[e = _pressedKey ( _CheckKeyPad ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 344: if( pressedKey!='$'){
+"344
+[e $ ! != -> _pressedKey `ui -> 36 `ui 278  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 346: RC1 = 1;
+"346
+[e = _RC1 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 347: Serial_Print_Char(pressedKey);
+"347
+[e ( _Serial_Print_Char (1 _pressedKey ]
+[; ;Automated Solar Panel Orientation Setter.c: 348: RC1 = 0;
+"348
+[e = _RC1 -> -> 0 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 350: ; nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();nop();;
+"350
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[e ( _nop ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 351: nop();
+"351
+[e ( _nop ..  ]
+"352
+}
+[e :U 278 ]
+[; ;Automated Solar Panel Orientation Setter.c: 352: }
+[; ;Automated Solar Panel Orientation Setter.c: 353: }
+"353
+[e :UE 277 ]
+}
+"355
+[v _CheckKeyPad `(uc ~T0 @X0 1 ef ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 355: char CheckKeyPad(){
+[e :U _CheckKeyPad ]
+[f ]
+[; ;Automated Solar Panel Orientation Setter.c: 356: RC4 = 0; RD5 = 0; RC5=0; RD4=0;
+"356
+[e = _RC4 -> -> 0 `i `b ]
+[e = _RD5 -> -> 0 `i `b ]
+[e = _RC5 -> -> 0 `i `b ]
+[e = _RD4 -> -> 0 `i `b ]
+"357
+[v _charactor `uc ~T0 @X0 1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 357: char charactor = '$';
+[e = _charactor -> -> 36 `ui `uc ]
+"358
+[v _colomnNo `i ~T0 @X0 1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 358: int colomnNo = 0;
+[e = _colomnNo -> 0 `i ]
+"359
+[v _rowNo `i ~T0 @X0 1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 359: int rowNo = RowNo();
+[e = _rowNo ( _RowNo ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 360: if (rowNo != 0){
+"360
+[e $ ! != _rowNo -> 0 `i 280  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 361: colomnNo = ColomnNo(rowNo);
+"361
+[e = _colomnNo ( _ColomnNo (1 _rowNo ]
+[; ;Automated Solar Panel Orientation Setter.c: 362: RC4 = 0; RD5 = 0; RC5=0; RD4=0;
+"362
+[e = _RC4 -> -> 0 `i `b ]
+[e = _RD5 -> -> 0 `i `b ]
+[e = _RC5 -> -> 0 `i `b ]
+[e = _RD4 -> -> 0 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 363: if(colomnNo==1 && rowNo == 1) charactor = '1';
+"363
+[e $ ! && == _colomnNo -> 1 `i == _rowNo -> 1 `i 281  ]
+[e = _charactor -> -> 49 `ui `uc ]
+[e $U 282  ]
+"364
+[e :U 281 ]
+[; ;Automated Solar Panel Orientation Setter.c: 364: else if(colomnNo==1 && rowNo == 2) charactor = '2';
+[e $ ! && == _colomnNo -> 1 `i == _rowNo -> 2 `i 283  ]
+[e = _charactor -> -> 50 `ui `uc ]
+[e $U 284  ]
+"365
+[e :U 283 ]
+[; ;Automated Solar Panel Orientation Setter.c: 365: else if(colomnNo==1 && rowNo == 3) charactor = '3';
+[e $ ! && == _colomnNo -> 1 `i == _rowNo -> 3 `i 285  ]
+[e = _charactor -> -> 51 `ui `uc ]
+[e $U 286  ]
+"366
+[e :U 285 ]
+[; ;Automated Solar Panel Orientation Setter.c: 366: else if(colomnNo==1 && rowNo == 4) charactor = 'A';
+[e $ ! && == _colomnNo -> 1 `i == _rowNo -> 4 `i 287  ]
+[e = _charactor -> -> 65 `ui `uc ]
+[e $U 288  ]
+"368
+[e :U 287 ]
+[; ;Automated Solar Panel Orientation Setter.c: 368: else if(colomnNo==2 && rowNo == 1) charactor = '4';
+[e $ ! && == _colomnNo -> 2 `i == _rowNo -> 1 `i 289  ]
+[e = _charactor -> -> 52 `ui `uc ]
+[e $U 290  ]
+"369
+[e :U 289 ]
+[; ;Automated Solar Panel Orientation Setter.c: 369: else if(colomnNo==2 && rowNo == 2) charactor = '5';
+[e $ ! && == _colomnNo -> 2 `i == _rowNo -> 2 `i 291  ]
+[e = _charactor -> -> 53 `ui `uc ]
+[e $U 292  ]
+"370
+[e :U 291 ]
+[; ;Automated Solar Panel Orientation Setter.c: 370: else if(colomnNo==2 && rowNo == 3) charactor = '6';
+[e $ ! && == _colomnNo -> 2 `i == _rowNo -> 3 `i 293  ]
+[e = _charactor -> -> 54 `ui `uc ]
+[e $U 294  ]
+"371
+[e :U 293 ]
+[; ;Automated Solar Panel Orientation Setter.c: 371: else if(colomnNo==2 && rowNo == 4) charactor = 'B';
+[e $ ! && == _colomnNo -> 2 `i == _rowNo -> 4 `i 295  ]
+[e = _charactor -> -> 66 `ui `uc ]
+[e $U 296  ]
+"373
+[e :U 295 ]
+[; ;Automated Solar Panel Orientation Setter.c: 373: else if(colomnNo==3 && rowNo == 1) charactor = '7';
+[e $ ! && == _colomnNo -> 3 `i == _rowNo -> 1 `i 297  ]
+[e = _charactor -> -> 55 `ui `uc ]
+[e $U 298  ]
+"374
+[e :U 297 ]
+[; ;Automated Solar Panel Orientation Setter.c: 374: else if(colomnNo==3 && rowNo == 2) charactor = '8';
+[e $ ! && == _colomnNo -> 3 `i == _rowNo -> 2 `i 299  ]
+[e = _charactor -> -> 56 `ui `uc ]
+[e $U 300  ]
+"375
+[e :U 299 ]
+[; ;Automated Solar Panel Orientation Setter.c: 375: else if(colomnNo==3 && rowNo == 3) charactor = '9';
+[e $ ! && == _colomnNo -> 3 `i == _rowNo -> 3 `i 301  ]
+[e = _charactor -> -> 57 `ui `uc ]
+[e $U 302  ]
+"376
+[e :U 301 ]
+[; ;Automated Solar Panel Orientation Setter.c: 376: else if(colomnNo==3 && rowNo == 4) charactor = 'C';
+[e $ ! && == _colomnNo -> 3 `i == _rowNo -> 4 `i 303  ]
+[e = _charactor -> -> 67 `ui `uc ]
+[e $U 304  ]
+"378
+[e :U 303 ]
+[; ;Automated Solar Panel Orientation Setter.c: 378: else if(colomnNo==4 && rowNo == 1) charactor = '*';
+[e $ ! && == _colomnNo -> 4 `i == _rowNo -> 1 `i 305  ]
+[e = _charactor -> -> 42 `ui `uc ]
+[e $U 306  ]
+"379
+[e :U 305 ]
+[; ;Automated Solar Panel Orientation Setter.c: 379: else if(colomnNo==4 && rowNo == 2) charactor = '0';
+[e $ ! && == _colomnNo -> 4 `i == _rowNo -> 2 `i 307  ]
+[e = _charactor -> -> 48 `ui `uc ]
+[e $U 308  ]
+"380
+[e :U 307 ]
+[; ;Automated Solar Panel Orientation Setter.c: 380: else if(colomnNo==4 && rowNo == 3) charactor = '#';
+[e $ ! && == _colomnNo -> 4 `i == _rowNo -> 3 `i 309  ]
+[e = _charactor -> -> 35 `ui `uc ]
+[e $U 310  ]
+"381
+[e :U 309 ]
+[; ;Automated Solar Panel Orientation Setter.c: 381: else if(colomnNo==4 && rowNo == 4) charactor = 'D';
+[e $ ! && == _colomnNo -> 4 `i == _rowNo -> 4 `i 311  ]
+[e = _charactor -> -> 68 `ui `uc ]
+[e $U 312  ]
+"383
+[e :U 311 ]
+[; ;Automated Solar Panel Orientation Setter.c: 383: else charactor = '@';
+[e = _charactor -> -> 64 `ui `uc ]
+[e :U 312 ]
+[e :U 310 ]
+[e :U 308 ]
+[e :U 306 ]
+[e :U 304 ]
+[e :U 302 ]
+[e :U 300 ]
+[e :U 298 ]
+[e :U 296 ]
+[e :U 294 ]
+[e :U 292 ]
+[e :U 290 ]
+[e :U 288 ]
+[e :U 286 ]
+[e :U 284 ]
+[e :U 282 ]
+"384
+}
+[e :U 280 ]
+[; ;Automated Solar Panel Orientation Setter.c: 384: }
+[; ;Automated Solar Panel Orientation Setter.c: 385: if(rowNo==1) while(RD2==0);
+"385
+[e $ ! == _rowNo -> 1 `i 313  ]
+[e $U 314  ]
+[e :U 315 ]
+[e :U 314 ]
+[e $ == -> _RD2 `i -> 0 `i 315  ]
+[e :U 316 ]
+[e $U 317  ]
+"386
+[e :U 313 ]
+[; ;Automated Solar Panel Orientation Setter.c: 386: else if(rowNo==2) while(RD7==0);
+[e $ ! == _rowNo -> 2 `i 318  ]
+[e $U 319  ]
+[e :U 320 ]
+[e :U 319 ]
+[e $ == -> _RD7 `i -> 0 `i 320  ]
+[e :U 321 ]
+[e $U 322  ]
+"387
+[e :U 318 ]
+[; ;Automated Solar Panel Orientation Setter.c: 387: else if(rowNo==3) while(RD3==0);
+[e $ ! == _rowNo -> 3 `i 323  ]
+[e $U 324  ]
+[e :U 325 ]
+[e :U 324 ]
+[e $ == -> _RD3 `i -> 0 `i 325  ]
+[e :U 326 ]
+[e $U 327  ]
+"388
+[e :U 323 ]
+[; ;Automated Solar Panel Orientation Setter.c: 388: else if(rowNo==4) while(RD6==0);
+[e $ ! == _rowNo -> 4 `i 328  ]
+[e $U 329  ]
+[e :U 330 ]
+[e :U 329 ]
+[e $ == -> _RD6 `i -> 0 `i 330  ]
+[e :U 331 ]
+[e :U 328 ]
+"389
+[e :U 327 ]
+[e :U 322 ]
+[e :U 317 ]
+[; ;Automated Solar Panel Orientation Setter.c: 389: return charactor;
+[e ) _charactor ]
+[e $UE 279  ]
+[; ;Automated Solar Panel Orientation Setter.c: 390: }
+"390
+[e :UE 279 ]
+}
+"392
+[v _ColomnNo `(i ~T0 @X0 1 ef1`i ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 392: int ColomnNo(int rowNo){
+[e :U _ColomnNo ]
+[v _rowNo `i ~T0 @X0 1 r1 ]
+[f ]
+[; ;Automated Solar Panel Orientation Setter.c: 393: RC4 = 0; RD5 = 0; RC5=0; RD4=0;
+"393
+[e = _RC4 -> -> 0 `i `b ]
+[e = _RD5 -> -> 0 `i `b ]
+[e = _RC5 -> -> 0 `i `b ]
+[e = _RD4 -> -> 0 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 394: if(rowNo==1){
+"394
+[e $ ! == _rowNo -> 1 `i 333  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 395: RC4 = 1;
+"395
+[e = _RC4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 396: _delay(1);
+"396
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 397: if(RD2==1){
+"397
+[e $ ! == -> _RD2 `i -> 1 `i 334  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 398: return 1;
+"398
+[e ) -> 1 `i ]
+[e $UE 332  ]
+"399
+}
+[e :U 334 ]
+[; ;Automated Solar Panel Orientation Setter.c: 399: }
+[; ;Automated Solar Panel Orientation Setter.c: 400: RD5 = 1;
+"400
+[e = _RD5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 401: _delay(1);
+"401
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 402: if(RD2==1){
+"402
+[e $ ! == -> _RD2 `i -> 1 `i 335  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 403: return 2;
+"403
+[e ) -> 2 `i ]
+[e $UE 332  ]
+"404
+}
+[e :U 335 ]
+[; ;Automated Solar Panel Orientation Setter.c: 404: }
+[; ;Automated Solar Panel Orientation Setter.c: 405: RC5 = 1;
+"405
+[e = _RC5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 406: _delay(1);
+"406
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 407: if(RD2==1){
+"407
+[e $ ! == -> _RD2 `i -> 1 `i 336  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 408: return 3;
+"408
+[e ) -> 3 `i ]
+[e $UE 332  ]
+"409
+}
+[e :U 336 ]
+[; ;Automated Solar Panel Orientation Setter.c: 409: }
+[; ;Automated Solar Panel Orientation Setter.c: 410: RD4 = 1;
+"410
+[e = _RD4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 411: _delay(1);
+"411
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 412: if(RD2==1){
+"412
+[e $ ! == -> _RD2 `i -> 1 `i 337  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 413: return 4;
+"413
+[e ) -> 4 `i ]
+[e $UE 332  ]
+"414
+}
+[e :U 337 ]
+"415
+}
+[; ;Automated Solar Panel Orientation Setter.c: 414: }
+[; ;Automated Solar Panel Orientation Setter.c: 415: }
+[e $U 338  ]
+"416
+[e :U 333 ]
+[; ;Automated Solar Panel Orientation Setter.c: 416: else if(rowNo==2){
+[e $ ! == _rowNo -> 2 `i 339  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 417: RC4 = 1;
+"417
+[e = _RC4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 418: _delay(1);
+"418
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 419: if(RD7==1){
+"419
+[e $ ! == -> _RD7 `i -> 1 `i 340  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 420: return 1;
+"420
+[e ) -> 1 `i ]
+[e $UE 332  ]
+"421
+}
+[e :U 340 ]
+[; ;Automated Solar Panel Orientation Setter.c: 421: }
+[; ;Automated Solar Panel Orientation Setter.c: 422: RD5 = 1;
+"422
+[e = _RD5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 423: _delay(1);
+"423
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 424: if(RD7==1){
+"424
+[e $ ! == -> _RD7 `i -> 1 `i 341  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 425: return 2;
+"425
+[e ) -> 2 `i ]
+[e $UE 332  ]
+"426
+}
+[e :U 341 ]
+[; ;Automated Solar Panel Orientation Setter.c: 426: }
+[; ;Automated Solar Panel Orientation Setter.c: 427: RC5 = 1;
+"427
+[e = _RC5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 428: _delay(1);
+"428
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 429: if(RD7==1){
+"429
+[e $ ! == -> _RD7 `i -> 1 `i 342  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 430: return 3;
+"430
+[e ) -> 3 `i ]
+[e $UE 332  ]
+"431
+}
+[e :U 342 ]
+[; ;Automated Solar Panel Orientation Setter.c: 431: }
+[; ;Automated Solar Panel Orientation Setter.c: 432: RD4 = 1;
+"432
+[e = _RD4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 433: _delay(1);
+"433
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 434: if(RD7==1){
+"434
+[e $ ! == -> _RD7 `i -> 1 `i 343  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 435: return 4;
+"435
+[e ) -> 4 `i ]
+[e $UE 332  ]
+"436
+}
+[e :U 343 ]
+"437
+}
+[; ;Automated Solar Panel Orientation Setter.c: 436: }
+[; ;Automated Solar Panel Orientation Setter.c: 437: }
+[e $U 344  ]
+"438
+[e :U 339 ]
+[; ;Automated Solar Panel Orientation Setter.c: 438: else if(rowNo==3){
+[e $ ! == _rowNo -> 3 `i 345  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 439: RC4 = 1;
+"439
+[e = _RC4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 440: _delay(1);
+"440
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 441: if(RD3==1){
+"441
+[e $ ! == -> _RD3 `i -> 1 `i 346  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 442: return 1;
+"442
+[e ) -> 1 `i ]
+[e $UE 332  ]
+"443
+}
+[e :U 346 ]
+[; ;Automated Solar Panel Orientation Setter.c: 443: }
+[; ;Automated Solar Panel Orientation Setter.c: 444: RD5 = 1;
+"444
+[e = _RD5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 445: _delay(1);
+"445
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 446: if(RD3==1){
+"446
+[e $ ! == -> _RD3 `i -> 1 `i 347  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 447: return 2;
+"447
+[e ) -> 2 `i ]
+[e $UE 332  ]
+"448
+}
+[e :U 347 ]
+[; ;Automated Solar Panel Orientation Setter.c: 448: }
+[; ;Automated Solar Panel Orientation Setter.c: 449: RC5 = 1;
+"449
+[e = _RC5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 450: _delay(1);
+"450
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 451: if(RD3==1){
+"451
+[e $ ! == -> _RD3 `i -> 1 `i 348  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 452: return 3;
+"452
+[e ) -> 3 `i ]
+[e $UE 332  ]
+"453
+}
+[e :U 348 ]
+[; ;Automated Solar Panel Orientation Setter.c: 453: }
+[; ;Automated Solar Panel Orientation Setter.c: 454: RD4 = 1;
+"454
+[e = _RD4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 455: _delay(1);
+"455
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 456: if(RD3==1){
+"456
+[e $ ! == -> _RD3 `i -> 1 `i 349  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 457: return 4;
+"457
+[e ) -> 4 `i ]
+[e $UE 332  ]
+"458
+}
+[e :U 349 ]
+"459
+}
+[; ;Automated Solar Panel Orientation Setter.c: 458: }
+[; ;Automated Solar Panel Orientation Setter.c: 459: }
+[e $U 350  ]
+"460
+[e :U 345 ]
+[; ;Automated Solar Panel Orientation Setter.c: 460: else if(rowNo==4){
+[e $ ! == _rowNo -> 4 `i 351  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 461: RC4 = 1;
+"461
+[e = _RC4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 462: _delay(1);
+"462
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 463: if(RD6==1){
+"463
+[e $ ! == -> _RD6 `i -> 1 `i 352  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 464: return 1;
+"464
+[e ) -> 1 `i ]
+[e $UE 332  ]
+"465
+}
+[e :U 352 ]
+[; ;Automated Solar Panel Orientation Setter.c: 465: }
+[; ;Automated Solar Panel Orientation Setter.c: 466: RD5 = 1;
+"466
+[e = _RD5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 467: _delay(1);
+"467
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 468: if(RD6==1){
+"468
+[e $ ! == -> _RD6 `i -> 1 `i 353  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 469: return 2;
+"469
+[e ) -> 2 `i ]
+[e $UE 332  ]
+"470
+}
+[e :U 353 ]
+[; ;Automated Solar Panel Orientation Setter.c: 470: }
+[; ;Automated Solar Panel Orientation Setter.c: 471: RC5 = 1;
+"471
+[e = _RC5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 472: _delay(1);
+"472
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 473: if(RD6==1){
+"473
+[e $ ! == -> _RD6 `i -> 1 `i 354  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 474: return 3;
+"474
+[e ) -> 3 `i ]
+[e $UE 332  ]
+"475
+}
+[e :U 354 ]
+[; ;Automated Solar Panel Orientation Setter.c: 475: }
+[; ;Automated Solar Panel Orientation Setter.c: 476: RD4 = 1;
+"476
+[e = _RD4 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 477: _delay(1);
+"477
+[e ( __delay (1 -> -> -> 1 `i `l `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 478: if(RD6==1){
+"478
+[e $ ! == -> _RD6 `i -> 1 `i 355  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 479: return 4;
+"479
+[e ) -> 4 `i ]
+[e $UE 332  ]
+"480
+}
+[e :U 355 ]
+"481
+}
+[e :U 351 ]
+"482
+[e :U 350 ]
+[e :U 344 ]
+[e :U 338 ]
+[; ;Automated Solar Panel Orientation Setter.c: 480: }
+[; ;Automated Solar Panel Orientation Setter.c: 481: }
+[; ;Automated Solar Panel Orientation Setter.c: 482: return 0;
+[e ) -> 0 `i ]
+[e $UE 332  ]
+[; ;Automated Solar Panel Orientation Setter.c: 483: }
+"483
+[e :UE 332 ]
+}
+"485
+[v _RowNo `(i ~T0 @X0 1 ef ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 485: int RowNo(){
+[e :U _RowNo ]
+[f ]
+"486
+[v _row `i ~T0 @X0 1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 486: int row;
+[; ;Automated Solar Panel Orientation Setter.c: 487: if( RD2!=1){
+"487
+[e $ ! != -> _RD2 `i -> 1 `i 357  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 488: row = 1;
+"488
+[e = _row -> 1 `i ]
+"489
+}
+[; ;Automated Solar Panel Orientation Setter.c: 489: }
+[e $U 358  ]
+"490
+[e :U 357 ]
+[; ;Automated Solar Panel Orientation Setter.c: 490: else if( RD7!=1 ){
+[e $ ! != -> _RD7 `i -> 1 `i 359  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 491: row = 2;
+"491
+[e = _row -> 2 `i ]
+"492
+}
+[; ;Automated Solar Panel Orientation Setter.c: 492: }
+[e $U 360  ]
+"493
+[e :U 359 ]
+[; ;Automated Solar Panel Orientation Setter.c: 493: else if( RD3!=1 ){
+[e $ ! != -> _RD3 `i -> 1 `i 361  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 494: row = 3;
+"494
+[e = _row -> 3 `i ]
+"495
+}
+[; ;Automated Solar Panel Orientation Setter.c: 495: }
+[e $U 362  ]
+"496
+[e :U 361 ]
+[; ;Automated Solar Panel Orientation Setter.c: 496: else if( RD6!=1 ){
+[e $ ! != -> _RD6 `i -> 1 `i 363  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 497: row = 4;
+"497
+[e = _row -> 4 `i ]
+"498
+}
+[; ;Automated Solar Panel Orientation Setter.c: 498: }
+[e $U 364  ]
+"499
+[e :U 363 ]
+[; ;Automated Solar Panel Orientation Setter.c: 499: else{
+{
+[; ;Automated Solar Panel Orientation Setter.c: 500: row = 0;
+"500
+[e = _row -> 0 `i ]
+"501
+}
+[e :U 364 ]
+[e :U 362 ]
+[e :U 360 ]
+[e :U 358 ]
+[; ;Automated Solar Panel Orientation Setter.c: 501: }
+[; ;Automated Solar Panel Orientation Setter.c: 502: return row;
+"502
+[e ) _row ]
+[e $UE 356  ]
+[; ;Automated Solar Panel Orientation Setter.c: 503: }
+"503
+[e :UE 356 ]
+}
+"505
+[v _Rotation `(v ~T0 @X0 1 ef2`i`uc ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 505: void Rotation(int rotationCount, char direction){
+[e :U _Rotation ]
+[v _rotationCount `i ~T0 @X0 1 r1 ]
+[v _direction `uc ~T0 @X0 1 r2 ]
+[f ]
+[; ;Automated Solar Panel Orientation Setter.c: 506: if(direction == 1){
+"506
+[e $ ! == -> _direction `i -> 1 `i 366  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 508: RotateMotorLeft(rotationCount);
+"508
+[e ( _RotateMotorLeft (1 _rotationCount ]
+"509
+}
+[; ;Automated Solar Panel Orientation Setter.c: 509: }
+[e $U 367  ]
+"511
+[e :U 366 ]
+[; ;Automated Solar Panel Orientation Setter.c: 511: else{
+{
+[; ;Automated Solar Panel Orientation Setter.c: 512: RotateMotorRight(rotationCount);
+"512
+[e ( _RotateMotorRight (1 _rotationCount ]
+"513
+}
+[e :U 367 ]
+[; ;Automated Solar Panel Orientation Setter.c: 513: }
+[; ;Automated Solar Panel Orientation Setter.c: 514: }
+"514
+[e :UE 365 ]
+}
+"516
+[v _RotateMotorLeft `(v ~T0 @X0 1 ef1`i ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 516: void RotateMotorLeft(int value){
+[e :U _RotateMotorLeft ]
+[v _value `i ~T0 @X0 1 r1 ]
+[f ]
+[v _i `i ~T0 @X0 1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 518: int i=0;
+"518
+[e = _i -> 0 `i ]
+[; ;Automated Solar Panel Orientation Setter.c: 519: for(i=0; i<value; i++){
+"519
+{
+[e = _i -> 0 `i ]
+[e $U 372  ]
+[e :U 369 ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 520: RB2=0; RB3=1; RB4=1; RB5=1;
+"520
+[e = _RB2 -> -> 0 `i `b ]
+[e = _RB3 -> -> 1 `i `b ]
+[e = _RB4 -> -> 1 `i `b ]
+[e = _RB5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 521: _delay((unsigned long)((15)*(4000000/4000.0)));
+"521
+[e ( __delay (1 -> * -> -> 15 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 522: RB2=1; RB3=0; RB4=1; RB5=1;
+"522
+[e = _RB2 -> -> 1 `i `b ]
+[e = _RB3 -> -> 0 `i `b ]
+[e = _RB4 -> -> 1 `i `b ]
+[e = _RB5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 523: _delay((unsigned long)((15)*(4000000/4000.0)));
+"523
+[e ( __delay (1 -> * -> -> 15 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 524: RB2=1; RB3=1; RB4=0; RB5=1;
+"524
+[e = _RB2 -> -> 1 `i `b ]
+[e = _RB3 -> -> 1 `i `b ]
+[e = _RB4 -> -> 0 `i `b ]
+[e = _RB5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 525: _delay((unsigned long)((15)*(4000000/4000.0)));
+"525
+[e ( __delay (1 -> * -> -> 15 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 526: RB2=1; RB3=1; RB4=1; RB5=0;
+"526
+[e = _RB2 -> -> 1 `i `b ]
+[e = _RB3 -> -> 1 `i `b ]
+[e = _RB4 -> -> 1 `i `b ]
+[e = _RB5 -> -> 0 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 527: _delay((unsigned long)((15)*(4000000/4000.0)));
+"527
+[e ( __delay (1 -> * -> -> 15 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+"528
+}
+"519
+[e ++ _i -> 1 `i ]
+[e :U 372 ]
+[e $ < _i _value 369  ]
+[e :U 370 ]
+"528
+}
+[; ;Automated Solar Panel Orientation Setter.c: 528: }
+[; ;Automated Solar Panel Orientation Setter.c: 529: RB2=1; RB3=1; RB4=1; RB5=1;
+"529
+[e = _RB2 -> -> 1 `i `b ]
+[e = _RB3 -> -> 1 `i `b ]
+[e = _RB4 -> -> 1 `i `b ]
+[e = _RB5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 531: }
+"531
+[e :UE 368 ]
+}
+"533
+[v _RotateMotorRight `(v ~T0 @X0 1 ef1`i ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 533: void RotateMotorRight(int value){
+[e :U _RotateMotorRight ]
+[v _value `i ~T0 @X0 1 r1 ]
+[f ]
+[v _i `i ~T0 @X0 1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 535: int i=0;
+"535
+[e = _i -> 0 `i ]
+[; ;Automated Solar Panel Orientation Setter.c: 536: for(i=0; i<value; i++){
+"536
+{
+[e = _i -> 0 `i ]
+[e $U 377  ]
+[e :U 374 ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 537: RB2=1; RB3=1; RB4=1; RB5=0;
+"537
+[e = _RB2 -> -> 1 `i `b ]
+[e = _RB3 -> -> 1 `i `b ]
+[e = _RB4 -> -> 1 `i `b ]
+[e = _RB5 -> -> 0 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 538: _delay((unsigned long)((15)*(4000000/4000.0)));
+"538
+[e ( __delay (1 -> * -> -> 15 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 539: RB2=1; RB3=1; RB4=0; RB5=1;
+"539
+[e = _RB2 -> -> 1 `i `b ]
+[e = _RB3 -> -> 1 `i `b ]
+[e = _RB4 -> -> 0 `i `b ]
+[e = _RB5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 540: _delay((unsigned long)((15)*(4000000/4000.0)));
+"540
+[e ( __delay (1 -> * -> -> 15 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 541: RB2=1; RB3=0; RB4=1; RB5=1;
+"541
+[e = _RB2 -> -> 1 `i `b ]
+[e = _RB3 -> -> 0 `i `b ]
+[e = _RB4 -> -> 1 `i `b ]
+[e = _RB5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 542: _delay((unsigned long)((15)*(4000000/4000.0)));
+"542
+[e ( __delay (1 -> * -> -> 15 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 543: RB2=0; RB3=1; RB4=1; RB5=1;
+"543
+[e = _RB2 -> -> 0 `i `b ]
+[e = _RB3 -> -> 1 `i `b ]
+[e = _RB4 -> -> 1 `i `b ]
+[e = _RB5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 544: _delay((unsigned long)((15)*(4000000/4000.0)));
+"544
+[e ( __delay (1 -> * -> -> 15 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+"545
+}
+"536
+[e ++ _i -> 1 `i ]
+[e :U 377 ]
+[e $ < _i _value 374  ]
+[e :U 375 ]
+"545
+}
+[; ;Automated Solar Panel Orientation Setter.c: 545: }
+[; ;Automated Solar Panel Orientation Setter.c: 546: RB2=1; RB3=1; RB4=1; RB5=1;
+"546
+[e = _RB2 -> -> 1 `i `b ]
+[e = _RB3 -> -> 1 `i `b ]
+[e = _RB4 -> -> 1 `i `b ]
+[e = _RB5 -> -> 1 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 547: }
+"547
+[e :UE 373 ]
+}
+"549
+[v _a2d_read `(v ~T0 @X0 1 ef ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 549: void a2d_read(){
+[e :U _a2d_read ]
+[f ]
+[; ;Automated Solar Panel Orientation Setter.c: 550: ldr1 = read_a2d_value(0);
+"550
+[e = _ldr1 ( _read_a2d_value (1 -> -> 0 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 551: ldr2 = read_a2d_value(1);
+"551
+[e = _ldr2 ( _read_a2d_value (1 -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 552: ldr2 = ldr2 + (int)(ldr2*0.35);
+"552
+[e = _ldr2 + _ldr2 -> -> * -> _ldr2 `d .0.35 `i `ui ]
+[; ;Automated Solar Panel Orientation Setter.c: 553: V_Bat = read_a2d_value(2);
+"553
+[e = _V_Bat ( _read_a2d_value (1 -> -> 2 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 554: V_Bat2 = (int)V_Bat*5*11/1023;
+"554
+[e = _V_Bat2 -> -> / * * -> _V_Bat `i -> 5 `i -> 11 `i -> 1023 `i `m `um ]
+[; ;Automated Solar Panel Orientation Setter.c: 555: C_Bat = read_a2d_value(3);
+"555
+[e = _C_Bat ( _read_a2d_value (1 -> -> 3 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 556: C_Bat2 = (int)C_Bat*5*11/1023;
+"556
+[e = _C_Bat2 -> -> / * * -> _C_Bat `i -> 5 `i -> 11 `i -> 1023 `i `m `um ]
+[; ;Automated Solar Panel Orientation Setter.c: 557: }
+"557
+[e :UE 378 ]
+}
+"559
+[v _Calculate `(v ~T0 @X0 1 ef ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 559: void Calculate(){
+[e :U _Calculate ]
+[f ]
+[; ;Automated Solar Panel Orientation Setter.c: 565: if(ldr1 > ldr2){
+"565
+[e $ ! > _ldr1 _ldr2 380  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 566: if(ldr1 - ldr2 > 25){
+"566
+[e $ ! > - _ldr1 _ldr2 -> -> 25 `i `ui 381  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 567: RotateMotorLeft(1);
+"567
+[e ( _RotateMotorLeft (1 -> 1 `i ]
+"568
+}
+[e :U 381 ]
+"569
+}
+[; ;Automated Solar Panel Orientation Setter.c: 568: }
+[; ;Automated Solar Panel Orientation Setter.c: 569: }
+[e $U 382  ]
+"570
+[e :U 380 ]
+[; ;Automated Solar Panel Orientation Setter.c: 570: else if (ldr2 > ldr1){
+[e $ ! > _ldr2 _ldr1 383  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 571: if(ldr2 - ldr1 > 25){
+"571
+[e $ ! > - _ldr2 _ldr1 -> -> 25 `i `ui 384  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 572: RotateMotorRight(1);
+"572
+[e ( _RotateMotorRight (1 -> 1 `i ]
+"573
+}
+[e :U 384 ]
+"574
+}
+[e :U 383 ]
+"575
+[e :U 382 ]
+[; ;Automated Solar Panel Orientation Setter.c: 573: }
+[; ;Automated Solar Panel Orientation Setter.c: 574: }
+[; ;Automated Solar Panel Orientation Setter.c: 575: }
+[e :UE 379 ]
+}
+[v F1231 `(v ~T0 @X0 1 tf ]
+"578
+[v _isr `IF1231 ~T0 @X0 1 e ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 578: void interrupt isr(){
+[e :U _isr ]
+[f ]
+[; ;Automated Solar Panel Orientation Setter.c: 579: if(TMR1IF==1){
+"579
+[e $ ! == -> _TMR1IF `i -> 1 `i 386  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 580: msecond ++;
+"580
+[e ++ _msecond -> -> 1 `i `ui ]
+[; ;Automated Solar Panel Orientation Setter.c: 581: if(msecond == 50){
+"581
+[e $ ! == _msecond -> -> 50 `i `ui 387  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 582: second ++;
+"582
+[e ++ _second -> -> 1 `i `ui ]
+[; ;Automated Solar Panel Orientation Setter.c: 585: if(BlinkDet) LCD_print_char(1,14,':');
+"585
+[e $ ! _BlinkDet 388  ]
+[e ( _LCD_print_char (3 , , -> 1 `i -> 14 `i -> -> 58 `ui `uc ]
+[e $U 389  ]
+"586
+[e :U 388 ]
+[; ;Automated Solar Panel Orientation Setter.c: 586: else LCD_print_char(1,14,' ');
+[e ( _LCD_print_char (3 , , -> 1 `i -> 14 `i -> -> 32 `ui `uc ]
+[e :U 389 ]
+[; ;Automated Solar Panel Orientation Setter.c: 587: BlinkDet = !BlinkDet;
+"587
+[e = _BlinkDet ! _BlinkDet ]
+[; ;Automated Solar Panel Orientation Setter.c: 589: RD6 = !RD6;
+"589
+[e = _RD6 ! _RD6 ]
+[; ;Automated Solar Panel Orientation Setter.c: 590: msecond = 0;
+"590
+[e = _msecond -> -> 0 `i `ui ]
+[; ;Automated Solar Panel Orientation Setter.c: 591: if( second == 60){
+"591
+[e $ ! == _second -> -> 60 `i `ui 390  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 592: LCDTimeUpdate();
+"592
+[e ( _LCDTimeUpdate ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 598: minute ++;
+"598
+[e ++ _minute -> -> 1 `i `ui ]
+[; ;Automated Solar Panel Orientation Setter.c: 599: second = 0;
+"599
+[e = _second -> -> 0 `i `ui ]
+[; ;Automated Solar Panel Orientation Setter.c: 601: x = minute%30 ;
+"601
+[e = _x -> % _minute -> -> 30 `i `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 602: if ( x == 0){
+"602
+[e $ ! == -> _x `i -> 0 `i 391  ]
+{
+"605
+}
+[e :U 391 ]
+[; ;Automated Solar Panel Orientation Setter.c: 605: }
+[; ;Automated Solar Panel Orientation Setter.c: 608: if( minute == 60){
+"608
+[e $ ! == _minute -> -> 60 `i `ui 392  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 609: minute = 0;
+"609
+[e = _minute -> -> 0 `i `ui ]
+[; ;Automated Solar Panel Orientation Setter.c: 610: hour ++;
+"610
+[e ++ _hour -> -> 1 `i `ui ]
+[; ;Automated Solar Panel Orientation Setter.c: 611: if( hour == 24) hour == 0;
+"611
+[e $ ! == _hour -> -> 24 `i `ui 393  ]
+[e == _hour -> -> 0 `i `ui ]
+[e :U 393 ]
+"612
+}
+[e :U 392 ]
+"613
+}
+[e :U 390 ]
+"614
+}
+[e :U 387 ]
+[; ;Automated Solar Panel Orientation Setter.c: 612: }
+[; ;Automated Solar Panel Orientation Setter.c: 613: }
+[; ;Automated Solar Panel Orientation Setter.c: 614: }
+[; ;Automated Solar Panel Orientation Setter.c: 615: TMR1IF = 0;
+"615
+[e = _TMR1IF -> -> 0 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 616: TMR1L = 0xB0;
+"616
+[e = _TMR1L -> -> 176 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 617: TMR1H = 0x3C;
+"617
+[e = _TMR1H -> -> 60 `i `uc ]
+"618
+}
+[e :U 386 ]
+[; ;Automated Solar Panel Orientation Setter.c: 618: }
+[; ;Automated Solar Panel Orientation Setter.c: 619: if( RCIF == 1){
+"619
+[e $ ! == -> _RCIF `i -> 1 `i 394  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 620: if ((FERR == 0) && (OERR == 0))
+"620
+[e $ ! && == -> _FERR `i -> 0 `i == -> _OERR `i -> 0 `i 395  ]
+[; ;Automated Solar Panel Orientation Setter.c: 621: {
+"621
+{
+[; ;Automated Solar Panel Orientation Setter.c: 622: wtmp = RCREG;
+"622
+[e = _wtmp _RCREG ]
+[; ;Automated Solar Panel Orientation Setter.c: 623: if( RCREG=='*' || j > 20-1 ){
+"623
+[e $ ! || == -> _RCREG `ui -> 42 `ui > -> _j `i - -> 20 `i -> 1 `i 396  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 624: j=0;
+"624
+[e = _j -> -> 0 `i `uc ]
+"625
+}
+[e :U 396 ]
+[; ;Automated Solar Panel Orientation Setter.c: 625: }
+[; ;Automated Solar Panel Orientation Setter.c: 626: buffer[j] = RCREG;
+"626
+[e = *U + &U _buffer * -> _j `ux -> -> # *U &U _buffer `ui `ux _RCREG ]
+[; ;Automated Solar Panel Orientation Setter.c: 627: j ++;
+"627
+[e ++ _j -> -> 1 `i `uc ]
+"628
+}
+[; ;Automated Solar Panel Orientation Setter.c: 628: }
+[e $U 397  ]
+"629
+[e :U 395 ]
+[; ;Automated Solar Panel Orientation Setter.c: 629: else
+[; ;Automated Solar Panel Orientation Setter.c: 630: {
+"630
+{
+[; ;Automated Solar Panel Orientation Setter.c: 631: CREN = 0;
+"631
+[e = _CREN -> -> 0 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 632: FERR = 0;
+"632
+[e = _FERR -> -> 0 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 633: wtmp = RCREG;
+"633
+[e = _wtmp _RCREG ]
+[; ;Automated Solar Panel Orientation Setter.c: 634: wtmp = RCREG;
+"634
+[e = _wtmp _RCREG ]
+[; ;Automated Solar Panel Orientation Setter.c: 635: CREN = 1;
+"635
+[e = _CREN -> -> 1 `i `b ]
+"636
+}
+[e :U 397 ]
+[; ;Automated Solar Panel Orientation Setter.c: 636: }
+[; ;Automated Solar Panel Orientation Setter.c: 637: RCIF = 0;
+"637
+[e = _RCIF -> -> 0 `i `b ]
+"638
+}
+[e :U 394 ]
+[; ;Automated Solar Panel Orientation Setter.c: 638: }
+[; ;Automated Solar Panel Orientation Setter.c: 639: if(OERR == 1)
+"639
+[e $ ! == -> _OERR `i -> 1 `i 398  ]
+[; ;Automated Solar Panel Orientation Setter.c: 640: {
+"640
+{
+[; ;Automated Solar Panel Orientation Setter.c: 641: CREN = 0;
+"641
+[e = _CREN -> -> 0 `i `b ]
+[; ;Automated Solar Panel Orientation Setter.c: 643: wtmp = RCREG;
+"643
+[e = _wtmp _RCREG ]
+[; ;Automated Solar Panel Orientation Setter.c: 644: wtmp = RCREG;
+"644
+[e = _wtmp _RCREG ]
+[; ;Automated Solar Panel Orientation Setter.c: 645: CREN = 1;
+"645
+[e = _CREN -> -> 1 `i `b ]
+"646
+}
+[e :U 398 ]
+[; ;Automated Solar Panel Orientation Setter.c: 646: }
+[; ;Automated Solar Panel Orientation Setter.c: 648: }
+"648
+[e :UE 385 ]
+}
+"650
+[v _check_pc `(v ~T0 @X0 1 ef ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 650: void check_pc(){
+[e :U _check_pc ]
+[f ]
+[; ;Automated Solar Panel Orientation Setter.c: 651: if(
+[; ;Automated Solar Panel Orientation Setter.c: 652: buffer[0] == '*' &&
+[; ;Automated Solar Panel Orientation Setter.c: 653: buffer[1] == '#' &&
+[; ;Automated Solar Panel Orientation Setter.c: 654: buffer[2] == 'D' &&
+[; ;Automated Solar Panel Orientation Setter.c: 655: buffer[3] == 'R' &&
+[; ;Automated Solar Panel Orientation Setter.c: 656: buffer[4] == 'E' &&
+[; ;Automated Solar Panel Orientation Setter.c: 657: buffer[5] == 'Q' &&
+[; ;Automated Solar Panel Orientation Setter.c: 658: buffer[6] == '?'
+[; ;Automated Solar Panel Orientation Setter.c: 659: ){
+"659
+[e $ ! && && && && && && == -> *U + &U _buffer * -> -> -> 0 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 42 `ui == -> *U + &U _buffer * -> -> -> 1 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 35 `ui == -> *U + &U _buffer * -> -> -> 2 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 68 `ui == -> *U + &U _buffer * -> -> -> 3 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 82 `ui == -> *U + &U _buffer * -> -> -> 4 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 69 `ui == -> *U + &U _buffer * -> -> -> 5 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 81 `ui == -> *U + &U _buffer * -> -> -> 6 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 63 `ui 400  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 660: state = 1;
+"660
+[e = _state -> -> 1 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 661: ClrBuffer();
+"661
+[e ( _ClrBuffer ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 662: nop();
+"662
+[e ( _nop ..  ]
+"663
+}
+[; ;Automated Solar Panel Orientation Setter.c: 663: }
+[e $U 401  ]
+"664
+[e :U 400 ]
+[; ;Automated Solar Panel Orientation Setter.c: 664: else if(
+[; ;Automated Solar Panel Orientation Setter.c: 665: buffer[0] == '*' &&
+[; ;Automated Solar Panel Orientation Setter.c: 666: buffer[1] == '#' &&
+[; ;Automated Solar Panel Orientation Setter.c: 667: buffer[2] == 'D' &&
+[; ;Automated Solar Panel Orientation Setter.c: 668: buffer[3] == 'R' &&
+[; ;Automated Solar Panel Orientation Setter.c: 669: buffer[4] == 'E' &&
+[; ;Automated Solar Panel Orientation Setter.c: 670: buffer[5] == 'Q' &&
+[; ;Automated Solar Panel Orientation Setter.c: 671: buffer[6] == '=' &&
+[; ;Automated Solar Panel Orientation Setter.c: 672: buffer[7] == '1' &&
+[; ;Automated Solar Panel Orientation Setter.c: 673: buffer[8] == '2' &&
+[; ;Automated Solar Panel Orientation Setter.c: 674: buffer[9] == '4'
+[; ;Automated Solar Panel Orientation Setter.c: 675: ){
+"675
+[e $ ! && && && && && && && && && == -> *U + &U _buffer * -> -> -> 0 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 42 `ui == -> *U + &U _buffer * -> -> -> 1 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 35 `ui == -> *U + &U _buffer * -> -> -> 2 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 68 `ui == -> *U + &U _buffer * -> -> -> 3 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 82 `ui == -> *U + &U _buffer * -> -> -> 4 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 69 `ui == -> *U + &U _buffer * -> -> -> 5 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 81 `ui == -> *U + &U _buffer * -> -> -> 6 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 61 `ui == -> *U + &U _buffer * -> -> -> 7 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 49 `ui == -> *U + &U _buffer * -> -> -> 8 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 50 `ui == -> *U + &U _buffer * -> -> -> 9 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 52 `ui 402  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 676: state = 2;
+"676
+[e = _state -> -> 2 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 677: ClrBuffer();
+"677
+[e ( _ClrBuffer ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 678: nop();
+"678
+[e ( _nop ..  ]
+"679
+}
+[; ;Automated Solar Panel Orientation Setter.c: 679: }
+[e $U 403  ]
+"680
+[e :U 402 ]
+[; ;Automated Solar Panel Orientation Setter.c: 680: else if(
+[; ;Automated Solar Panel Orientation Setter.c: 681: buffer[0] == '*' &&
+[; ;Automated Solar Panel Orientation Setter.c: 682: buffer[1] == '#' &&
+[; ;Automated Solar Panel Orientation Setter.c: 683: buffer[2] == 'B' &&
+[; ;Automated Solar Panel Orientation Setter.c: 684: buffer[3] == 'R' &&
+[; ;Automated Solar Panel Orientation Setter.c: 685: buffer[4] == 'E' &&
+[; ;Automated Solar Panel Orientation Setter.c: 686: buffer[5] == 'Q' &&
+[; ;Automated Solar Panel Orientation Setter.c: 687: buffer[6] == '=' &&
+[; ;Automated Solar Panel Orientation Setter.c: 688: buffer[7] == '1' &&
+[; ;Automated Solar Panel Orientation Setter.c: 689: buffer[8] == '2' &&
+[; ;Automated Solar Panel Orientation Setter.c: 690: buffer[9] == '4'
+[; ;Automated Solar Panel Orientation Setter.c: 691: ){
+"691
+[e $ ! && && && && && && && && && == -> *U + &U _buffer * -> -> -> 0 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 42 `ui == -> *U + &U _buffer * -> -> -> 1 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 35 `ui == -> *U + &U _buffer * -> -> -> 2 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 66 `ui == -> *U + &U _buffer * -> -> -> 3 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 82 `ui == -> *U + &U _buffer * -> -> -> 4 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 69 `ui == -> *U + &U _buffer * -> -> -> 5 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 81 `ui == -> *U + &U _buffer * -> -> -> 6 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 61 `ui == -> *U + &U _buffer * -> -> -> 7 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 49 `ui == -> *U + &U _buffer * -> -> -> 8 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 50 `ui == -> *U + &U _buffer * -> -> -> 9 `i `ui `ux -> -> # *U &U _buffer `ui `ux `ui -> 52 `ui 404  ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 692: state = 3;
+"692
+[e = _state -> -> 3 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 693: ClrBuffer();
+"693
+[e ( _ClrBuffer ..  ]
+[; ;Automated Solar Panel Orientation Setter.c: 694: nop();
+"694
+[e ( _nop ..  ]
+"695
+}
+[; ;Automated Solar Panel Orientation Setter.c: 695: }
+[e $U 405  ]
+"696
+[e :U 404 ]
+[; ;Automated Solar Panel Orientation Setter.c: 696: else {
+{
+[; ;Automated Solar Panel Orientation Setter.c: 697: state = 0;
+"697
+[e = _state -> -> 0 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 698: nop();
+"698
+[e ( _nop ..  ]
+"699
+}
+[e :U 405 ]
+[e :U 403 ]
+[e :U 401 ]
+[; ;Automated Solar Panel Orientation Setter.c: 699: }
+[; ;Automated Solar Panel Orientation Setter.c: 700: }
+"700
+[e :UE 399 ]
+}
+"702
+[v _bdnu_unid `(v ~T0 @X0 1 ef ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 702: void bdnu_unid(){
+[e :U _bdnu_unid ]
+[f ]
+[; ;Automated Solar Panel Orientation Setter.c: 703: z = 3;
+"703
+[e = _z -> -> 3 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 704: w = 4;
+"704
+[e = _w -> -> 4 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 705: v = 2;
+"705
+[e = _v -> -> 2 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 706: y = 6;
+"706
+[e = _y -> -> 6 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 707: while(!TXIF);
+"707
+[e $U 407  ]
+[e :U 408 ]
+[e :U 407 ]
+[e $ ! _TXIF 408  ]
+[e :U 409 ]
+[; ;Automated Solar Panel Orientation Setter.c: 708: TXREG = (z+48);
+"708
+[e = _TXREG -> + -> _z `i -> 48 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 709: _delay((unsigned long)((1)*(4000000/4000.0)));
+"709
+[e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 710: while(!TXIF);
+"710
+[e $U 410  ]
+[e :U 411 ]
+[e :U 410 ]
+[e $ ! _TXIF 411  ]
+[e :U 412 ]
+[; ;Automated Solar Panel Orientation Setter.c: 711: TXREG = (w+48);
+"711
+[e = _TXREG -> + -> _w `i -> 48 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 712: _delay((unsigned long)((1)*(4000000/4000.0)));
+"712
+[e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 713: while(!TXIF);
+"713
+[e $U 413  ]
+[e :U 414 ]
+[e :U 413 ]
+[e $ ! _TXIF 414  ]
+[e :U 415 ]
+[; ;Automated Solar Panel Orientation Setter.c: 714: TXREG = 13;
+"714
+[e = _TXREG -> -> 13 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 715: _delay((unsigned long)((1)*(4000000/4000.0)));
+"715
+[e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 716: while(!TXIF);
+"716
+[e $U 416  ]
+[e :U 417 ]
+[e :U 416 ]
+[e $ ! _TXIF 417  ]
+[e :U 418 ]
+[; ;Automated Solar Panel Orientation Setter.c: 717: TXREG = (v+48);
+"717
+[e = _TXREG -> + -> _v `i -> 48 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 718: _delay((unsigned long)((1)*(4000000/4000.0)));
+"718
+[e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 719: while(!TXIF);
+"719
+[e $U 419  ]
+[e :U 420 ]
+[e :U 419 ]
+[e $ ! _TXIF 420  ]
+[e :U 421 ]
+[; ;Automated Solar Panel Orientation Setter.c: 720: TXREG = (y+48);
+"720
+[e = _TXREG -> + -> _y `i -> 48 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 721: _delay((unsigned long)((1)*(4000000/4000.0)));
+"721
+[e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 722: while(!TXIF);
+"722
+[e $U 422  ]
+[e :U 423 ]
+[e :U 422 ]
+[e $ ! _TXIF 423  ]
+[e :U 424 ]
+[; ;Automated Solar Panel Orientation Setter.c: 723: TXREG = 13;
+"723
+[e = _TXREG -> -> 13 `i `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 724: _delay((unsigned long)((1)*(4000000/4000.0)));
+"724
+[e ( __delay (1 -> * -> -> 1 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[; ;Automated Solar Panel Orientation Setter.c: 725: }
+"725
+[e :UE 406 ]
+}
+"727
+[v _ClrBuffer `(v ~T0 @X0 1 ef ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 727: void ClrBuffer(){
+[e :U _ClrBuffer ]
+[f ]
+[v _i `i ~T0 @X0 1 a ]
+[; ;Automated Solar Panel Orientation Setter.c: 728: int i;
+[; ;Automated Solar Panel Orientation Setter.c: 729: for(i=0; i<20; i++){
+"729
+{
+[e = _i -> 0 `i ]
+[e $ < _i -> 20 `i 426  ]
+[e $U 427  ]
+[e :U 426 ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 730: buffer[i] = 0;
+"730
+[e = *U + &U _buffer * -> -> _i `ui `ux -> -> # *U &U _buffer `ui `ux -> -> 0 `i `uc ]
+"731
+}
+"729
+[e ++ _i -> 1 `i ]
+[e $ < _i -> 20 `i 426  ]
+[e :U 427 ]
+"731
+}
+[; ;Automated Solar Panel Orientation Setter.c: 731: }
+[; ;Automated Solar Panel Orientation Setter.c: 732: }
+"732
+[e :UE 425 ]
+}
+"734
+[v _LCDTimeUpdate `(v ~T0 @X0 1 ef ]
+{
+[; ;Automated Solar Panel Orientation Setter.c: 734: void LCDTimeUpdate(){
+[e :U _LCDTimeUpdate ]
+[f ]
+[; ;Automated Solar Panel Orientation Setter.c: 735: LCD_print_char(1,12,hour/10+48);
+"735
+[e ( _LCD_print_char (3 , , -> 1 `i -> 12 `i -> + / _hour -> -> 10 `i `ui -> -> 48 `i `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 736: LCD_print_char(1,13,hour%10+48);
+"736
+[e ( _LCD_print_char (3 , , -> 1 `i -> 13 `i -> + % _hour -> -> 10 `i `ui -> -> 48 `i `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 737: LCD_print_char(1,15,minute/10+48);
+"737
+[e ( _LCD_print_char (3 , , -> 1 `i -> 15 `i -> + / _minute -> -> 10 `i `ui -> -> 48 `i `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 738: LCD_print_char(1,16,minute%10+48);
+"738
+[e ( _LCD_print_char (3 , , -> 1 `i -> 16 `i -> + % _minute -> -> 10 `i `ui -> -> 48 `i `ui `uc ]
+[; ;Automated Solar Panel Orientation Setter.c: 739: }
+"739
+[e :UE 429 ]
+}
+[p f _printf 15435181 ]
+[a 1C 66 111 100 121 32 84 101 109 112 101 114 97 116 117 114 101 32 0 ]
+[a 13C 83 119 105 116 99 104 101 100 32 116 111 32 77 111 100 101 32 58 32 0 ]
+[a 9C 44 32 0 ]
+[a 10C 44 32 0 ]
+[a 11C 44 32 0 ]
+[a 12C 44 32 0 ]
+[a 2C 32 97 110 100 32 72 101 97 114 116 32 82 97 116 101 32 32 0 ]
+[a 7C 72 58 32 32 54 50 80 80 77 32 76 111 119 32 32 32 0 ]
+[a 8C 84 58 32 32 56 52 70 32 32 32 76 111 119 32 32 32 0 ]
+[a 3C 32 32 32 32 77 111 110 105 116 111 114 105 110 103 32 32 32 0 ]
+[a 6C 32 32 32 32 80 97 116 105 101 110 116 115 32 32 32 32 0 ]
+[a 4C 32 32 32 32 32 32 83 121 115 116 101 109 32 32 32 32 32 0 ]
+[a 5C 32 32 32 32 32 32 32 102 111 114 32 32 32 32 32 32 0 ]
